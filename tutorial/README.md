@@ -17,7 +17,7 @@ __Σε περίπτωση που συμβεί κάτι τέτοιο είστε �
 
 ## Δημιουργία λογαριασμού στο Github
 
-Αφού δημιουργήσετε λογαριασμό (sign up) στο [http://www.github.com](http://www.github.com) συμπληρώνετε τα απαραίτητα στοιχεία, username κλπ που ζητούνται κατά την εγκατάσταση του  Github Desktop.
+Αφού δημιουργήσετε λογαριασμό (sign up) στο [http://www.github.com](http://www.github.com) συμπληρώνετε τα απαραίτητα στοιχεία, username κλπ που ζητούνται κατά την εγκατάσταση του Windows Github.
 
 ![ScreenShot](3.jpg)
 
