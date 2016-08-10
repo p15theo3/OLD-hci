@@ -74,7 +74,7 @@
 
 **Σχετικές σελίδες για την Επικοινωνία Ανθρώπου-Υπολογιστή:**
 
-*https://www.coursera.org/course/hci
-*http://videolectures.net/chi08_kieras_phc/
-*http://videolectures.net/chi08_jacob_csh/
-*http://hci.stanford.edu/courses/cs547/
+* https://www.coursera.org/course/hci
+* http://videolectures.net/chi08_kieras_phc/
+* http://videolectures.net/chi08_jacob_csh/
+* http://hci.stanford.edu/courses/cs547/
