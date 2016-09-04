@@ -21,7 +21,6 @@
 * [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Geographic System](https://www.mapito.org/home)
-* [Exercise motivation](https://github.com/andrid/Run2gether)
 * [App inventor Apps](https://docs.google.com/document/d/19P9Zaz6sMRPNqUH361c-KWTptg91Y6uIiJNWuZVL3rI/edit?usp=sharing)
 * [Mod για Minecraft ή Minetest](https://docs.google.com/document/d/1RNii-Z0yPsyKrUhf2thV_VgTNpqFP-zDAc1fCgcWDQI/edit?usp=sharing)
 * [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
