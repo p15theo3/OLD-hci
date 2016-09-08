@@ -18,12 +18,10 @@
 Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα και τους βοηθούς του μαθήματος. 
 
 * [Εκπαιδευτικό βιντεο-παιχνίδι](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing)
-* [Video analytics](http://www.socialskip.org) 
-* [Twitter visualization](http://www.flutrack.org)
-* [Geographic System](https://www.mapito.org/home)
 * [App inventor Apps](https://docs.google.com/document/d/19P9Zaz6sMRPNqUH361c-KWTptg91Y6uIiJNWuZVL3rI/edit?usp=sharing)
+* Interactive system maintenance and updates: [Video analytics](http://www.socialskip.org), [Twitter visualization](http://www.flutrack.org), [Geographic System](https://www.mapito.org/home)
 * [Mod για Minecraft ή Minetest](https://docs.google.com/document/d/1RNii-Z0yPsyKrUhf2thV_VgTNpqFP-zDAc1fCgcWDQI/edit?usp=sharing)
-* [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
+* Interactive applications: [video games](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv) and [news] (https://insidestory.gr/article/newsgames?token=306B235VC4), [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html), [Virtual Reality Application](https://developers.google.com/vr/), [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
