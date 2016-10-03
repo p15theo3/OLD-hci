@@ -25,7 +25,7 @@ Mobile Game Development
 
 *με χρήση της βιβλιοθήκης Libdgx*
 
-![logo image](infoBackground.png)
+![logo image](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/infoBackground.png)
 
 *Σκεντερίδης Κωνσταντίνος Α.Μ.: Π2014221*
 
@@ -67,15 +67,16 @@ Mobile Game Development
 
 **5.**Εαν ο παίχτης περάσει μέσα απο όλα τα εμπόδια χωρίς να συγκρουστεί, τότε μεταφέρεται στο επόμενο επίπεδο.
 
-![Diagramma leitourgias](test.jpg)
+![Diagramma leitourgias](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/%CE%94%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CE%9B%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CE%B3%CF%81%CE%AF%CE%B1%CF%82.jpg)
 
-![peristrofh suskeuhs](Peristrofi.jpg)
+
+![peristrofh suskeuhs](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/%CE%A0%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CE%A3%CF%85%CF%83%CE%BA%CE%B5%CF%85%CE%AE%CF%82.jpg)
 
 **Ενδεικτικές Οθόνες **
 
-![gameplay 1](GamePlay1_HelicopterPilot.jpg)
+![gameplay 1](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/GamePlay1_HelicopterPilot.jpg)
 
-![gameplay 2](GamePlay2_HelicopterPilot.jpg)
+![gameplay 2](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/GamePlay2_HelicopterPilot.jpg)
 
 
 **Διαδικασία ανάπτυξης**
