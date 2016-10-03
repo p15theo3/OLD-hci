@@ -69,7 +69,7 @@ Mobile Game Development
 
 ![Diagramma leitourgias](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/Diagramma.jpg)
 
-![peristrofh suskeuhs](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/%CE%A0%CE%B5%CF%81%CE%B9%CF%83%CF%84%CF%81%CE%BF%CF%86%CE%AE%CE%A3%CF%85%CF%83%CE%BA%CE%B5%CF%85%CE%AE%CF%82.jpg)
+![peristrofh suskeuhs](Peristrofi.jpg)
 
 **Ενδεικτικές Οθόνες **
 
