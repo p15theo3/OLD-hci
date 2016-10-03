@@ -67,7 +67,7 @@ Mobile Game Development
 
 **5.**Εαν ο παίχτης περάσει μέσα απο όλα τα εμπόδια χωρίς να συγκρουστεί, τότε μεταφέρεται στο επόμενο επίπεδο.
 
-![Diagramma leitourgias](https://github.com/courses-ionio/cscw/blob/master/projects_2016/%CE%A02014221/images/%CE%94%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CE%9B%CE%B5%CE%B9%CF%81%CE%BF%CF%85%CE%B3%CF%81%CE%AF%CE%B1%CF%82.jpg)
+![Diagramma leitourgias](Diagramma_Leitourgias1.jpg)
 
 ![peristrofh suskeuhs](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/Peristrofi_Syskeyhs.jpg)
 
@@ -75,7 +75,7 @@ Mobile Game Development
 
 ![gameplay 1](GamePlay1_HelicopterPilot.jpg)
 
-![gameplay 2](GamePlay2_HelicopterPilot.jpg)
+![gameplay 2](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/GamePlay2_HelicopterPilot.jpg)
 
 
 **Διαδικασία ανάπτυξης**
