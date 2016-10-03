@@ -67,7 +67,7 @@ Mobile Game Development
 
 **5.**Εαν ο παίχτης περάσει μέσα απο όλα τα εμπόδια χωρίς να συγκρουστεί, τότε μεταφέρεται στο επόμενο επίπεδο.
 
-![Diagramma leitourgias](Diagramma_Leitourgias.jpg)
+![Diagramma leitourgias](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/Diagramma_Leitourgias.jpg)
 
 
 ![peristrofh suskeuhs](Peristrofi_Eikonas.jpg)
