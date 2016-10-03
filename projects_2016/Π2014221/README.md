@@ -25,7 +25,7 @@ Mobile Game Development
 
 *με χρήση της βιβλιοθήκης Libdgx*
 
-![logo image](../projects_2016/%CE%A02014221/images/infoBackground.png)
+![logo image](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/images/infoBackground.png)
 
 *Σκεντερίδης Κωνσταντίνος Α.Μ.: Π2014221*
 
