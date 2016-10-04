@@ -69,13 +69,13 @@ Mobile Game Development
 
 ![Diagramma leitourgias](Diagramma_leitourgias1.jpg)
 
-![peristrofh suskeuhs](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/Peristrofi_Syskeyhs.jpg)
+![peristrofh suskeuhs](Peristrofi_Syskeyhs.jpg)
 
 **Ενδεικτικές Οθόνες **
 
 ![gameplay 1](GamePlay1_HelicopterPilot.jpg)
 
-![gameplay 2](https://github.com/courses-ionio/hci/blob/master/projects_2016/%CE%A02014221/GamePlay2_HelicopterPilot.jpg)
+![gameplay 2](GamePlay2_HelicopterPilot.jpg)
 
 
 **Διαδικασία ανάπτυξης**
