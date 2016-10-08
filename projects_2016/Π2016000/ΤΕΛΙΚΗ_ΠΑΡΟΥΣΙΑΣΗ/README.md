@@ -46,7 +46,39 @@ http://www.mathplayground.com/ASB_AlienAddition.html
 
 ![screen1](screen1.jpg)
 
-Οθόνη 1
+Οθόνη 1-Αρχική οθόνη
+
+![screen2](screen2.jpg)
+
+Οθόνη 2-Επιλογή πίστας - πράξης
+
+![screen3](screen3.jpg)
+
+Οθόνη 3-In-game
+
+![screen41](screen41.jpg)
+
+Οθόνη 4.1-Σωστό
+
+![screen42](screen42.jpg)
+
+Οθόνη 4.2-Λάθος
+
+![screen5](screen5.jpg)
+
+Οθόνη 5-Οδηγίες
+
+![screen6](screen6.jpg)
+
+Οθόνη 6- Game Over
+
+![initial](initial.jpg)
+
+Αρχική αφήγηση
+
+![final](final.jpg)
+
+Αφήγηση - Σενάριο ολοκλήρωσης παιχνιδιού
 
 ##Σενάριο 
 
@@ -55,7 +87,7 @@ http://www.mathplayground.com/ASB_AlienAddition.html
 * Σκοπεύει να τον βοηθήσει να ξεπεράσει τη δυσκολία του στους νοερούς υπολογισμούς με το video game “number invaders deluxe edition”. 
 * Στο συγκεκριμένο βίντεο παιχνίδι ο μαθητής μπορεί να πετύχει τους επιθυμητούς στόχους σε ένα ευχάριστο διαστημικό περιβάλλον που έχει σκοπό να τον γοητεύσει και να του τραβήξει την προσοχή. Το “number invaders deluxe edition” περιέχει νοερούς υπολογισμούς για τις τέσσερις πράξεις αποτελώντας ένα χρήσιμο εργαλείο στη διδασκαλία του μαθήματος των μαθηματικών.
 
-## Online Demo (work in progress):https://scratch.mit.edu/projects/90513734/
+## Game:https://scratch.mit.edu/projects/91575909/
 
 ![thanks](thanks.jpg)
 
