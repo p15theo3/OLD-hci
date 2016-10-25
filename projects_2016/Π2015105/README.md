@@ -1,11 +1,15 @@
 #Τίτλος Εργασίας: ---
-Ντάνιελ Γιορντάνωβ
+Ντάνιελ Γιορντάνωβ - Π2015105 - p15gior@ionio.gr
 
-ΑΜ Π2015105
+##Παραδοτέο 0: Μπόνους
+
+**Α:** Πρόσθεσα 10 νέες παραθέσεις (quotes) στο βιβλίο.
+Link: https://github.com/Daniel912/pibookgr/tree/gh-pages/_quotes
+
 
 ##Παραδοτέο 1: Δήλωση και δέσμευση θέματος
 
-Δημιουργεία Virtual Reality (VR) application για Android.
+Δημιουργία Virtual Reality (VR) application για Android.
 
 
 ##Παραδοτέο 2
