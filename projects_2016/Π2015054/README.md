@@ -12,7 +12,7 @@ https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
 
 ##Παραδοτέο 2
 
-…
+...
 
 ##Παραδοτέο 3
 
