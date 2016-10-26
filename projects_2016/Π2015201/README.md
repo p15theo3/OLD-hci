@@ -7,6 +7,7 @@
 providing links for commits on pibook
 
 https://github.com/achkap/pibookgr/tree/gh-pages/gallery
+
 https://github.com/achkap/pibookgr/tree/gh-pages/images
 
 ##Παραδοτέο 1
