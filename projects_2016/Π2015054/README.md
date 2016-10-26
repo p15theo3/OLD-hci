@@ -2,6 +2,10 @@
 Μαρία-Νεφέλη Νικηφόρου
 ΑΜ Π2015054
 
+##Παραδοτέο 0
+
+https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
+
 ##Παραδοτέο 1
 
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch
