@@ -2,6 +2,10 @@
 
 Γιώργος Μαργαρίτης ΑΜ Π2015139
 
+##Παραδοτέο 0 (Bonus A)
+
+https://github.com/gmargaritis/pibookgr/tree/gh-pages/_quotes
+
 ##Παραδοτέο 1
 
 Εκπαιδευτικό βιντεοπαιχνίδι με scratch
