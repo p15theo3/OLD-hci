@@ -2,6 +2,10 @@
 ΗΛΙΟΠΟΥΛΟΣ ΓΕΩΡΓΙΟΣ
 ΑΜ: Π2015068
 
+##Παραδοτέο 0 - 10 quotes
+
+https://github.com/p15ilio/pibookgr/tree/gh-pages/_quotes 
+
 ##Παραδοτέο 1
 Εκπαιδευτικό βιντεο-παιχνίδι με το εργαλείο  Scratch
 
