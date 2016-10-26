@@ -10,6 +10,8 @@ https://github.com/achkap/pibookgr/tree/gh-pages/gallery
 
 https://github.com/achkap/pibookgr/tree/gh-pages/images
 
+https://github.com/achkap/pibookgr/tree/gh-pages/_quotes
+
 ##Παραδοτέο 1
 
 Δημιουργία Mobile App με την χρήση του εργαλείου App Inventor 
