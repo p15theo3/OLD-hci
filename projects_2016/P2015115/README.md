@@ -3,6 +3,9 @@
 Αυγούστης Ανδρέας
 ΑΜ Π2015115
 
+##Παραδοτέο 0
+https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
+
 ##Παραδοτέο 1
 
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch
