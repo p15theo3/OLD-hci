@@ -20,6 +20,8 @@ _Παρακαλείστε να μη δημιουργείτε αρχεία έξω
 
 [Tutorial για τη χρήση του Windows Github και για τη δημιουργία φακέλου για την εργασία σας](../tutorial/README.md)
 
+[Tutorial για τη δημιουργία φακέλου για την εργασία σας online από το github.com](http://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git)
+
 [Ένα απλό Tutorial για τη δημιουργία του readme file/αναφορά της εργασίας σας](https://guides.github.com/features/mastering-markdown/)
 
 [Μπορείτε να προσθέσετε εικόνες](http://stackoverflow.com/a/11916467/1633251) στο readme file σας με τη χρήση [relative links](https://help.github.com/articles/relative-links-in-readmes/)
