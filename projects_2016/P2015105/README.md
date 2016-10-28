@@ -4,7 +4,7 @@
 ##Παραδοτέο 0: Μπόνους
 
 **Α:** Πρόσθεσα 10 νέες παραθέσεις (quotes) στο βιβλίο.
-Link: https://github.com/Daniel912/pibookgr/tree/gh-pages/_quotes
+Link: https://github.com/danielyor/pibookgr/tree/gh-pages/_quotes
 
 
 ##Παραδοτέο 1: Δήλωση και δέσμευση θέματος
