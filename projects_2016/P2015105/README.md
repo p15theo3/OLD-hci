@@ -12,7 +12,7 @@ Link: https://github.com/danielyor/pibookgr/tree/gh-pages/_quotes
 Δημιουργία Virtual Reality (VR) application για Android.
 
 
-##Παραδοτέο 2
+##Παραδοτέο 2: Παρουσίαση πρωτοτύπου της εφαρμογής
 
 ...
 
