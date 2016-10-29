@@ -1,6 +1,10 @@
 #ΕΦΑΡΜΟΓΉ
 ΙΩΆΝΝΗΣ ΑΓΓΈΛΗΣ AM:Π2015006
 
+#Παραδοτέο 0
++++ https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_quotes
+++ ...
++ ..
 
 #Παραδοτέο 1
 ΘΈΜΑ: ΕΦΑΡΜΟΓΉ ΜΕ ΕΡΓΑΛΕΊΟ ΤΟ APP INVENTOR 2
