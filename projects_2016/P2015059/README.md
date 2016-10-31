@@ -21,7 +21,9 @@
 
 ![Maze Game](maze_game.png)
 https://scratch.mit.edu/projects/11710850/ 
+
 και: 
+
 ![angry birds maze](angry_birds_maze.png)
 https://scratch.mit.edu/projects/38155132/
 
