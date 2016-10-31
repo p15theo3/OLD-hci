@@ -18,12 +18,12 @@
 ###Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο/αλλαγές σε υπάρχοντα παραδείγματα
 * Εργαλείο ανάπτυξης Scratch
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από: 
-
+![Maze Game]
 ![Maze Game](maze_game.png)
 https://scratch.mit.edu/projects/11710850/ 
 
 και: 
-
+![angry birds maze]
 ![angry birds maze](angry_birds_maze.png)
 https://scratch.mit.edu/projects/38155132/
 
