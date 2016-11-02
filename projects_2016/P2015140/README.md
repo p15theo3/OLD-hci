@@ -12,8 +12,11 @@ github.com/p15mago/pibookgr/tree/p15mago-patch-1/_quotes
 
 ##Παραδοτέο 2
  Προδιαγραφές:
+  
   Hλικία:
+  
   Μάθημα:
+  
   Φύλο Μαθητών:
 
  
