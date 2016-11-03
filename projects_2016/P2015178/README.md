@@ -25,13 +25,20 @@
 
 ####1)Pixel Snake:-
 https://scratch.mit.edu/projects/72303326/  
+![pixel_snake](https://cloud.githubusercontent.com/assets/22681573/19963461/324fe076-a1c5-11e6-89e5-04676c033ab8.png)
 
 
 ####2)Need for Coins:-
 https://scratch.mit.edu/projects/43360534/
+![need_for_coins](https://cloud.githubusercontent.com/assets/22681573/19963449/2274c4dc-a1c5-11e6-977a-4f6b7acbfa32.png)
 
 ####3)Angry Birds Maze:-
 https://scratch.mit.edu/projects/38155132/
+![angry_birds_maze](https://cloud.githubusercontent.com/assets/22681573/19963421/fe82dc4e-a1c4-11e6-8406-1a71d8989d0f.png)
+
+###Αρχικός σχεδιασμός εφαρμογής:
+
+
 
 
 ## Παραδοτέο 3:
