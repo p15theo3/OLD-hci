@@ -38,6 +38,13 @@ https://scratch.mit.edu/projects/38155132/
 
 ###Αρχικός σχεδιασμός εφαρμογής:
 
+Θα υπάρχει μία μόνο οθόνη:
+####Φάση 1:
+![new_game](https://cloud.githubusercontent.com/assets/22681573/19967202/f7e7df52-a1d7-11e6-9fcc-7d4a59088bba.png)
+
+####Φάση 2:
+![notitle](https://cloud.githubusercontent.com/assets/22681573/19967215/0aadc0f2-a1d8-11e6-9ad7-ddd971940deb.png)
+
 
 
 
