@@ -24,10 +24,13 @@
 -Χρήση στοιχείων, ιδεών και του κώδικα από τα εξής:
 
 ####1)Pixel Snake:-
+https://scratch.mit.edu/projects/72303326/    
 
 ####2)Need for Coins:-
+https://scratch.mit.edu/projects/43360534/
 
 ####3)Angry Birds Maze:-
+https://scratch.mit.edu/projects/38155132/
 
 
 ## Παραδοτέο 3:
