@@ -36,19 +36,14 @@
 
 ![App2.png](App2.png)
 
+
+--------- Screen 2 ---------
+
+
 Πρωτότυπο 3
 
 ![App3.png](App3.png)
 
-Πρωτότυπο 3
-
-![App3.png](App3.png)
-
---------- Screen 2 --------- 
-
-Πρωτότυπο 4
-
-![Screen2.png](Screen2.png)
 
 
 ##  Σενάριο
