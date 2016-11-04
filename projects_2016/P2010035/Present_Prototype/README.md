@@ -27,7 +27,7 @@
 ##  Title: Get News
 
 Πρωτότυπο 1
-![aaa](number_invaders.jpg)
+![App1.png](App1.png)
 
 
 Πρωτότυπο 2(InitAndGetWebRequests.png)
