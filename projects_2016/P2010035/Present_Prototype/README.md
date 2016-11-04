@@ -27,7 +27,9 @@
 ##  Title: Get News
 
 Πρωτότυπο 1(InitVariables.png)
-
+gallery:
+    - image_url: InitVariables.png
+      caption: Πρωτότυπο 1
 
 
 Πρωτότυπο 2(InitAndGetWebRequests.png)
