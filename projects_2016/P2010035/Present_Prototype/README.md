@@ -26,10 +26,8 @@
 
 ##  Title: Get News
 
-Πρωτότυπο 1(InitVariables.png)
-gallery:
-    - image_url: InitVariables.png
-      caption: Πρωτότυπο 1
+Πρωτότυπο 1
+![aaa](number_invaders.jpg)
 
 
 Πρωτότυπο 2(InitAndGetWebRequests.png)
