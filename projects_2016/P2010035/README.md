@@ -13,7 +13,7 @@ https://github.com/giorgiomotors/pibookgr/tree/giorgiomotors-patch-1
 
 ##Παραδοτέο 2
 
-...
+Φάκελος Present_Prototype
 
 ##Παραδοτέο 3
 
