@@ -31,8 +31,11 @@ http://github.com/p15mago/pibookgr/tree/p15mago-patch-1/_quotes
  
  ![bubble_shooter](bubble_shooter.png)
  
- Αλλαγές στο παράδειγμα:
+ Αλλαγές στο παράδειγμα: 
  
+ ![project](project.jpg)
+ 
+ ![project1](project1.png)
 
 …
 
