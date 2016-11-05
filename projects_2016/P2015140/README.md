@@ -27,7 +27,7 @@ http://github.com/p15mago/pibookgr/tree/p15mago-patch-1/_quotes
  
  Εργαλεία ανάπτυξης: Scratch
  
- Δανεισμός κώδικα από:  https://scratch.mit.edu/projects/869411/
+ Δανεισμός κώδικα από:  BUBBLE SHOOTER https://scratch.mit.edu/projects/869411/
  
  ![bubble_shooter](bubble_shooter.png)
 
