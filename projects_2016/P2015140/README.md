@@ -25,9 +25,11 @@ http://github.com/p15mago/pibookgr/tree/p15mago-patch-1/_quotes
   Φύλο Μαθητών:Απευθύνεται και στα δύο φύλα.
 
  
- Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο/αλλαγές σε υπάρχοντα παραδείγματα:Χρήση του εργαλείου Scratch
+ Εργαλεία ανάπτυξης: Scratch
  
- Δανεισμός κώδικα από:
+ Δανεισμός κώδικα από:  https://scratch.mit.edu/projects/869411/
+ 
+ ![bubble_shooter](bubble_shooter.png)
 
 …
 
