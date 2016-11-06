@@ -27,11 +27,11 @@
 
 Πρωτότυπο 1
 
-![database chat test](database chat test.jpg)
+![database chat test](database chat test.png)
 
 Πρωτότυπο 2
 
-![authenticate screens](authenticate screens.jpg)
+![authenticate screens](authenticate screens.png)
 
 Πρωτότυπο 3
 
@@ -52,7 +52,7 @@
 
 ##(work in progress):
 
-![app code](app code.jpg)
+![app code](app code.png)
 
 
 
