@@ -50,8 +50,11 @@ http://github.com/p15mago/pibookgr/tree/p15mago-patch-1/_quotes
 
 ![project4](project4.jpg)
 ![project5](project5.png)
-![project6](project6.png)
+![project6](project6.png) 
 
+Στην τελευταία πίστα ο χρήστης καλείται να βοηθήσει τον Tom να μαζέψει χρήματα για να θαυμάσει τις ομορφιές της Βενετίας κάνοντας μια βόλτα με την γόνδολα.
+
+![project9](project9.jpg)
 ##Παραδοτέο 3
 
 ...
