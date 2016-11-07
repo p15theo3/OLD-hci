@@ -15,7 +15,7 @@ https://github.com/JsTrMG/pibookgr/tree/gh-pages/_quotes
 
 ##Παραδοτέο 2
 
-...
+https://github.com/courses-ionio/hci/blob/master/projects_2016/P2015046/Present_Prototype/README.md
 
 ##Παραδοτέο 3
 
