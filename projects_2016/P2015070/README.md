@@ -14,9 +14,9 @@
 
 ##Παραδοτέο 2
 
-ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
-ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
-ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή
+##ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
+##ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
+##ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή
 
 
 ##Προδιαγραφές
@@ -33,15 +33,15 @@
 *	Ιδέες από: Number Invaders (εργασία πρότυπο) και Gem Game
 *	Κώδικας: Έναρξη νέου κώδικα από την αρχή
 
-![Game Start]
+##Game Start
 ![video_game_scratch_image1](https://cloud.githubusercontent.com/assets/22654144/20073107/8ea7433e-a533-11e6-8842-945efd302913.png)
 
 
-![Level]
+##Level
 ![video_game_scratch_image2](https://cloud.githubusercontent.com/assets/22654144/20073593/82d3f974-a535-11e6-8f4c-6c20eff0a115.png)
 
 
-![Another Level]
+##Another Level
 ![video_game_scratch_image3](https://cloud.githubusercontent.com/assets/22654144/20073631/a4cd47e2-a535-11e6-8804-9c342a3105f0.png)
 
 
