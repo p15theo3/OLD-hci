@@ -19,7 +19,7 @@ https://github.com/achkap/pibookgr/tree/gh-pages/_quotes
 
 ##Παραδοτέο 2
 
-Φάκελος Present_Prototype
+Φάκελος Present_Prototype (https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015201/Present_Prototype)
 
 ##Παραδοτέο 3
 
