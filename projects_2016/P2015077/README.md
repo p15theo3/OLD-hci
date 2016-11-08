@@ -27,7 +27,7 @@
 ![Πρωτότυπο 1](FlappyBird Online.PNG)
 ![Πρωτότυπο 2](Flappy Math.PNG)
 
-![#Αρχικός Σχεδιασμός Εφαρμογής](FlappyBird (Math Edition))
+![#Αρχικός Σχεδιασμός Εφαρμογής](FlappyBird (Math Edition.PNG))
 
 ###Σενάριο
 
