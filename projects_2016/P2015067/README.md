@@ -51,7 +51,7 @@ http://www.mathplayground.com/ASB_SpaceRaceMultiplication.html
 * Σκοπός του εκπαιδευτικού παιχνιδιού είναι η εξοικείωση του εκπαιδευόμενου  σε μια απο τις διαθέσιμες πράξεις της πρόσθεσης, αφαίρεσης, πολλαπλασιασμού και της διαίρεσης. Ο χρήστης θα επιλέξει με ποία πράξη θα θέλει να ασχοληθεί.
 
    
-##onlineDemo
+##Gameplay Video
 https://www.youtube.com/watch?v=WScZkhUcHH4
 
 
