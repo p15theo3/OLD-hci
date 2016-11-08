@@ -24,8 +24,10 @@
 * Ιδέες και κομμάτια από το κώδικα στα ακόλουθα link: https://scratch.mit.edu/projects/97665849/ και                https://scratch.mit.edu/projects/43793852/.
 
 
-(eikones)
+![Πρωτότυπο 1](FlappyBird Online.PNG)
+![Πρωτότυπο 2](Flappy Math.PNG)
 
+![#Αρχικός Σχεδιασμός Εφαρμογής](FlappyBird (Math Edition))
 
 ###Σενάριο
 
