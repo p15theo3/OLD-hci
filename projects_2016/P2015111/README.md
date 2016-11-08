@@ -22,8 +22,9 @@
 
 ###Πρωτότυπο
 
+![prototype1](Prototype_1.png)
 
-
+![prototype2](Prototype_2.png)
 
 ##Παραδοτέο 3
 
