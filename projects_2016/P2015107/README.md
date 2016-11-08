@@ -41,16 +41,16 @@
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από:  https://scratch.mit.edu/projects/10181336/ 
 
 
-![Gem Game](stage2.jpg)
+![Gem Game](stage2.png)
 
-![Gem Game](stage3.jpg)         
+![Gem Game](stage3.png)         
 
 
 ##Πρωτότυπο
 
-![Prototype1](stage.jpg)
+![Prototype1](stage.png)
 
-![Prototype2](stage1.jpg)
+![Prototype2](stage1.png)
 
 
 ##Σενάριο 
