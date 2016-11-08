@@ -16,7 +16,7 @@
 
 ##Εγκατάσταση εργαλείων ανάπτυξης και προτότυπο παιχνίδι
 
-* Εργαλείο ανάπτυξης: "Unity" game development platform + Google VR SDK (Software Development Kit) for Unity.
+* Εργαλείο ανάπτυξης: Unity game development platform + Google VR SDK (Software Development Kit) for Unity.
 
 https://unity3d.com/
 
@@ -30,8 +30,28 @@ https://developers.google.com/vr/unity/
 * Προτότυπο arcade παιχνίδι Pong:
 
 http://www.ponggame.org/
+
 ![3](3.jpg)
 
-##Στιγμιότυπα προτοτύπου
+##Στιγμιότυπα πρωτοτύπου
 
-...
+#Στιγμιότυπο 1
+
+Αρχικά στάδια του παιχνιδιού στο περιβάλλον του λογισμικού Unity.
+
+![4](4.jpg)
+
+#Στιγμιότυπο 2
+
+Μεταγενέστερο στάδιο και όψη της κάμερας του παίχτη.
+
+![5](5.jpg)
+
+#Στιγμιότυπο 3
+
+Η κάμερα του παίχτη σε VR mode.
+
+![6](6.jpg)
+
+
+
