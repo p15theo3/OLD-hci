@@ -26,7 +26,7 @@ https://github.com/DimitraGkena/pibookgr/tree/gh-pages/_quotes
 
 ~Παρακάτω φαίνονται ορισμένες εικόνες απο την εφαρμογή μας
 
-file:///C:/Users/dell/Documents/GitHub/hci/projects_2016/%CE%A02015074%20-%20%CE%A02015020/APPLICATION%20PHOTOS/ph1.jpg
+https://goo.gl/photos/hyftDaN6gbDAPkZa7
 
 #Παραδοτέο 3
 ...
