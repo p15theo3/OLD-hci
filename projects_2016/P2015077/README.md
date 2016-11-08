@@ -13,6 +13,7 @@
 ###Προδιαγραφές
 
 * Ηλικία: Για μαθητές Γ΄ δημοτικού.
+* Γνώσεις: Πρόσθεση, αφαίρεση, πολλαπλασιασός, διαίρεση.
 * Θεματική Ενότητα: Μαθηματικά Γ΄ Δημοτικού.
   (Πρόσθεση - Αφαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6921/).
   (Πολλαπλασιασμός - Διαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6925/).
@@ -26,7 +27,7 @@
 #FlappyBird Online
 ![FlappyBird Online](FlappyBird Online.PNG)
 
-#Πρωτότυπο 1
+#Πρωτότυπο
 ![Πρωτότυπο](FlappyBird (Math Edition).PNG)
 
 ###Σενάριο
@@ -39,7 +40,6 @@
 
 
 ###Online Demo (work-in-progress): https://scratch.mit.edu/projects/129459913/
-
 
 
 ##Παραδοτέο 3
