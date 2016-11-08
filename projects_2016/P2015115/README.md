@@ -27,6 +27,11 @@ https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
 ###Nightmare Math Shark
 ![Nightmare Math Shark](Screenshot5.png)
 
+Σκοπός του παιχνιδίου είναι ο καρχαρίας(Nightmare Shark) είναι να φάει το ψάρι.
+Το κάθε επίπεδο αποτελείται από διαφορετικές πράξεις π.χ στο επίπεδο 1 ο καρχαρίας κάνει πράξεις πρόσθεσης
+
+Online Demo : https://scratch.mit.edu/projects/129727666/
+
 ##Παραδοτέο 3
 
 
