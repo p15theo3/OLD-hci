@@ -17,3 +17,9 @@ HTML, JavaScript, Bootstrap(UI)
 
 ###Κώδικας 
 https://github.com/gsvic/SocialSkipForChrome
+
+###Οδηγίες Εγκατάστασης
+1. Κατεβάζουμε το project από την παραπάνω διεύθυνση κάνοντας click στο κουμπί "Clone or download", "Download ZIP"
+2. Αποσυμπιέζουμε το ZIP αρχείο 
+3. Στην διαχείριση των extensions εδώ chrome://extensions/ βάζουμε tick στο Developer mode
+4. Προσθέτουμε το νέο extension κάνοντας click στο "Load unpacked extension" επιλέγοντας τον φάκελο που αποσυμπιέσαμε στο βήμα 2 
