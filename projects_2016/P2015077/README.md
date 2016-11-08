@@ -26,7 +26,7 @@
 #FlappyBird Online
 ![FlappyBird Online](FlappyBird Online.PNG)
 
-#Πρωτότυπο
+#Πρωτότυπο 1
 ![Πρωτότυπο](FlappyBird (Math Edition).PNG)
 
 ###Σενάριο
