@@ -25,7 +25,7 @@ https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
 * Αλλαγές σε υπάρχον παράδειγμα link :https://scratch.mit.edu/projects/72470156/
 
 ###Nightmare Math Shark
-(Screenshot5.png)
+![Nightmare Math Shark](Screenshot5.png)
 
 ##Παραδοτέο 3
 
