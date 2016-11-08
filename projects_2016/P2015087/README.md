@@ -4,7 +4,7 @@
 
 ##Παραδοτέο 1
 
-...
+App using app inventor
 
 ##Παραδοτέο 2
 
