@@ -2,6 +2,7 @@
 
 Αυγούστης Ανδρέας
 ΑΜ Π2015115
+Ιόνιο Webmail:p15avgo@ionio.gr
 
 ##Παραδοτέο 0
 https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
@@ -11,6 +12,19 @@ https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch
 
 ##Παραδοτέο 2
+* Ηλικία: Μαθητές Δ΄ δημοτικού
+* Θεματικές ενότητες: 
+* α)Πρόσθεση και Αφαίρεση (http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-D102/397/2639,10340/)
+* β)Πολλαπλασιασμός και Διαίρεση (http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-D102/397/2639,10324/)
+* Φύλο: Και τα δύο
+
+
+###Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο/αλλαγές σε υπάρχοντα παραδείγματα
+
+* Εργαλείο ανάπτυξης: Scratch
+* Αλλαγές σε υπάρχον παράδειγμα link :https://scratch.mit.edu/projects/72470156/
+
+###Nightmare Math Shark
 
 
 ##Παραδοτέο 3
