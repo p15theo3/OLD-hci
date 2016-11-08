@@ -31,7 +31,7 @@
 ![Space Race Multiplication](SpaceRaceMultiplication.PNG)
 http://www.mathplayground.com/ASB_SpaceRaceMultiplication.html
 
-##Πρότωτυπο
+##πρωτότυπο
 
 ###Εικόνα1
 ![εικόνα1](SpaceRaceShooting1.PNG)
