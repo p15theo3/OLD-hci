@@ -23,6 +23,17 @@ https://github.com/p15zach1/pibookgr/tree/gh-pages/_quotes
 Εργαλείο Ανάπτυξης του Βιντεοπαιχνιδιού: Scratch.
 Χρήση στοιχείων, ιδεών και του κώδικα από τα εξής:
 
+1)Maze Starter
+https://scratch.mit.edu/projects/10128431/
+![default](https://cloud.githubusercontent.com/assets/22659306/20116340/8b19e254-a604-11e6-9e6d-b80ef7ed75ab.png)
+
+2)Angry Birds Maze
+https://scratch.mit.edu/projects/38155132/
+![2](https://cloud.githubusercontent.com/assets/22659306/20116522/382056f4-a605-11e6-9f21-056379dd83d8.png)
+
+###Αρχικός σχεδιασμός εφαρμογής:
+![1](https://cloud.githubusercontent.com/assets/22659306/20116596/887f90d8-a605-11e6-8a0d-ca407560f7bb.png)
+![3](https://cloud.githubusercontent.com/assets/22659306/20116542/4de16546-a605-11e6-8125-67278227935b.png)
 ##Παραδοτέο 3
 ...
 
