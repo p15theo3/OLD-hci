@@ -23,11 +23,11 @@
 *	Εργαλείο ανάπτυξης: Scratch
 * Ιδέες και κομμάτια από το κώδικα στα ακόλουθα link: https://scratch.mit.edu/projects/97665849/ και                https://scratch.mit.edu/projects/43793852/.
 
+#FlappyBird Online
+![FlappyBird Online](FlappyBird Online.PNG)
 
-![Πρωτότυπο 1](FlappyBird Online.PNG)
-![Πρωτότυπο 2](Flappy Math.PNG)
-
-![#Αρχικός Σχεδιασμός Εφαρμογής](FlappyBird (Math Edition).PNG)
+#Πρωτότυπο
+![Πρωτότυπο](FlappyBird (Math Edition).PNG)
 
 ###Σενάριο
 
