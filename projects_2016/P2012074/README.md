@@ -9,7 +9,7 @@
 Chrome plugin που ενσωματώνει το service του SocialSkip και δίνει την δυνατότητα στον χρήστη να εκτελέσει το πείραμα από το popup του plugin. Ως είσοδος, απαιτείται το id του πειράματος. To plugin χρησιμποιεί το ήδη υπάρχων service, κατά συνέπεια οι διαδράσεις αποθηκεύονται αυτόματα στην βάση δεδομένων του profile του ερευνητή που δημιούργησε το πείραμα.
 
 ###Εργαλεία: 
-HTML, JavaScript
+HTML, JavaScript, Bootstrap(UI)
 
 ###Κώδικας 
 https://github.com/gsvic/SocialSkipForChrome
