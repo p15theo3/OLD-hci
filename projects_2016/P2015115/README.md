@@ -22,7 +22,7 @@ https://github.com/p15avgo/pibookgr/tree/gh-pages/_quotes
 ###Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο/αλλαγές σε υπάρχοντα παραδείγματα
 
 * Εργαλείο ανάπτυξης: Scratch
-* Αλλαγές σε υπάρχον παράδειγμα link :https://scratch.mit.edu/projects/72470156/
+* Αλλαγές σε υπάρχων παράδειγμα link :https://scratch.mit.edu/projects/72470156/
 
 ###Nightmare Math Shark
 ![Nightmare Math Shark](Screenshot5.png)
