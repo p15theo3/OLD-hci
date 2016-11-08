@@ -11,5 +11,9 @@ Chrome plugin που ενσωματώνει το service του SocialSkip κα�
 ###Εργαλεία: 
 HTML, JavaScript, Bootstrap(UI)
 
+###Screenshots
+<img src="https://raw.githubusercontent.com/courses-ionio/hci/master/projects_2016/P2012074/images/socialskip1.png">
+<img src="https://raw.githubusercontent.com/courses-ionio/hci/master/projects_2016/P2012074/images/socialskip2.png">
+
 ###Κώδικας 
 https://github.com/gsvic/SocialSkipForChrome
