@@ -48,20 +48,26 @@ https://github.com/gmargaritis/pibookgr/tree/gh-pages/_quotes
 
 ### Screenchots
 
-
+Intro Screen 1
 ![Intro Screen 1](IntroScreen1.png)
 
+Intro Screen 2
 ![Intro Screen 2](IntroScreen2.png)
 
+Intro Screen 3
 ![Intro Screen 3](IntroScreen3.png)
 
+In-Game Screen 1
 ![In-Game Screen 1](InGameScreen1.png)
 
+In-Game Screen 2
 ![In-Game Screen 2](InGameScreen2.png)
 
-![Help Display (In-Progress)](HelpDisplay.png)
+Help Display (In-Progress)
+![Help Display (In-Progress)](HelpDisplay .png)
 
-![Wrong Answer (In-Progress)](WrongAnser.png)
+Wrong Answer (In-Progress)
+![Wrong Answer (In-Progress)](WrongAnswer.png)
 
 ##
 ### Small Demo - 1st Level - (In-Progress)
