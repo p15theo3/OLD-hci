@@ -9,7 +9,32 @@
 
 #Παραδοτέο 2
 
-…
+Προυποθέσεις: Γνώση χειρισμού του πληκτρολογίου και γνώση Αγγλικών χαμηλού επιπέδου
+
+Ηλικία: Για παιδιά δημοτικού(β΄-γ΄ τάξη)
+
+Στόχος: Κατανόηση της διδακτικής ενότητας:
+
+Μαθηματικά,Κεφάλαιο 4ο ,Πολλαπλασιασμος,Προπαίδεια http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/703/4641,20992/
+
+Φύλο:Για αγόρια και κορίτσια.
+
+
+
+Εργαλείο ανάπτυξης: Scratch
+
+Δανεισμός κώδικα:https://scratch.mit.edu/projects/105294494/
+
+Σκοπός του παιχνιδιού είναι ο frogy να λύσει τις ζητούμενες πράξεις αποφεύγοντας τα εμπόδια.
+
+
+#DEMO
+link:https://scratch.mit.edu/projects/129736139/
+
+![stage1](https://cloud.githubusercontent.com/assets/15660991/20143476/cbfdd2d8-a6a1-11e6-93ef-9eb8db19714d.png)
+![stage2](https://cloud.githubusercontent.com/assets/15660991/20143571/1545adb2-a6a2-11e6-8441-4df0722e21b2.png)
+![stage3](https://cloud.githubusercontent.com/assets/15660991/20143600/2da8f526-a6a2-11e6-84c5-b538e0e1c06b.png)
+
 
 #Παραδοτέο 3
 
