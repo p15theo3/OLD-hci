@@ -6,7 +6,7 @@
 Θέμα εργασίας : δημιουργία application για smartphone με την χρήση MIT app inventor 2
 
 ##Παραδοτέο 2
-
+Το δεύτερο παραδοτέο βρίσκεται στο φάκελο Present_prototype
 
 ##Παραδοτέο 3
 
