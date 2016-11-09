@@ -6,4 +6,4 @@
 
 # 2. Πρωτότυπο της εφαρμογής
 
-![GitHub Logo] (Desktop/Scratch/Scratch1.jpg)
+![GitHub Logo] (file:///C:/Users/You/Desktop/Scratch/Scratch1.jpg)
