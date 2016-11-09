@@ -56,9 +56,11 @@
 ##(work in progress):
 
 ![app code](app code.png)
+Android studio 
 
 ![app code](gimp.png)
 
+Gimp
 
 
 
