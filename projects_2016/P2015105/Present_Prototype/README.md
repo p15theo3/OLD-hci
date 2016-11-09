@@ -32,7 +32,7 @@ https://developers.google.com/vr/unity/
 
 https://www.visualstudio.com/vs/
 
-1[7](7.jpg)
+![7](7.jpg)
 
 * Προτότυπο arcade παιχνίδι Pong:
 
