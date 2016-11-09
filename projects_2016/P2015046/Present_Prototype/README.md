@@ -23,17 +23,17 @@
 *	Εργαλείο ανάπτυξης: Android Studio
 
 ![main menu](main menu.jpg)
-
+```
 Πρωτότυπο 1
-
+```
 ![database chat test](database chat test.png)
-
+```
 Πρωτότυπο 2
-
+```
 ![authenticate screens](authenticate screens.png)
-
+```
 Πρωτότυπο 3
-
+```
 ##Σύντομη Περιγραφή
 
 Η συγκεκριμένη εφαρμογή αποσκοπεί
@@ -56,11 +56,12 @@
 ##(work in progress):
 
 ![app code](app code.png)
+```
 Android studio 
-
+```
 ![app code](gimp.png)
-
+```
 Gimp
-
+```
 
 
