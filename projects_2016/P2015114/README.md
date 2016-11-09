@@ -1,11 +1,9 @@
 
 # Τίτλος Εργασίας: Interactive system maintenance and updates: Video analytics
- Νίκη Θεοφανίδου
- ΑΜ 2015114
+ Νίκη Θεοφανίδου ΑΜ 2015114
 
 ## Παραδοτέο 1
- 
- ...
+ Δημιουργία ερωτηματολογίου, το οποίο συνδέεται με ένα βίντεο, με στόχο την ανάλυση του με τη χρήση προγράμματος video analytics.   
  
 ## Παραδοτέο 2
  www.socialskip.org/watch?videoId=283620 
