@@ -1,0 +1,34 @@
+
+
+
+Τίτλος Εργασίας:Εκπαιδευτικό βιντεοπαιχνίδι
+
+Ζουρτουμίδης Μάριος ΑΜ:Π2015064
+
+Παραδοτέο 1
+
+εκπαιδευτικό βιντεοπαιχνίδι scratch
+
+
+Παραδοτέο 2
+
+Εργαλείο ανάπτυξης:scratch
+Ηλικία: Παιδιά της A' του δημοτικού.
+Θεματική διδακτική ενότητα: Μαθηματικά
+Η ιδέα βασίζεται στο κλασικό παιχνίδι Pixel Snake,https://scratch.mit.edu/projects/72303326/
+![enter image description here](https://lh3.googleusercontent.com/-DIzWzjfG2ko/WCM38NydCII/AAAAAAAAAAw/Axu0wgR_WBQ5Gm2yvzIGT_QcImgXmB7IgCLcB/s0/screenshot.PNG "screenshot.PNG")
+Σενάριο παιχνιδιού: 
+![enter image description here](https://lh3.googleusercontent.com/-pBucch4H_Ow/WCM5Axq7qzI/AAAAAAAAAA4/BfCSmr9pdhUP3cM1aCYvL7kEVZCytBpWQCLcB/s0/screenshot2.PNG "screenshot2.PNG")
+![enter image description here](https://lh3.googleusercontent.com/-Qi9hsN2rzlI/WCM5QweXCjI/AAAAAAAAABA/qkAAJhw20V0x_rMVlP24pmJ70T6xuNbOwCLcB/s0/sreenshot3.PNG "sreenshot3.PNG")
+
+Στην παιχνίδι μου προσπαθώ να κάνω-αναγκάσω τον χρήστη να επιλέξει την σωστή απάντηση με το φιδάκι. Την ώρα του παιχνιδιού βγαίνουν στην οθόνη 3 απλές μαθηματικές πράξεις, οι δύο απο αυτές ειναι λανθασμένες και η μία είναι η σωστή απάντηση, ο χρήστης με τη σείρα του έχει ως σκοπό να στρέψει το φιδάκι του στη σωστή απάντηση και αναλόγως θα βγαίνει και το κατάλληλο μήνυμα αν είναι σωστή η απάντηση ή όχι.
+Παραδοτέο 3
+
+...
+
+Παραδοτέο 4
+
+...
+
+Tελική Αναφορά
+
