@@ -13,6 +13,7 @@
 Εκπαιδευτικό βιντεο-παιχνίδι με το Scratch
 
 ##2ο παραδοτέο
+
 ## Προδιαγραφές
 
 *Ηλικία: Μαθητές γ' δημοτικού
@@ -26,6 +27,8 @@
 *Χρήση εργαλέιου Scratch
 
 *Στοιχεία(ιδέες και κώδικας) απο τα βιντεοπαιχνίδια Plants vs Zombies και Maths vs Zombies
+
+Link:https://scratch.mit.edu/projects/1954637/
 
 ![Picture 1](PLants vs Zombies original.jpg)
 
@@ -60,6 +63,8 @@ My prototype
 ![picture 4](gameplay.jpg)
 
 Some gameplay
+
+Link: https://scratch.mit.edu/projects/128361018/#player
 
 ##Μελλοντικές προσθήκες
 

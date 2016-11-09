@@ -29,23 +29,27 @@ https://scratch.mit.edu/projects/14182007/
 
 Αρχική οθόνη εκκίνησης παιχνιδιού
 
-![screen](screen.jpg)
+![screen](screen.JPG)
 
 Πρωτότυπο 2: 
+
 Ο Tom κοιμάται ξέγνοιαστος στο δωμάτιο του αφεντικού του, όταν ξαφνικά εμφανίζεται ένα φάντασμα.
 
-![screen1](screen1.jpg)
+![screen1](screen1.JPG)
 
-![screen1.1](screen1.1.jpg)
+![screen1.1](screen1.1.JPG)
 
 Πρωτότυπο 3: 
+
 Ο Tom βρίσκει το όπλο του για να εξολοθρεύσει το φάντασμα. 
-![screen2](screen2.jpg)
+
+![screen2](screen2.JPG)
 
 Πρωτότυπο 4: 
+
 Ο Tom ζητά βοήθεια για να μπορέσει να αφανίσει τα φαντάσματα από το σπίτι απαντώντας σωστά τις πράξεις.
 
-![screen3](screen3.jpg)
+![screen3](screen3.JPG)
 
 
 
