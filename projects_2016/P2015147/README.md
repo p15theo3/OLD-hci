@@ -27,7 +27,7 @@
   ![ScreenShot](image2.png)
 
 # Πρωτότυπο
-  ![ScreenShot](image2.png)
+  ![ScreenShot](image3.png)
   
   Demo:https://scratch.mit.edu/projects/129292893/
 
