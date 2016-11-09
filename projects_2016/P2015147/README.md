@@ -21,15 +21,18 @@
 
 - Εργαλείο ανάπτυξης: Scratch
 - Δανεισμός στοιχείων (ιδέες και κώδικα) από:
-   -https://scratch.mit.edu/projects/43360534/
-  ![ScreenShot](image1.png)
-   -https://scratch.mit.edu/projects/72303326/
-  ![ScreenShot](image2.png)
+    -Need for Speed Coins
+     https://scratch.mit.edu/projects/43360534/
+     ![ScreenShot](image1.png)
+     
+     Pixel Snake
+     -https://scratch.mit.edu/projects/72303326/
+     ![ScreenShot](image2.png)
 
 # Πρωτότυπο
   ![ScreenShot](image3.png)
   
-  Demo:https://scratch.mit.edu/projects/129292893/
+  Demo: https://scratch.mit.edu/projects/129292893/
 
 
 **Παραδοτέο 3**
