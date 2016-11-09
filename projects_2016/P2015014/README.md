@@ -57,13 +57,13 @@ https://github.com/doreziagim/pibookgr/tree/gh-pages/_quotes
 
 ### Screenchots
 
-Intro Screen 1
+First Prototype
 
-![Intro Screen 1]()
+![first design](first-design.jpg)
 
 First Try  
 
-![First Try]()
+![First Try](starting_screen.jpg)
 
 ##Παραδοτέο 3
 
