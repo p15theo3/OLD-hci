@@ -23,6 +23,13 @@
 
 Στόχος παιχνιδιού: Μέσα απο το γνωστό παιχνίδι "Ο εκατομμυριούχος" ο μαθητής καλείται να απαντήσει σωστα σε όσο το δυνατό περισσότερες βασικές ερωτήσεις , βασισμένες στις γνώσεις του πάνω στο μάθημα της Πληροφορικής Α Γυμνασίου.
 
+εικόνες εφαρμογής :
+https://cloud.githubusercontent.com/assets/22800220/20149925/033a9078-a6bc-11e6-8b87-d7ed2886be73.png
+https://cloud.githubusercontent.com/assets/22800220/20149927/040dd4ec-a6bc-11e6-9992-1ff307de6f74.png
+https://cloud.githubusercontent.com/assets/22800220/20149930/0552baa2-a6bc-11e6-8cdd-320b5f388ea7.png
+
+link εφαρμογής : https://scratch.mit.edu/projects/129967770/#player
+
 ##Παραδοτέο 3
 
 ...
