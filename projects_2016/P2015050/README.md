@@ -43,7 +43,7 @@
 
 Αρχικό Σχέδιο
 
-![Intro Screen 1](sxedio.jgp)
+![Intro Screen 1](sxedio.jpg)
 
 
 
