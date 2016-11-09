@@ -6,4 +6,7 @@
 
 # 2. Πρωτότυπο της εφαρμογής
 
+### Screenshot 1:
 ![GitHub Logo] (Scratch1.jpg)
+![GitHub Logo] (Scratch2.jpg)
+![GitHub Logo] (Scratch3.jpg)
