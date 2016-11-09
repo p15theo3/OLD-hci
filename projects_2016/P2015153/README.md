@@ -6,4 +6,4 @@
 
 # 2. Πρωτότυπο της εφαρμογής
 
-![GitHub Logo] ()
+![GitHub Logo] (Scratch1.jpg)
