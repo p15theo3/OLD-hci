@@ -53,5 +53,7 @@ http://www.ponggame.org/
 
 ![6](6.jpg)
 
+#Η εργασία σε εξέλιξη (3D demo)
 
+https://danielyor.github.io/PongVR-webtest/
 
