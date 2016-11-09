@@ -7,7 +7,8 @@
 
 
 ##Παραδοτέο 2
-
+Το παραδοτέο 2 βρίσκεται στο φάκελο Present_Prototype
+https://github.com/courses-ionio/hci/tree/1c8d71088c0356df852018e8452dea9b02dd5e94/projects_2016/P2015027/Present_Prototype
 
 ##Παραδοτέο 3
 
