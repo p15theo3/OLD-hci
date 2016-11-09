@@ -20,9 +20,9 @@
 
 *	Εργαλείο ανάπτυξης: MIT app inventor 2
 
+###TEACH
 
-
-![TEACH](screen1.png)
+![](screen1.png)
 
 
 ΛΙΣΤΑ ΜΑΘΗΤΩΝ
