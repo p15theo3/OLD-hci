@@ -42,6 +42,8 @@ http://ebooks.edu.gr/modules/ebook/show.php/DSB101/4/28,71/
 
 Για το αντικείμενο ΚΑΝΕΝΑ το ορίζω ως σωστή απάντηση όταν κανένα από τα άλλα 3 αντικείμενα δεν είναι σωστό.
 
+![ScreenShot](kanena.jpg)
+
 Κώδικας: https://scratch.mit.edu/projects/129893186/
 
 ##Παραδοτέο 3
