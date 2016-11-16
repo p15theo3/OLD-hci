@@ -33,7 +33,8 @@ A.M. : Π2013124
 Τέλος, με το "Exit" κλείνει η εφαρμογή.
 
 #Screenshots
-
+![2016-11-16 21_49_41-](https://cloud.githubusercontent.com/assets/17496439/20363180/f42fa0c4-ac46-11e6-97dc-89167fe98044.jpg)
+![2016-11-16 21_50_12-mit app inventor](https://cloud.githubusercontent.com/assets/17496439/20363183/f9799a6c-ac46-11e6-913d-3297ae61385b.jpg)
 
 #Παραδοτέο 3 
 ...
