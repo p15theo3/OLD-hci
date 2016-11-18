@@ -5,7 +5,9 @@
 ##Παραδοτέο 0
 https://github.com/DimosPagakis/pibookgr/tree/gh-pages/_quotes
 
-https://github.com/DimosPagakis/pibookgr/tree/gh-pages/_remix
+https://github.com/DimosPagakis/pibookgr/tree/gh-pages/_remix (Δεν κατάφερα να κάνω καινούριο pull request οπότε,αν κατάλαβα σωστά,
+έκανα τα 2 pull request merge.Εδώ φαίνεται ξεκάθαρα πότε πραγματοποίησα τις αλλαγές.Δίνω link για να μην υπ΄άρξει παρεξήγηση αργότερα.
+https://github.com/pibook/pibookgr/pull/1/commits)
 ...
 
 ##Παραδοτέο 1
