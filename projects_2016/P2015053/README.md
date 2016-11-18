@@ -4,6 +4,8 @@
 
 ##Παραδοτέο 0
 https://github.com/DimosPagakis/pibookgr/tree/gh-pages/_quotes
+
+https://github.com/DimosPagakis/pibookgr/tree/gh-pages/_remix
 ...
 
 ##Παραδοτέο 1
