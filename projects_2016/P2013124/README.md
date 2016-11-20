@@ -36,6 +36,9 @@ A.M. : Π2013124
 #Screenshots
 ![2016-11-16 21_49_41-](https://cloud.githubusercontent.com/assets/17496439/20363180/f42fa0c4-ac46-11e6-97dc-89167fe98044.jpg)
 ![2016-11-16 21_50_12-mit app inventor](https://cloud.githubusercontent.com/assets/17496439/20363183/f9799a6c-ac46-11e6-913d-3297ae61385b.jpg)
+![2016-11-21 00_10_56-mit app inventor](https://cloud.githubusercontent.com/assets/17496439/20466754/7ad943ae-af81-11e6-9bf4-b72f49499f09.jpg)
+![2016-11-21 00_12_23-](https://cloud.githubusercontent.com/assets/17496439/20466758/7deff948-af81-11e6-8c41-361d2ebb7408.jpg)
+![15133629_10206619940651766_1390532375_o](https://cloud.githubusercontent.com/assets/17496439/20466759/7e9ee0ca-af81-11e6-8b44-43ba44d690f3.png)
 
 #Παραδοτέο 3 
 ...
