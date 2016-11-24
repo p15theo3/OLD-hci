@@ -98,6 +98,14 @@ p15niki@ionio.gr
 
 ##Παραδοτέο 3
 
+**Low-fidelity Prototype**
+
+![prototype](https://cloud.githubusercontent.com/assets/22655733/20594113/a826fbc6-b23d-11e6-97f6-477debb4a62c.jpg)
+
+**Ενδεικτική οθόνη**
+
+![1](https://cloud.githubusercontent.com/assets/22655733/20594379/af757578-b23e-11e6-9f10-0344d6e07c0f.JPG)
+
 ###Παράδειγμα (Demo online): https://scratch.mit.edu/projects/132386061/
 
 ##Παραδοτέο 4
