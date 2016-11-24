@@ -106,7 +106,7 @@ p15niki@ionio.gr
 
 ![1](https://cloud.githubusercontent.com/assets/22655733/20594379/af757578-b23e-11e6-9f10-0344d6e07c0f.JPG)
 
-###Παράδειγμα (Demo online): https://scratch.mit.edu/projects/132386061/
+###Παράδειγμα (Οnline demo): https://scratch.mit.edu/projects/132386061/
 
 ##Παραδοτέο 4
 
