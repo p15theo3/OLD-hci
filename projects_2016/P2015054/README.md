@@ -1,11 +1,16 @@
+#ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
+##Τμήμα Πληροφορικής
+Μάθημα: Επικοινωνία Ανθρώπου - Υπολογιστή
+
+Διδάσκων: Κωνσταντίνος Χωριανόπουλος
 #Τίτλος Εργασίας: Prime Snake
-Μαρία-Νεφέλη Νικηφόρου
+Φοιτήτρια: Μαρία-Νεφέλη Νικηφόρου
 ΑΜ Π2015054
 p15niki@ionio.gr
 
 ##Παραδοτέο 0
 
-https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
+Α) https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
 
 ##Παραδοτέο 1
 
@@ -93,7 +98,7 @@ https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
 
 ##Παραδοτέο 3
 
-...
+###Παράδειγμα (Demo online): https://scratch.mit.edu/projects/132386061/
 
 ##Παραδοτέο 4
 
