@@ -74,13 +74,13 @@ http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/703/4640,20987/
 * Για να γεμίσουμε το όπλο μας με σφαίρες/ντόνατ πατάμε το spacebar.
 
 **Εικόνα 1**  
-![1] https://i.imgsafe.org/c6a63679b4.png
+![1](https://i.imgsafe.org/c6a63679b4.png)
 
 **Εικόνα 2**  
-![2] https://i.imgsafe.org/c6a67574dd.png
+![2](https://i.imgsafe.org/c6a67574dd.png)
 
 **Εικόνα 3**  
-![3] https://i.imgsafe.org/c6a6736102.png
+![3](https://i.imgsafe.org/c6a6736102.png)
 
 
 ###Παράδειγμα(Beta Version Online)
