@@ -2,7 +2,7 @@
 
 Ονοματεπώνυμο: Κωνσταντίνος Τσίπας Π2015024
                
-Παραδοτέο 0: https://github.com/pibook/pibookgr/pull/14/files#diff-8753ace6f974be7d4d1a0913c2d8e981
+Παραδοτέο 0: Α) https://github.com/pibook/pibookgr/pull/14/files#diff-8753ace6f974be7d4d1a0913c2d8e981
 
 
 1ο Παραδοτέο: Εκπαιδευτικό Βιντεοπαιχνίδι με το εργαλείο Scratch
