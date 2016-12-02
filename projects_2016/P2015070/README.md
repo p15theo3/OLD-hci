@@ -80,16 +80,18 @@
 ##Ενδεικτικές εικόνες 
 
 ##Πρώτο Επίπεδο
-![1](https://cloud.githubusercontent.com/assets/22654144/20558876/fd72d262-b17a-11e6-83c2-294e6a44833b.png)
+![image1](https://cloud.githubusercontent.com/assets/22654144/20836337/8dc6872c-b8a7-11e6-8ead-2b2f0e98274e.png)
+
 
 ##Δεύτερο Επίπεδο
-![2](https://cloud.githubusercontent.com/assets/22654144/20558933/15c5287e-b17b-11e6-925d-1a2e6eef5bf2.png)
+![image2](https://cloud.githubusercontent.com/assets/22654144/20836360/a5183f88-b8a7-11e6-8d0b-fbf0ced6c410.png)
+
 
 ##Τρίτο Επίπεδο
-![3](https://cloud.githubusercontent.com/assets/22654144/20558952/28be098c-b17b-11e6-91de-937753248a54.png)
+![image3](https://cloud.githubusercontent.com/assets/22654144/20836380/bf4add84-b8a7-11e6-99ba-083364b7af47.png)
 
 ##Τέλος Παιχνιδιου
-![4](https://cloud.githubusercontent.com/assets/22654144/20558971/3cb8c0d0-b17b-11e6-8a12-034659f232fc.png)
+![image4](https://cloud.githubusercontent.com/assets/22654144/20836392/ca93c318-b8a7-11e6-87bf-a244f447180c.png)
 
 ##Περιγραφή και Οδηγίες
 Σκοπός του χρήστη είναι να επιλύσει σωστά την κάθε μαθηματική εξίσωση που εμφανίζεται για περιορισμένο χρόνο στο κάθε επίπεδο
