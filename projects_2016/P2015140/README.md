@@ -75,6 +75,7 @@ Demo: https://scratch.mit.edu/projects/128168472/
 
 **Μέρος Ά - Κεφάλαιο 7ο : Θετικοί και Αρνητικοί αριθμοί (Ά Γυμνασίου)**
 
+
 **Α.7.3 :** Πρόσθεση ρητών αριθμών. (http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-A200/293/2066,7226/)
 
 **Α.7.4 :** Αφαίρεση ρητών αριθμών. (http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-A200/293/2066,7227/)
@@ -121,6 +122,8 @@ Demo: https://scratch.mit.edu/projects/128168472/
 ![bubble_bobble5](bubble_bobble5.png)
 
 Σε περίπτωση λάθους η διαδικασία είναι παρόμοια με αυτήν της πρώτης και δεύτερης πίστας.
+
+![bubble_bobble6](bubble_bobble6.png)
 
 
 ##Παραδοτέο 4
