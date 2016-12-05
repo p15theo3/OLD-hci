@@ -22,6 +22,7 @@ Online Demo: https://scratch.mit.edu/projects/134204540/
 Scratch Game Online: https://scratch.mit.edu/projects/134204540/#player
 
 Image 1: Αρχική οθόνη 
+
 ![video_game_scratch_image1](https://lh3.googleusercontent.com/-AoT-ubFzVq8/WEWs_-wXPGI/AAAAAAAAAQc/Bvhr_-AMEWAFMVShsJMIo7akeMI50CfYACJoC/w530-h426-p-rw/1.png)
 
 
@@ -34,8 +35,13 @@ Image 2-3: Οι χαρακτήρες προχωράνε προς την πριγ
 Image 4: Αν ο χρήστης έχει απαντήσει περισσότερες σωστές ερωτήσεις τότε κερδίζει το παιχνίδι
 ![video_game_scratch_image4](https://lh3.googleusercontent.com/-NiKu9kInSHA/WEWus2M7GKI/AAAAAAAAASo/PH26bt-QQVMxoLLEyRU4FwZZi-LB4XhUACJoC/w530-h425-p-rw/4.png)
 
+
+
 Image 5: Διαφορετικά ο παίκτης χάνει
 ![video_game_scratch_image5](https://lh3.googleusercontent.com/-b2aZ_M__PDk/WEWuxS06OoI/AAAAAAAAAS0/WhVlAvv-HNAf9FMxsXWgjqh1VZEWDwECwCJoC/w530-h421-p-rw/5.png)
+
+
+
 4ο Παραδοτέο
 
 Τελική Αναφορά
