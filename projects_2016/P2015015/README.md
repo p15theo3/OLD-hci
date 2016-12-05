@@ -21,7 +21,7 @@ Online Demo: https://scratch.mit.edu/projects/134204540/
 
 Scratch Game Online: https://scratch.mit.edu/projects/134204540/#player
 
-![video_game_scratch_image1](file:///C:/Users/new/Documents/Sxolh/Github%20shit/1.png)
+![video_game_scratch_image1](https://lh3.googleusercontent.com/-AoT-ubFzVq8/WEWs_-wXPGI/AAAAAAAAAQc/Bvhr_-AMEWAFMVShsJMIo7akeMI50CfYACJoC/w530-h426-p-rw/1.png)
 
 4ο Παραδοτέο
 
