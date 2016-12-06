@@ -33,6 +33,13 @@ https://goo.gl/photos/hyftDaN6gbDAPkZa7
 
 ~Παρακάτω υπάρχουν ορισμένες εικόνες απο την εκτέλεση του παιχνιδιού.
 
+![15397732_351154935245374_1522401373_o](https://cloud.githubusercontent.com/assets/22773897/20946503/a270439c-bc13-11e6-84cb-e70f31072787.png)
+
+![15409515_351154938578707_2101216066_o](https://cloud.githubusercontent.com/assets/22773897/20946545/cd4cd03a-bc13-11e6-8397-43639d3a522f.png)
+
+![15409525_351154955245372_2110606614_o](https://cloud.githubusercontent.com/assets/22773897/20946555/d7e63f40-bc13-11e6-943d-bb53bf90f114.png)
+
+
 
 #Παραδοτέο 4
 ...
