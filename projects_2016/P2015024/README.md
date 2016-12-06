@@ -15,10 +15,8 @@
               Δεν έχω δανειστεί κανεναν έτοιμο κωδικά.
               Online Demo: https://scratch.mit.edu/projects/129695924/#player
 
-3ο Παραδοτέο: Το προηγούμενο project ήταν δουλειά 2 ατόμων, η ομάδα χωρίστηκε και δημιουργήθηκε ένα νέο project. Σε αυτήν την περίπτωση δημιούργησα χωρίς την βοήθεια κάποιου έτοιμου κώδικα το Feeding Addition Underwater. Το παιχνίδι αυτό είναι σχεδιασμένο για παιδιά και των 2 φύλων της Α' και Β' τάξης του δημοτικού και η θεματική του ενότητα είναι, όπως λέει και ο τίτλος, η πρόσθεση. Δεν θα προσθέσω κάποια εικόνα από το game γιατί αποτελείται από ένα μόνο screen.
-              Screen
-              
-              ![video_game_scratch_imageA](https://lh3.googleusercontent.com/5pi50ygO_rnWWuGCJw9hu9wMMOELKUbZtfrmyIGrxKi8BcS8jrbVFO4gJLKDpsOoEwkUp69GB0LP=w1366-h768-rw-no.png)
+3ο Παραδοτέο: Το προηγούμενο project ήταν δουλειά 2 ατόμων, η ομάδα χωρίστηκε και δημιουργήθηκε ένα νέο project. Σε αυτήν την περίπτωση δημιούργησα χωρίς την βοήθεια κάποιου έτοιμου κώδικα το Feeding Addition Underwater. Το παιχνίδι αυτό είναι σχεδιασμένο για παιδιά και των 2 φύλων της Α' και Β' τάξης του δημοτικού και η θεματική του ενότητα είναι, όπως λέει και ο τίτλος, η πρόσθεση. Δεν θα προσθέσω κάποια εικόνα από το game γιατί αποτελείται από ένα μόνο screen. 
+![video_game_scratch_image1](https://lh3.googleusercontent.com/5pi50ygO_rnWWuGCJw9hu9wMMOELKUbZtfrmyIGrxKi8BcS8jrbVFO4gJLKDpsOoEwkUp69GB0LP=w1366-h768-rw-no.png)
               
 
 
