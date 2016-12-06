@@ -76,7 +76,7 @@
 
 * Παρατίθεται κι ένα βίντεο με τη λειτουργία της εφαρμογής.
 
-![Screenshot6](Screencast1.mp4) 
+https://www.youtube.com/watch?v=9rmCUau-6Hs&feature=youtu.be
 
 ## Προβλήματα και μελλοντικές βελτιώσεις
 
