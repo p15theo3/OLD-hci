@@ -73,7 +73,7 @@
 
 ![ScreenShot](update 1.png)
 
-![ScreenShot](update 2.png)
+![ScreenShot](update2.png)
 
 
 Demo: https://scratch.mit.edu/projects/129292893/
