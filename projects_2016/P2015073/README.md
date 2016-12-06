@@ -51,6 +51,13 @@ Quotes
 ##Pacman: https://scratch.mit.edu/projects/2806461/
 
 ##Το link του παιχνιδιού μου: https://scratch.mit.edu/projects/134649641/
+
+![3a2428832c804a2d8ba166adeec0bc53](https://cloud.githubusercontent.com/assets/22691298/20935250/9bb9857c-bbe6-11e6-8a76-e9f24be56970.png)
+
+![cefab7f8b8cf4525a21153726359d603](https://cloud.githubusercontent.com/assets/22691298/20935331/f4f0dc80-bbe6-11e6-9f4b-5c2fda6c3397.png)
+
+
+
 ...
 
 ##Παραδοτέο 4
