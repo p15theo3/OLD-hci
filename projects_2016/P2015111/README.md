@@ -73,7 +73,7 @@ Screenshot 4
 * Εργαλείο ανάπτυξης: Scratch
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από:
  * Gem Game - https://scratch.mit.edu/projects/10181336/
- *-Race car Simulator- - https://scratch.mit.edu/projects/38041040/
+ * -Race car Simulator- - https://scratch.mit.edu/projects/38041040/
 
 
 ####Πρωτότυπο
@@ -81,15 +81,20 @@ Screenshot 4
 ![Screenshot 5](D2_G1_Screenshot_1.png)
 
 Screenshot 1
+Σκοπός του παιχνιδιού είναι να πλοηγηθεί το διαστημόπλοιο στο τέλος της πίστας, χωρίς να χτυπήσει κάποιο εμπόδιο. Για να το κάνει αυτό, πρέπει να εισάγει στο παράθυρο που εμφανίζεται πόσες μοίρες να στρίψει. Αν δωθεί θετικός αρνητικός, το διαστημόπλοιο στρίβει προς τα πάνω, αλλιώς, αν δωθεί αρνητικός, στρίβει προς τα κάτω.
 
 ![Screenshot 6](D2_G1_Screenshot_2.png)
 
 Screenshot 2
-
+Καθώς ο παίκτης πληκτρολογεί, το βελάκι του δείχνει την κατεύθυνση στην οποία θα κινηθεί. 
 ![Screenshot 7](D2_G1_Screenshot_3.png)
 
 Screenshot 3
+Πατώντας το Enter, το διαστημόπλοιο κατευθύνεται προς την κατεύθυνση που εισήγαγε ο χρήστης και στη συνέχεια ξαναζητά νέα τιμή.
+![Screenshot 8](D2_G1_Screenshot_4.png)
 
+Screenshot 4
+Αν ο παίκτης χτυπήσει κάποιο εμπόδιο, το αεροπλάνο εκρήγνυται και ο παίκτης στέλνεται στην αρχή του επιπέδου.
 
 ####Σενάριο
 
@@ -121,19 +126,19 @@ Screenshot 3
 * Εργαλείο ανάπτυξης: Scratch
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από:
  * Gem Game - https://scratch.mit.edu/projects/10181336/
- *-Race car Simulator- - https://scratch.mit.edu/projects/38041040/
+ * -Race car Simulator- - https://scratch.mit.edu/projects/38041040/
 
 ####Πρωτότυπο
 
-![Screenshot 8](D2_G2_Screenshot_1.png)
+![Screenshot 9](D2_G2_Screenshot_1.png)
 
 Screenshot 1
 
-![Screenshot 9](D2_G2_Screenshot_2.png)
+![Screenshot 10](D2_G2_Screenshot_2.png)
 
 Screenshot 2
 
-![Screenshot 10](D2_G2_Screenshot_3.png)
+![Screenshot 11](D2_G2_Screenshot_3.png)
 
 Screenshot 3
 
@@ -154,7 +159,7 @@ Screenshot 3
   
 ####Demo
 
-Μπορείτε να βρείτε ότι έχει υλοποιηθεί μέχρι στιγμής εδώ: https://scratch.mit.edu/projects/128971433/
+Μπορείτε να βρείτε ότι έχει υλοποιηθεί μέχρι στιγμής εδώ:
 
 ##Παραδοτέο 4
 
