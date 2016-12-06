@@ -1,13 +1,81 @@
 Τίτλος εργασίας: Εκπαιδευτικό βιντεο-παιχνίδι
 
 Ονοματεπώνυμο: Δήμητρα Παππά Π2015015
-               Κωνσταντίνος Τσίπας Π2015024
+
                
+
+Παραδοτέο 0: 
+Α: https://github.com/pibook/pibookgr/pull/14/files#diff-8753ace6f974be7d4d1a0913c2d8e981
+(έγινε ως ομάδα η οποία έσπασε και έγιναν ξεχωριστές εργασίες)
+
+
 1ο Παραδοτέο: Εκπαιδευτικό βιντεο-παιχνίδι με το εργαλείο scratch
 
-2o Παραδοτέο
+2o Παραδοτέο: 
+Εργαλείο Ανάπτυξης: Scratch. 
+Ηλικία: Το παιχνίδι είναι σχεδιασμένο για παιδιά και των 2 φύλων της Α' και Β' τάξης του Δημοτικού. 
+Θεματική διδακτική ενότητα: Μαθηματικά. 
+Στόχος του παιχνιδιού είναι ο χρήστης μάθει να μετράει. Δεν έχω δανειστεί κανεναν έτοιμο κωδικά. 
+Online Demo: https://scratch.mit.edu/projects/129695924/#player 
 
-3ο Παραδοτέο
+Intro:
+
+![video_game_scratch_imageA](https://lh3.googleusercontent.com/-0y_s3kjd8a0/WEWx5j9s40I/AAAAAAAAAUQ/7120r7AP0oYRRKP9bo0Bs9T7_socOPoNgCJoC/w530-h421-p-rw/b1.png)
+
+Help:
+
+![video_game_scratch_imageB](https://lh3.googleusercontent.com/-ooPXLO5TyTI/WEWyE3ffrEI/AAAAAAAAAUo/7kNLxMfGNwwZOojxfRLZ3PkcNOEkUYbuQCJoC/w530-h422-p-rw/b2.png)
+
+Controls:
+
+![video_game_scratch_imageC](https://lh3.googleusercontent.com/-TV8jReb681Y/WEWyIF8g1tI/AAAAAAAAAVA/tou1T0EYYO8ZmWBxitR5w4Q1GfsaXD8GQCJoC/w530-h423-p-rw/b3.png)
+
+Start:
+
+![video_game_scratch_imageD](https://lh3.googleusercontent.com/-TS415Yl6RQI/WEWyLe6nHRI/AAAAAAAAAVc/o3FC7p7oOvgl2DmQ_1I_J4N6ukCYxDwLACJoC/w530-h422-p-rw/b4.png)
+
+
+
+
+
+
+
+
+3ο Παραδοτέο:
+
+Το προηγούμενο παιχνίδι δεν ήταν βασισμένο σε έναν ήδη υπάρχοντα κώδικα κλασσικού παιχνιδιού οπότε αποσύρθηκε και δημιουργήθηκε νέο παιχνίδι. Επίσης είχε δημιουργηθεί με ομάδα δύο ατόμων η οποία έσπασε και έγινε ξεχωριστή εργασία.
+
+
+Το νέο παιχνίδι δημιουργήθηκε με βάση έναν απλό αγώνα ερωτήσεων. Το περιεχόμενο των ερωτήσεων είναι η Μαθηματική προπαίδεια. Το παιχνίδι βοηθάει τον χρήστη να εξασκήσει τις γνώσεις του στην προπαίδεια γράφωντας την σωστή απάντηση στους πολλαπλασιασμούς ώστε να νικήσει, προχωρώντας ένα βήμα μπροστά για κάθε σωστή απάντηση μέχρι το σημείο τερματισμού. Για κάθε λάθος απάντηση υπάρχει ο ανταγωνισμός του δεύτερου παίκτη (που δίνει την εντύπωση του αντιπάλου) ο οποίος μπορεί να τερματίσει επίσης προχωρώντας ένα βήμα για κάθε λανθασμένη απάντηση.
+Η οπτική του παιχνιδιού έχει αλλάξει σε ένα θέμα που προσφέρει στον χρήστη μεγαλύτερο κίνητρο να νικήσει. Μια κλασσική ιστορία ενός πολεμιστή (που ταυτίζεται με τον χρήστη) που προσπαθεί να σώσει την πριγκίπισσα πριν τον κακό χαρακτήρα του παιχνιδιού.
+
+Αρχικός κώδικας από https://scratch.mit.edu/projects/1376836/. 
+
+Scratch Game Online: https://scratch.mit.edu/projects/134204540/#player
+
+
+
+Image 1: Αρχική οθόνη 
+
+![video_game_scratch_image1](https://lh3.googleusercontent.com/-AoT-ubFzVq8/WEWs_-wXPGI/AAAAAAAAAQc/Bvhr_-AMEWAFMVShsJMIo7akeMI50CfYACJoC/w530-h426-p-rw/1.png)
+
+
+Image 2-3: Οι χαρακτήρες προχωράνε προς την πριγκίπισσα ανάλογα με τις σωστές ή λάθος απαντήσεις
+![video_game_scratch_image2](https://lh3.googleusercontent.com/-sbkTfBJVaJY/WEWtie6XYjI/AAAAAAAAAQ4/cTbDXS0zSsw4cmO8eU_sRTR5FP14TJliACJoC/w530-h424-p-rw/2.png)
+
+![video_game_scratch_image3](https://lh3.googleusercontent.com/-BAPvTjS2xNg/WEWuFQhfNCI/AAAAAAAAARY/UyD4CE16KMoW-ngBin_2sezBZE9XwD4rwCJoC/w530-h426-p-rw/3.png)
+
+
+Image 4: Αν ο χρήστης έχει απαντήσει περισσότερες σωστές ερωτήσεις τότε κερδίζει το παιχνίδι
+![video_game_scratch_image4](https://lh3.googleusercontent.com/-NiKu9kInSHA/WEWus2M7GKI/AAAAAAAAASo/PH26bt-QQVMxoLLEyRU4FwZZi-LB4XhUACJoC/w530-h425-p-rw/4.png)
+
+
+
+Image 5: Διαφορετικά ο παίκτης χάνει
+
+![video_game_scratch_image5](https://lh3.googleusercontent.com/-b2aZ_M__PDk/WEWuxS06OoI/AAAAAAAAAS0/WhVlAvv-HNAf9FMxsXWgjqh1VZEWDwECwCJoC/w530-h421-p-rw/5.png)
+
+
 
 4ο Παραδοτέο
 

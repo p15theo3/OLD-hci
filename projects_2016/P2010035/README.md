@@ -17,12 +17,9 @@ https://github.com/giorgiomotors/pibookgr/tree/giorgiomotors-patch-1
 
 ##Παραδοτέο 3
 
-...
+Φάκελος Final_Presentation
 
-##Παραδοτέο 4
+##Παραδοτέο 4 - Τελική Αναφορά
 
-...
-
-##Τελική Αναφορά
 
 ...
