@@ -19,7 +19,7 @@
               Screen
               
               ![video_game_scratch_imageA]
-              (https://plus.google.com/u/0/photos/photo/111532698178978207209/6361017097540283426?icm=false.png)
+              (https://lh3.googleusercontent.com/5pi50ygO_rnWWuGCJw9hu9wMMOELKUbZtfrmyIGrxKi8BcS8jrbVFO4gJLKDpsOoEwkUp69GB0LP=w1366-h768-rw-no.png)
 
 
 4ο Παραδοτέο
