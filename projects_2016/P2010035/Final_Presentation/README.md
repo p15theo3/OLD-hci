@@ -27,7 +27,7 @@
 
     Εργαλείο ανάπτυξης: MIT App Inventor 2
     Δανεισμός στοιχείων (ιδέες και κώδικα) από: 
-Tutorial / Video:*	http://appinventor.mit.edu/explore/ai2/tutorials.html
+Tutorial:	http://appinventor.mit.edu/explore/ai2/tutorials.html
 *	http://stackoverflow.com/questions/28869954/how-can-i-open-a-web-page-in-app-inventor
 *	http://www.appinventor.org/content/howDoYou/screens/share
 *	http://stackoverflow.com/questions/27872652/how-to-pass-data-between-screens-using-intent-in-mit-app-inventor
