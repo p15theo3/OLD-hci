@@ -16,9 +16,9 @@
  
  ● Θεματική Ενότητα: Μαθηματικά Γ΄ Δημοτικού
          
-(Πρόσθεση - Αφαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6921/)          
+  ▶ (Πρόσθεση - Αφαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6921/).          
    
-(Πολλαπλασιασμός: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6925/).
+  ▶ (Πολλαπλασιασμός: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6925/).
   
  ● Φύλο: Ανεξάρτητο
  
