@@ -66,7 +66,7 @@ Screenshot 4
 * Γνώσεις: Γωνίες
 * Θεματική ενότητα: [ΣΤ' Δημοτικού, Θεματική ενότητα 6 - Γωνίες, Σχεδιάζω γωνίες](http://ebooks.edu.gr/modules/ebook/show.php/DSDIM101/301/2094,7470/)
 * Φύλο: Ανεξάρτητο
-* Αφαίρεση στοιχείων από το κλασικό παιχνίδι: [Scramble (Konami)](https://en.wikipedia.org/wiki/Scramble_(video_game))
+* Αφαίρεση στοιχείων από το κλασικό παιχνίδι: [Scramble (Konami)]( https://en.wikipedia.org/wiki/Scramble_(video_game) )
 
 ####Εγκατάσταση εργαλείων ανάπτυξης
 
