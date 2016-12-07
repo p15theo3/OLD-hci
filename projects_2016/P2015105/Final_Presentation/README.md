@@ -44,7 +44,18 @@ Ball behaviour: Χρησιμοποιήθηκε σχεδόν έτοιμος, έπ
 
 https://noobtuts.com/unity/2d-pong-game
 
+##Μελλοντικές βελτιώσεις για την ολοκλήρωση της εργασίας:
+* UI:
+ * Κουμπί "Τoggle VR"
+ * "Click ball to start"
+ * Score board -> Win/Lose -> Restart game
 
+* Design:
+ * Background
+ * Ball trail
+ * Better object colours
+ 
+##Κώδικας και παιχνίδι
 * Ο τελικός κώδικας είναι διαθέσιμος εδώ: https://github.com/danielyor/PongVR-07.12.2016/tree/master/Code
 
 * Το παιχνίδι (.apk) είναι διαθέσιμο εδώ, χρειάζεται εγκατάσταση σε κινητό: https://github.com/danielyor/PongVR-07.12.2016/tree/master/Android-APK
