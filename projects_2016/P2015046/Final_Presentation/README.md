@@ -24,7 +24,7 @@
 * Δανεισμος ιδεων  https://www.youtube.com/watch?v=wVCz1a3ogqk (για το chat) 
      https://www.youtube.com/watch?v=dr0zEmuDuIk&t=2s (για τα maps)
 
-## Αλλαγες που πραγματοποιηθηκαν:'
+## Αλλαγες που πραγματοποιηθηκαν:
 
 * Προσθεσαμε BackGround στην αρχικη οθονη του χρηστη
 * Επανασχεδιασαμε τα εικονιδια του App Bar Menu
