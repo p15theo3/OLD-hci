@@ -51,14 +51,14 @@
 Πρωτότυπο 8:
 
 
-![2ndque](2ndque.jpg)
+![2ndque] (2ndque.jpg)
 
 Η δεύτερη ερώτηση.
 
 Πρωτότυπο 9:
 
 
-![wronganswer](wronganswer.jpg)
+![wronganswer] (wronganswer.jpg)
 
 Σε περίπτωση λανθασμένης απάντησης.
 
