@@ -52,15 +52,13 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 
 
 ##Παραδοτέο 3
-Εκπαιδευτικό βιντεο-παιχνίδι με c++ και χρήση sfml 
-##Παραδοτέο 2
+βιντεο-παιχνίδι με c++ και χρήση sfml 
 
 ##Προδιαγραφές
 
-* Ηλικία: Μαθητές Τρίτης Δημοτικού
+* Ηλικία:EVERYONE
 * Γνώσεις: Πρόσθεση, αφαίρεση, πολλαπλασιασμός, διαίρεση
-* Θεματική ενότητητα: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/703/4641,20989/
-* Αφαίρεση στοιχείων:  από racing παιχνίδια
+* Αφαίρεση στοιχείων:  από space shooting παιχνίδια
 * Φύλο: Ανεξάρτητο
 
 
@@ -69,17 +67,41 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 * Προγραμματιστικό Περιβάλλον: Microsoft Visual Studio 2013
 * Δανεισμός στοιχείων  (ιδέες):
 
-##Space Race Multiplication
+![screen1](SpaceRaceShooting1.PNG)
 
-![Space Race Multiplication](SpaceRaceMultiplication.PNG)
-http://www.mathplayground.com/ASB_SpaceRaceMultiplication.html
+Οθόνη 1-Αρχική οθόνη
 
-##Πρωτότυπο
+![screen2](screen2.jpg)
 
-###Εικόνα1
-![εικόνα1](SpaceRaceShooting1.PNG)
-###Εικόνα2
-![εικόνα2](SpaceRaceShooting2.PNG)
+Οθόνη 2-Επιλογή πίστας - πράξης
+
+![screen3](screen3.jpg)
+
+Οθόνη 3-In-game
+
+![screen41](screen41.jpg)
+
+Οθόνη 4.1-Σωστό
+
+![screen42](screen42.jpg)
+
+Οθόνη 4.2-Λάθος
+
+![screen5](screen5.jpg)
+
+Οθόνη 5-Οδηγίες
+
+![screen6](screen6.jpg)
+
+Οθόνη 6- Game Over
+
+![initial](initial.jpg)
+
+Αρχική αφήγηση
+
+![final](final.jpg)
+
+Αφήγηση - Σενάριο ολοκλήρωσης παιχνιδιού
 
 ##Σενάριο
 
