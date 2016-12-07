@@ -78,6 +78,8 @@ https://scratch.mit.edu/projects/72798680/
 
 ###Ιδέες:
 Το παινίδι να γίνει side-scrolling  
+
+Και το Demo για την ώρα του παιχνιδιού εδώ:https://scratch.mit.edu/projects/134652057/
 ##Παραδοτέο 4
 
 
