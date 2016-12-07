@@ -21,6 +21,7 @@
 ## Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο
 
 *	Εργαλείο ανάπτυξης: Android Studio
+* Δανεισμος ιδεων : https://www.youtube.com/watch?v=wVCz1a3ogqk (για το chat) 
 
 ![main menu](main menu.jpg)
 ```
