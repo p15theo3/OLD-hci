@@ -58,7 +58,7 @@
 Πρωτότυπο 9:
 
 
-![wronganswer] (wronganswer.jpg)
+![wrongasnwer] (wrongasnwer.jpg)
 
 Σε περίπτωση λανθασμένης απάντησης.
 
