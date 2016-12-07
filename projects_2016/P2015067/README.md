@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 
 ##Προδιαγραφές
 
-* Ηλικία:EVERYONE
+* Ηλικία:Για ολες τις ηλικίες 
 * Αφαίρεση στοιχείων:  από space shooting παιχνίδια
 * Φύλο: Ανεξάρτητο
 
