@@ -72,7 +72,7 @@
 Πρωτότυπο 11:
 
 
-![3rdque] (3erdque.jpg)
+![3rdque] (3rdque.jpg)
 
 
 Η Τρίτη ερώτηση.
