@@ -33,18 +33,18 @@
 ##Πηγές, δανεισμός και τροποποίηση κώδικα
 
 AI (enemy) movement: Δημιουργήθηκε από guides  
-http://stackoverflow.com/questions/23960654/unity-pong-ai-movement-speed
-https://forum.unity3d.com/threads/pong-ai.238241/
+* http://stackoverflow.com/questions/23960654/unity-pong-ai-movement-speed
+* https://forum.unity3d.com/threads/pong-ai.238241/
 
 Player movement: Δημιουργήθκε από guides (και από πολλές προσπάθειες και αποτυχίες)  
-https://forum.unity3d.com/threads/how-to-use-cardboard-reticle-vr-gaze-pointer-cursor-cardboard-button-gaze-input.388492/
-https://forum.unity3d.com/threads/solved-gvr-reticle-not-expanding-when-an-object-is-gaze.414530/
-https://docs.unity3d.com/ScriptReference/Camera.html
-http://answers.unity3d.com/questions/61354/set-eulerangles-to-c.html
-http://stackoverflow.com/questions/3034604/is-there-an-exponent-operator-in-c
+* https://forum.unity3d.com/threads/how-to-use-cardboard-reticle-vr-gaze-pointer-cursor-cardboard-button-gaze-input.388492/
+* https://forum.unity3d.com/threads/solved-gvr-reticle-not-expanding-when-an-object-is-gaze.414530/
+* https://docs.unity3d.com/ScriptReference/Camera.html
+* http://answers.unity3d.com/questions/61354/set-eulerangles-to-c.html
+* http://stackoverflow.com/questions/3034604/is-there-an-exponent-operator-in-c
 
 Ball behaviour: Χρησιμοποιήθηκε σχεδόν έτοιμος, έπρεπε να μετασχηματιστεί για να δουλεύει από 2D σε 3D. Προστέθηκαν extras.  
-https://noobtuts.com/unity/2d-pong-game
+* https://noobtuts.com/unity/2d-pong-game
 
 ##Μελλοντικές βελτιώσεις για την ολοκλήρωση της εργασίας:
 * UI:
