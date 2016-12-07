@@ -93,22 +93,8 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 ![screen42](GameOverScreen.PNG)
 
 Οθόνη 5 : GameOver θα προκύψει σε περίπτωση που ο παίκτης μας χάσει όλες τις ζωές του(ζωή -1) 
-          Διαθέσιμες επιλογές κύριο μενού και επανακκίνηση
-![screen5](screen5.jpg)
-
-Οθόνη 5-Οδηγίες
-
-![screen6](screen6.jpg)
-
-Οθόνη 6- Game Over
-
-![initial](initial.jpg)
-
-Αρχική αφήγηση
-
-![final](final.jpg)
-
-Αφήγηση - Σενάριο ολοκλήρωσης παιχνιδιού
+          Διαθέσιμες επιλογές κύριο μενού και επανακκίνηση.Σε περίπωση που ο παίκτης αποφασίσει να παγώσει το παιχνιδι το μενού θα
+          είναι ακριβώς το ιδιο κουμπί παγώματος παιχνιδιού "Escape".
 
 ##Σενάριο
 
@@ -117,7 +103,7 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 
    
 ##Gameplay Video
-https://www.youtube.com/watch?v=WScZkhUcHH4
+https://www.youtube.com/watch?v=XIQ-aE3JPCo
 ...
 
 ##Παραδοτέο 4
