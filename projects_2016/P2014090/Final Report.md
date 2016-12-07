@@ -60,12 +60,16 @@
 θα μπορέσω να γνωρίσω την γνώμη του καθηγητή καθώς ο αρχικός σκοπός μου ήταν να φτιάξω άλλου είδους παιχνίδι.Το κλασικό παιχνίδι που 
 βασίστηκα παρουσιάζεται στην παρακάτω εικόνα:
 ![pac - man](https://cloud.githubusercontent.com/assets/22657181/20987727/6825273e-bcd6-11e6-8718-0cb122046b0d.png)
+
 Αρχικό Menu:
 ![home_screen](https://cloud.githubusercontent.com/assets/22657181/20987692/4e37e7d0-bcd6-11e6-9bed-6d9ac927fc42.png)
+
 Επεξεργασία παιχνιδιού:
 ![app development](https://cloud.githubusercontent.com/assets/22657181/20986868/0dc22ee8-bcd3-11e6-9e09-826674151003.png)
+
 Παίζωντας το παιχνίδι:
 ![play1](https://cloud.githubusercontent.com/assets/22657181/20987633/19f44798-bcd6-11e6-94ec-d7b09830c6ea.png)
+
 link :
 https://scratch.mit.edu/projects/134935321/
 
