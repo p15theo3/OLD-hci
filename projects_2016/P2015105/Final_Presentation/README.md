@@ -49,6 +49,7 @@ Ball behaviour: Χρησιμοποιήθηκε σχεδόν έτοιμος, έπ
 ##Μελλοντικές βελτιώσεις για την ολοκλήρωση της εργασίας:
 * UI:
  * Κουμπί "Τoggle VR"
+ * Επιλογή δυσκολίας
  * "Click ball to start"
  * Score board -> Win/Lose -> Restart game
 
