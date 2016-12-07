@@ -40,7 +40,7 @@
 ###*Προσθήκη Leaderboard για App Store και Play Store<br>
 
 ###*Προσθήκη Share Βutton για κοινοποίηση του σκορ στα κοινωνικά δίκτυα<br>
-![share image](share.png)<br>
+![share image](share.PNG)<br>
 
 ###*Νέο Splash Image<br>
 ![splash image](splash.png)<br>
