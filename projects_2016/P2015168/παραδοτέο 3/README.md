@@ -65,7 +65,7 @@
 Πρωτότυπο 10:
 
 
-![rightafteronetry] (rightafteronetry)
+![rightafteronetry] (rightafteronetry.jpg)
 
 Δυνατότητα επανάληψης της ερώτησης.
 
