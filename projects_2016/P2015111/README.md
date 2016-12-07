@@ -152,6 +152,10 @@ Screenshot 2
 
 Screenshot 3
 
+![Screenshot 11](D2_G2_Screenshot_4.png)
+
+Screenshot 4
+
 ####Σενάριο
 
 * Ήρθε η ώρα που οι μαθητές της Β' Γυμνασίου θα εισαχθούν στην Τριγωνομετρία.
