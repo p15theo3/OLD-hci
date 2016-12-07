@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 
 Οθόνη 1-Αρχική οθόνη
 
-![screen2](screen2.jpg)
+![screen2](1Matia.PNG)
 
 Οθόνη 2-Επιλογή πίστας - πράξης
 
