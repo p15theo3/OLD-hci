@@ -23,7 +23,7 @@ https://github.com/achkap/pibookgr/tree/gh-pages/_quotes
 
 ##Παραδοτέο 3
 
-...
+Φάκελος Advanced_Prototype (https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015201/Advanced_Prototype)
 
 ##Παραδοτέο 4
 

@@ -14,7 +14,7 @@
 
 ##Παραδοτέο 3
 
-...
+[ΕΔΩ](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2015018/Updated Prototype/README.md)
 
 ##Παραδοτέο 4
 

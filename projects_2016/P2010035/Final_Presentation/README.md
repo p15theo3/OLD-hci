@@ -27,7 +27,7 @@
 
     Εργαλείο ανάπτυξης: MIT App Inventor 2
     Δανεισμός στοιχείων (ιδέες και κώδικα) από: 
-*	http://appinventor.mit.edu/explore/ai2/tutorials.html
+Tutorial:	http://appinventor.mit.edu/explore/ai2/tutorials.html
 *	http://stackoverflow.com/questions/28869954/how-can-i-open-a-web-page-in-app-inventor
 *	http://www.appinventor.org/content/howDoYou/screens/share
 *	http://stackoverflow.com/questions/27872652/how-to-pass-data-between-screens-using-intent-in-mit-app-inventor
@@ -72,6 +72,8 @@
 Και την ενδιαφέρει πολύ να έχει ένα εικονίδιο στην επιφάνεια - μια εφαρμογή- ώστε πατώντας το να διαβάζει τα σημαντικότερα νέα
 της ημέρας συγκεντρωμένα. Για αυτό που της ενδιαφέρει πιο πολύ,να κάνει κλικ και να μπαίνει στην ιστοσελίδα.
 Αλλά να μπορεί να πατήσει και ένα άλλο κουμπί και να γυρίσει εκεί που ήταν.
+
+## Tutorial / Video:  https://youtu.be/-wDrpYBHVn4
 
 ##  Online Demo http://ai2.appinventor.mit.edu/?locale=en#5905778096209920
 
