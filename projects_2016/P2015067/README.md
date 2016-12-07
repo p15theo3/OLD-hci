@@ -57,7 +57,6 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 ##Προδιαγραφές
 
 * Ηλικία:EVERYONE
-* Γνώσεις: Πρόσθεση, αφαίρεση, πολλαπλασιασμός, διαίρεση
 * Αφαίρεση στοιχείων:  από space shooting παιχνίδια
 * Φύλο: Ανεξάρτητο
 
@@ -67,7 +66,7 @@ https://www.youtube.com/watch?v=WScZkhUcHH4
 * Προγραμματιστικό Περιβάλλον: Microsoft Visual Studio 2013
 * Δανεισμός στοιχείων  (ιδέες):
 
-![screen1](SpaceRaceShooting1.PNG)
+![screen1](Menu1.PNG)
 
 Οθόνη 1-Αρχική οθόνη
 
