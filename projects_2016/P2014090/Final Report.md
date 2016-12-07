@@ -66,6 +66,8 @@
 ![app development](https://cloud.githubusercontent.com/assets/22657181/20986868/0dc22ee8-bcd3-11e6-9e09-826674151003.png)
 Παίζωντας το παιχνίδι:
 ![play1](https://cloud.githubusercontent.com/assets/22657181/20987633/19f44798-bcd6-11e6-94ec-d7b09830c6ea.png)
+link :
+https://scratch.mit.edu/projects/134935321/
 
 ##Συμπεράσματα και προτάσεις για μελλοντικές βελτιώσεις:
 
