@@ -23,5 +23,5 @@
 ### Screenshots:
 
 
-![GitHub Logo] (PM1.jpg)
-![GitHub Logo] (PM2.jpg)
+![Pac-Man ScreenShot 1] (PM1.jpg)
+![Pac-Man ScreenShot 2] (PM2.jpg)
