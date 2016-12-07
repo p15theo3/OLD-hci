@@ -44,9 +44,11 @@ link:https://scratch.mit.edu/projects/129736139/
   
   ~Επίσης προστέθηκαν κάποια sound effects που βελτιώνουν την συνολική εμπειρία του χρήστη.
   
-  
   link: https://scratch.mit.edu/projects/129736139/
+  
+  ![stage](https://cloud.githubusercontent.com/assets/15660991/20975983/c1afa5c2-bca9-11e6-89a8-57e0ee603bc2.png)
 
+  
 
 
 #Παραδοτέο 4
