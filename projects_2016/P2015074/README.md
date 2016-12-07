@@ -1,12 +1,9 @@
 #App inventor Mobile App
 
-ΟΜΑΔΙΚΗ ΕΡΓΑΣΙΑ
 
 ΔΗΜΗΤΡΑ ΓΚΕΝΑ
 ΑΜ: Π2015074
 
-ΚΩΝΣΤΑΝΤΙΝΑ ΔΕΛΗΒΕΡΗ
-ΑΜ: Π2015020
 
 #Παραδοτέο 0
 https://github.com/DimitraGkena/pibookgr/tree/gh-pages/_quotes
@@ -29,7 +26,23 @@ https://github.com/DimitraGkena/pibookgr/tree/gh-pages/_quotes
 https://goo.gl/photos/hyftDaN6gbDAPkZa7
 
 #Παραδοτέο 3
-...
+
+~ΕΡΓΑΛΕΙΟ ΑΝΑΠΤΥΞΗΣ: MIT APP INVENTOR
+
+~Πρόκειται για ένα παιχνίδι στο οποίο ο παίκτης χειρίζεται με τους αισθητήρες κίνησης του κινητού του μια μπάρα η οποίο αποτρέπει την μπάλα απο το να χτυπήσει κάτω. Αποτελείται απο 7 επίπεδα στα οποία κάθε φορά η ταχύτητα της μπάλας αυξάνεται κατα 2. Το παιχνίδι τερματίζει στους 100 πόντους. H ιδέα είναι απο το κλασσικό παιχνίδι brick breaker. Ο κώδικας στον οποίο βασίστηκα είναι ο εξής: http://ai2.appinventor.mit.edu/?galleryId=4692510969692160. Το παιχνίδι θα το βρείτε στο παρακάτω link: 
+http://ai2.appinventor.mit.edu/?galleryId=6684899998957568
+
+~Παρακάτω υπάρχουν ορισμένες εικόνες απο την εκτέλεση του παιχνιδιού.
+
+![15397732_351154935245374_1522401373_o](https://cloud.githubusercontent.com/assets/22773897/20946503/a270439c-bc13-11e6-84cb-e70f31072787.png)
+
+![15409515_351154938578707_2101216066_o](https://cloud.githubusercontent.com/assets/22773897/20946545/cd4cd03a-bc13-11e6-8397-43639d3a522f.png)
+
+![15409525_351154955245372_2110606614_o](https://cloud.githubusercontent.com/assets/22773897/20946555/d7e63f40-bc13-11e6-943d-bb53bf90f114.png)
+
+
+~Βίντεο απο την εκτέλεση του:
+https://youtu.be/rLqHyokLa00 
 
 #Παραδοτέο 4
 ...

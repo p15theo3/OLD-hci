@@ -13,8 +13,8 @@
 https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015035/Present_Prototype
 
 ##Παραδοτέο 3
-
-...
+ΕΔΩ
+https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015035/Present_prototype_2
 
 ##Παραδοτέο 4
 
