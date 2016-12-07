@@ -16,49 +16,72 @@
 Ο πρίγκηπας ξεκινά την βόλτα του.
 Πρωτότυπο 2:
 
-![prince][prince.jpg]
+![prince] (prince.jpg)
+
 Ο Καστιέλ βρίσκει το κλειδί.
 
 Πρωτότυπο 3:
-![wizard1][wizard1.jpg]
+
+
+![wizard1] (wizard1.jpg)
+
 
 Πρωτότυπο 4:
-![wizrad2][wizard2.jpg]
+
+![wizrad2] (wizard2.jpg)
 
 Πρωτότυπο 5:
-![wizard3][wizard3.jpg]
+
+![wizard3] (wizard3.jpg)
 
 Η μάγισσα Μάρτζι εξηγεί την διαδικασία του παιχνιδιού.
 
 Πρωτότυπο 6:
-![1stque][1stque.jpg]
+![1stque] (1stque.jpg)
 
 Η πρώτη ερώτηση του 1ου επιπέδου.
 
 Πρωτότυπο 7:
-![right answer][right answer.jpg]
+
+
+![right answer] (right answer.jpg)
 
 Σε περίπτωση σωστής απάντησης.
 
 Πρωτότυπο 8:
-![2ndque][2ndque.jpg]
+
+
+![2ndque](2ndque.jpg)
+
 Η δεύτερη ερώτηση.
 
 Πρωτότυπο 9:
-![wronganswer][wronganswer.jpg]
+
+
+![wronganswer](wronganswer.jpg)
+
 Σε περίπτωση λανθασμένης απάντησης.
 
 Πρωτότυπο 10:
-![rightafteronetry][rightafteronetry]
+
+
+![rightafteronetry] (rightafteronetry)
+
 Δυνατότητα επανάληψης της ερώτησης.
 
 Πρωτότυπο 11:
-![3rdque][3erdque.jpg]
+
+
+![3rdque] (3erdque.jpg)
+
 
 Η Τρίτη ερώτηση.
 
 Πρωτότυπο 12:
-![level 2][level 2.jpg]
+
+
+![level 2] (level 2.jpg)
+
 
 Το επόμενο επίπεδο ερωτήσεων.
 
