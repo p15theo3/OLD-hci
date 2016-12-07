@@ -72,6 +72,11 @@
 +##ΠΡΩΤΑΣΕΙΣ ΓΙΑ ΜΕΛΟΝΤΙΚΕΣ ΒΕΛΤΙΩΣΕΙΣ 
 +ΘΑ ΠΡΩΣΠΑΘΗΣΩ ΝΑ ΔΙΕΥΡΥΝΩ ΤΟΝ  ΓΕΩΓΡΑΦΗΚΟ ΜΟΥ ΧΑΡΤΗ Ή ΝΕΟ INTERFACE ΣΤΗΝ ΑΡΧΙΚΗ ΟΘΟΝΗ.
 
+##MIT app inventor 
+ΠΑΡΑΚΑΤΩ ΔΙΑΘΕΤΩ ΤΟ LINK ΓΙΑ ΤΟ PUBLISH ΠΟΥ ΕΚΑΝΑ ΤΟΥ APP ΣΤΟ GALLERY ΤΟΥ MIT APP INVENTOR
+
+ai2.appinventor.mit.edu/?galleryId=5955826079236096
+
 #Παραδοτέο 4
 
 ...
