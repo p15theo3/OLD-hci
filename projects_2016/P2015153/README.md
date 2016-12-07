@@ -23,6 +23,5 @@
 ### Screenshots:
 
 
-![GitHub Logo] (Scratch1.jpg)
-![GitHub Logo] (Scratch2.1.jpg)
-![GitHub Logo] (Scratch3.jpg)
+![GitHub Logo] (PM1.jpg)
+![GitHub Logo] (PM2.jpg)
