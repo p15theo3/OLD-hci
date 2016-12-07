@@ -51,7 +51,7 @@
 Πρωτότυπο 8:
 
 
-![2ndque] (2ndque.jpg)
+![2nd que] (2nd que.jpg)
 
 Η δεύτερη ερώτηση.
 
