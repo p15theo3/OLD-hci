@@ -59,7 +59,7 @@
 #FlappyBird Online
 ![FlappyBird Online](FlappyBird Online.PNG)
 
-##Πρωτότυπο Εφαρμογής
+#FlappyBird (Math Edition)
 
 * Το FlappyBird (Math Edition) είναι ένα παιχνίδι παιχνίδι που συνδυάζει τις γνώσεις με τα
    αντανακλαστικά του χρήστη. Ο σκοπός του εκπαιδευτικού παιχνιδιού είναι να λύσει της πράξεις,
