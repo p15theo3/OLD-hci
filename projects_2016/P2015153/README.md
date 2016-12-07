@@ -15,7 +15,7 @@
 Ο παίκτης εχει μονο 3 ζωές
 
 # 3. Το link του παιχνιδιου
-* link: [Link Text](https://scratch.mit.edu/projects/130473198/#fullscreen)
+* link: [Pac-man HCI](https://scratch.mit.edu/projects/130473198/#fullscreen)
 
 ### Screenshots:
 
