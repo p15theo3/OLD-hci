@@ -93,7 +93,7 @@ Online Demo : https://scratch.mit.edu/projects/129727666/
 Ο παίχτης εφόσων δώσει την σωστή απάντηση ο Nightmare Shark θα προχωρήσει
 ![Σωστή Απάντηση](Screensho3.png)
 
-Στην περίπτωση που ο παίχτης δώσει λάθος απάντηση ο Nightmare Shark Θα παραμήνει στην ίδια θέση και τα του εμφανιστεί μια διαφορετική
+Στην περίπτωση που ο παίχτης δώσει λάθος απάντηση ο Nightmare Shark Θα παραμείνει στην ίδια θέση και τα του εμφανιστεί μια διαφορετική
 πράξει
 ![Λάθος Απάντηση](Screensho4.png)
 
@@ -105,8 +105,8 @@ Online Demo : https://scratch.mit.edu/projects/129727666/
 ####Online Demo
 
 * Το παιχνίδι μπορείτε να το βρείτε στο παρακάτω link:
-  https://scratch.mit.edu/projects/129727666/#player
-
+  https://scratch.mit.edu/projects/129727666
+  
 ##Παραδοτέο 4
 
 
