@@ -29,23 +29,24 @@ https://scratch.mit.edu/projects/14182007/
 
 Αρχική οθόνη εκκίνησης παιχνιδιού
 
-![screen](screen.jpg)
+![screen] (screen.jpg)
 
 Πρωτότυπο 2: 
 
 Ο Πέρυ κοιμάται ξέγνοιαστος στο δωμάτιο του αφεντικού του, όταν ξαφνικά εμφανίζεται ένα φάντασμα.
 
 
-![screen1](screen1.jpg)
+![screen1](screen1.JPG)
 
 
-![screen1.1](screen1.1.jpg)
+![screen1.1](screen1.1.JPG)
 
 Πρωτότυπο 3: 
+
 Ο Πέρυ βρίσκει το όπλο του για να εξολοθρεύσει τα φαντάσματα. 
 
 
-![screen2](screen2.jpg)
+![screen2](screen2.JPG)
 
 
 Πρωτότυπο 4: 
@@ -90,7 +91,7 @@ https://scratch.mit.edu/projects/14182007/
 
 
 
-![level2.1) (level2.1.png)
+![level1) (level21.png)
 
  
 
