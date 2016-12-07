@@ -1,6 +1,6 @@
-## ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ##
-## ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ ##
-## ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή ##
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ 
+# ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ 
+# ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή 
 
 Αναστασία Τσίγκα Π2015049, p15tsig@ionio.gr
 
@@ -15,7 +15,9 @@
  - **Εργαλείο εγκατάστασης παιχνιδιού:** Scratch
  - **Χρήση στοιχείων και ιδεών:**
  
- 1)[Underwater Bubble Pop](https://scratch.mit.edu/projects/10484983/)
+1)[Underwater Bubble Pop](https://scratch.mit.edu/projects/10484983/)
+
+
 ![ScreenShot 1](https://lh3.googleusercontent.com/4lfbjAeJwHPlXfSDGxeeXz6eGTQESuIo53sVvIZsO8G2xpHte29plqsCmgGUkLacyCVEkJjD=s0 "Screenshot1")
 
 #Αρχικά πρώτυπα
