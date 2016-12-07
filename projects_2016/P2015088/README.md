@@ -6,11 +6,12 @@
 Θέμα εργασίας : δημιουργία application για smartphone με την χρήση MIT app inventor 2
 
 ##Παραδοτέο 2
-Το δεύτερο παραδοτέο βρίσκεται στο φάκελο Present_prototype
+Το 2ο παραδοτέο βρίσκεται στο φάκελο Present_prototype
 https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015088/Present_prototype
 
 ##Παραδοτέο 3
-
+το 3ο παραδοτέο εδώ :
+https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015088/final
 
 ##Παραδοτέο 4
 
