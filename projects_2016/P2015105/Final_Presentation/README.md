@@ -56,7 +56,10 @@ Ball behaviour: Χρησιμοποιήθηκε σχεδόν έτοιμος, έπ
 * Design:
  * Background
  * Ball trail
- * Better object colours
+ * Καλύτερα χρώματα/γραφικά
+ 
+* Gameplay
+ * Αυξανόμενη δυσκολία μετά από κάθε αναπήδηση της μπάλας
  
 ##Κώδικας και παιχνίδι
 * Ο τελικός κώδικας είναι διαθέσιμος εδώ: https://github.com/danielyor/PongVR-07.12.2016/tree/master/Code
