@@ -4,6 +4,7 @@
 
 ##Παραδοτέο 0
 Bonus A:
+
 providing links for commits on pibook
 
 https://github.com/achkap/pibookgr/tree/gh-pages/gallery
