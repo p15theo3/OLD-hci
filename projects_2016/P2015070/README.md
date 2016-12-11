@@ -3,10 +3,8 @@
 ΑΜ Π2015070
 
 ##Παραδοτέο 0
-Προσθήκη 10 νέων παραθέσεων https://github.com/petros1997/pibookgr/tree/gh-pages/_quotes
-
-
-...
+Προσθήκη 10 νέων παραθέσεων: https://github.com/petros1997/pibookgr/tree/gh-pages/_quotes
+Προσθήκη 10 νέων εικόνων (non-copyrighted): https://github.com/petros1997/pibookgr/tree/gh-pages/_gallery/intro
 
 ##Παραδοτέο 1
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch
