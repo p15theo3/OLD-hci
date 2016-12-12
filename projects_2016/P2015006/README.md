@@ -2,8 +2,9 @@
 ΙΩΆΝΝΗΣ ΑΓΓΈΛΗΣ AM:Π2015006
 
 #Παραδοτέο 0
-+++ https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_quotes
-++ ...
++ https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_quotes
+
++ https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_remix
 + ..
 
 #Παραδοτέο 1
