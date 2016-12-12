@@ -40,9 +40,13 @@ https://scratch.mit.edu/projects/130103463/
 
 https://scratch.mit.edu/projects/134780840/    >>>>Το παιχνίδι στο 3ο παραδοτέο μετά τις βελτιώσεις.
 Το παιχνίδι του 2ου παραδοτέου πριν τις βελτιώσεις είναι ακόμη ανεβασμένο για σύγκριση βελτιώσεων https://scratch.mit.edu/projects/130103463/
+ΒΗΜΑ 1ο ΑΡΧΙΚΗ ΟΘΟΝΗ
 ![1 -](https://cloud.githubusercontent.com/assets/22677484/21111759/ba4978ca-c0ab-11e6-86c2-620154f2aba9.png)
+ΒΗΜΑ 2ο GAMEPLAY ΠΑΙΧΝΙΔΙΟΥ (ΛΑΘΟΣ ΕΠΙΛΟΓΗ ALIEN)
 ![2 - gameplay](https://cloud.githubusercontent.com/assets/22677484/21111863/22f2573e-c0ac-11e6-80b7-b11e652c35bf.png)
+ΒΗΜΑ 2ο GAMEPLAY ΠΑΙΧΝΙΔΙΟΥ 
 ![bhma 2 - gameplay 2](https://cloud.githubusercontent.com/assets/22677484/21111882/35ec8fc6-c0ac-11e6-9a8d-6c0a7d69fa39.png)
+ΒΗΜΑ 3ο ΤΕΛΙΚΗ ΟΘΟΝΗ
 ![3 -](https://cloud.githubusercontent.com/assets/22677484/21111912/4b908bb6-c0ac-11e6-953f-212ce832f551.png)
 
 
