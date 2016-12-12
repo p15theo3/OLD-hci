@@ -8,7 +8,7 @@
 
 ***Παραδοτέο 0***
 
-10 παραθέσεις : https://github.com/pibook/pibookgr/pull/11
+A. 10 παραθέσεις : https://github.com/pibook/pibookgr/pull/11
  
 
 ***Παραδοτέο 1***
