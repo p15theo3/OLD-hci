@@ -7,6 +7,7 @@
 ##Παραδοτέο 0
 
 ###Bonus B
+Προσθήκη 10 νέων εικόνων που επιτρέπεται η εμπορική χρήση τους.
 ###Images
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch01
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch03
