@@ -11,7 +11,11 @@
 
 ##Παραδοτέο 0
 
-Α) https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
+Α) 2)  https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
+
+Β) 1)  https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-2/images/credits
+      
+      Οι λεζάντες των εικόνων βρίσκονται στο αρχείο readme.md που βρίσκεται στον ίδιο φάκελο.
 
 ##Παραδοτέο 1
 
