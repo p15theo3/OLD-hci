@@ -4,6 +4,18 @@
 Α.Μ.: Π2015077
 Ιόνιο Webmail: p15tria@ionio.gr
 
+##Παραδοτέο 0
+
+###Images
+* https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch01
+* https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch05
+
+###Credits
+* https://github.com/DimitrisTria/pibookgr/blob/gh-pages/images/credits/credits-ch01.md
+* https://github.com/DimitrisTria/pibookgr/blob/gh-pages/images/credits/credits-ch05.md
+
+###Link:https://github.com/DimitrisTria/pibookgr
+
 ##Παραδοτέο 1
 
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch.
