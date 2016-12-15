@@ -15,7 +15,7 @@
 
 Β) 1)  https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-2/images/credits
       
-      Οι λεζάντες των εικόνων βρίσκονται στο αρχείο readme.md που βρίσκεται στον ίδιο φάκελο.
+   Οι λεζάντες των εικόνων βρίσκονται στο αρχείο readme.md που βρίσκεται στον ίδιο φάκελο.
 
 ##Παραδοτέο 1
 
