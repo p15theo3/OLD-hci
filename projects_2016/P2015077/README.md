@@ -6,6 +6,7 @@
 
 ##Παραδοτέο 0
 
+###Bonus B
 ###Images
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch01
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch05
