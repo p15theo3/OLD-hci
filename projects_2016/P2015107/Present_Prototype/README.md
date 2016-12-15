@@ -9,6 +9,7 @@
 ### Παραδοτέο 0
 
 A. 10 παραθέσεις : https://github.com/pibook/pibookgr/pull/11
+B. 10 νέες εικόνες με λεζάντα και ελεύθερα πνευματικά δικαιώματα : https://github.com/pibook/pibookgr/compare/gh-pages...randomperson19:gh-pages
  
 
 ### Παραδοτέο 1
