@@ -2,7 +2,7 @@
 #Τίτλος Εργασίας: Εκπαιδευτικό βιντεο-παιχνίδι
 Αλέξανδρος Τουλάκης ΑΜ Π2015067 - p15toul1@ionio.gr
 
-##Παραδοτέο 1 
+##Παραδοτέο 0 
 Bonus B
 https://github.com/P15GitHubStudent/pibookgr/
 
