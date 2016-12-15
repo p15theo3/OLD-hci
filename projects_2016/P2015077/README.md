@@ -9,10 +9,12 @@
 ###Bonus B
 ###Images
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch01
+* https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch03
 * https://github.com/DimitrisTria/pibookgr/tree/gh-pages/images/ch05
 
 ###Credits
 * https://github.com/DimitrisTria/pibookgr/blob/gh-pages/images/credits/credits-ch01.md
+* https://github.com/DimitrisTria/pibookgr/blob/gh-pages/images/credits/credits-ch03.md
 * https://github.com/DimitrisTria/pibookgr/blob/gh-pages/images/credits/credits-ch05.md
 
 ###Link:https://github.com/DimitrisTria/pibookgr
