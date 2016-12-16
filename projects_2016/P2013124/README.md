@@ -49,12 +49,15 @@ A.M. : Π2013124
 ##Screenshots
 ![15145047_10206619938731718_1689098252_o](https://cloud.githubusercontent.com/assets/17496439/20466776/1f8afb36-af82-11e6-8a45-89cafe0b1e50.png)
 ![15183945_10206619940931773_1766506424_o](https://cloud.githubusercontent.com/assets/17496439/20466777/20c39972-af82-11e6-94f5-9282da2c49d5.png)
+
+
 #Παραδοτέο 4
 
- Η εφαρμογή έχει πλέον δημοσιευτεί το χώρο του Gallery της πλατφόρμας εφαρμογών App Iventor.
-  Link εφαρμογής :  http://ai2.appinventor.mit.edu/?galleryId=6270818416590848
 
- ##Tutorials και εφαρμογές πάνω στις οποίες βασίστηκα και πήρα ιδέες για την συγκεκριμένη εφαρμογή.
+ Η εφαρμογή έχει πλέον δημοσιευτεί το χώρο του Gallery της πλατφόρμας εφαρμογών App Iventor.
+##Link εφαρμογής :  http://ai2.appinventor.mit.edu/?galleryId=6270818416590848
+
+##Tutorials και εφαρμογές πάνω στις οποίες βασίστηκα και πήρα ιδέες για την συγκεκριμένη εφαρμογή.
  
  Map_It :http://ai2.appinventor.mit.edu/?galleryId=6270818416590848
  Tutorial 1 "How to link a button to a website" : https://www.youtube.com/watch?v=giW2i5W9O7c&t=265s
