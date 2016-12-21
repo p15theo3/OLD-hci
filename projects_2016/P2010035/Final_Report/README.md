@@ -1,5 +1,5 @@
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
-#ΠΜΣ ΤΜΗΜΑΤΟΣ ΠΛΗΡΟΦΟΡΙΚΗΣ
+#ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
 #ΜΑΘΗΜΑ: Σχεδίαση της Διάδρασης Ανθρώπου-Υπολογιστή
 
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος
@@ -11,17 +11,18 @@
 ##Σύνοψη
 
 aaaaa
-#  Online Demo http://ai2.appinventor.mit.edu/?locale=en#5905778096209920
+
+#### Online Demo http://ai2.appinventor.mit.edu/?locale=en#5905778096209920
 
 
-##Εισαγωγή 
+#Εισαγωγή 
 
 
 ##Περιγραφή της εφαρμογής
 
 aaaaa
 
-# Tutorial / Video:  https://youtu.be/-wDrpYBHVn4
+#### Tutorial / Video:  https://youtu.be/-wDrpYBHVn4
 
 ##Αφήγηση
 
@@ -71,7 +72,7 @@ Tutorial:	http://appinventor.mit.edu/explore/ai2/tutorials.html
 
 ##Ενδεικτικές Οθόνες
 
-##  Title: Get News (Οι σημαντικότερες ειδήσεις)
+###  Title: Get News (Οι σημαντικότερες ειδήσεις)
 
 --------- Screen 1 --------- 
 
@@ -104,7 +105,7 @@ Tutorial:	http://appinventor.mit.edu/explore/ai2/tutorials.html
 
 
 
-## Συμπεράσματα και προτάσεις για μελλοντικές βελτιώσεις 
+# Συμπεράσματα και προτάσεις για μελλοντικές βελτιώσεις 
 
 ##Συμπεράσματα 
 
