@@ -1,3 +1,4 @@
+![logo](https://cloud.githubusercontent.com/assets/22655733/21578088/186ac006-cf7c-11e6-8741-18aea0be666e.jpg)
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
 ##Τμήμα Πληροφορικής
 Μάθημα: Επικοινωνία Ανθρώπου - Υπολογιστή (Γ' εξάμηνο)
@@ -176,10 +177,6 @@
 ![Final_screen2](https://cloud.githubusercontent.com/assets/22655733/20898448/0b6602fa-bb2f-11e6-9d79-2601e9941b54.JPG)
 
 ###Παράδειγμα (Οnline demo): https://scratch.mit.edu/projects/132386061/
-
-##Παραδοτέο 4
-
-...
 
 ##Tελική Αναφορά
 
