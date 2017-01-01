@@ -30,19 +30,17 @@ https://goo.gl/photos/hyftDaN6gbDAPkZa7
 
 ~ΕΡΓΑΛΕΙΟ ΑΝΑΠΤΥΞΗΣ: MIT APP INVENTOR
 
-~Πρόκειται για ένα πρόγραμμα το οποίο θα βοηθήσει τους μαθητές να βάλουν μία τάξη στην σχολική τουςκαθημερινότητα καθώς και να έχουν ένα χάρτη στα χέρια τους για να μην χάνονται. Οι κώδικες στους οποίους βασίστηκα είναι ο εξής:http://ai2.appinventor.mit.edu/?locale=en#6703279371976704
+~Πρόκειται για ένα πρόγραμμα το οποίο θα βοηθήσει τους μαθητές να βάλουν μία τάξη στην σχολική τουςκαθημερινότητα καθώς και να έχουν ένα χάρτη στα χέρια τους για να μην χάνονται. 
+
+
+
+
+
+Οι κώδικες στους οποίους βασίστηκα είναι ο εξής:http://ai2.appinventor.mit.edu/?locale=en#6703279371976704
 http://ai2.appinventor.mit.edu/?locale=en#5367392088358912
 . Την εφαρμογη θα  βρείτε στο παρακάτω link: http://ai2.appinventor.mit.edu/?locale=en#6583510266281984
 
 
-~Παρακάτω υπάρχουν ορισμένες εικόνες απο την εκτέλεση της εφαρμογής.
-https://cloud.githubusercontent.com/assets/22773643/20959599/76f2a3a8-bc64-11e6-9ec2-733e9608af69.png
-https://cloud.githubusercontent.com/assets/22773643/20959620/8d792a84-bc64-11e6-989c-e3f272db46d5.png
-https://cloud.githubusercontent.com/assets/22773643/20959629/a1d7283c-bc64-11e6-93a8-55d442523b1e.png
-https://cloud.githubusercontent.com/assets/22773643/20959636/b1e14406-bc64-11e6-8547-b4ab1e4ad699.png
-https://cloud.githubusercontent.com/assets/22773643/20959651/c4127bea-bc64-11e6-8c50-50959f901a85.png
-https://cloud.githubusercontent.com/assets/22773643/20959656/d065f9b2-bc64-11e6-9641-2e3bd7982b48.png
-https://cloud.githubusercontent.com/assets/22773643/20959672/dc59ca0a-bc64-11e6-8dbb-9b2e26dc7d4e.png
 
 #Παραδοτέο 4
 ...
