@@ -34,6 +34,8 @@ https://goo.gl/photos/hyftDaN6gbDAPkZa7
 
 
 ![1](https://cloud.githubusercontent.com/assets/22773643/21591942/a16010c8-d111-11e6-850e-0a6eab48b9d6.png)
+Πατώντας το κουμπί Enter η εφαρμογή ανοίγει την καρτέλα Menu. Στη συνέχεια ο μαθητής έχει έξι επιλογές.
+![2](https://cloud.githubusercontent.com/assets/22773643/21592015/5056dac6-d112-11e6-9ef1-44aaf8e7b453.png)
 
 
 
