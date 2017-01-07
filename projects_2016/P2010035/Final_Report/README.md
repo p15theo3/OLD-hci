@@ -142,8 +142,9 @@ Tutorial:	http://appinventor.mit.edu/explore/ai2/tutorials.html
 
 ## Βιβλιογραφικές Πηγές 
 
+
+*   http://sepchiou.gr/docs/appinventor_code_club/App%20Inventor%20Programming%20(Part%20A).pdf
+
+*   http://www.itee.uq.edu.au/filething/get/867/AppInventor.pdf
+
 *	Chorianopoulos, Konstantinos, and Michail N. Giannakos. "Design Principles for Serious Video Games in Mathematics Education: From Theory to Practice." The International Journal of Serious Games 1.3 (2014). 
-*	Kafai, Yasmin B., and Veena Vasudevan. "Constructionist Gaming Beyond the Screen: Middle School Students' Crafting and Computing of Touchpads, Board Games, and Controllers." Proceedings of the Workshop in Primary and Secondary Computing Education on ZZZ. ACM, 2015. 
-*	Vogler, C., The writer’s journey: Mythic structures for writers. Studio City, CA: Michael Wiese Productions, 1998 
-*	Campbell, J., The hero's journey: Joseph Campbell on his life and work (Vol. 7). New World Library, 2003 
-*	Crawford, C. The Art of Computer Game Design, McGraw Hill Osborne Media, 1984 
