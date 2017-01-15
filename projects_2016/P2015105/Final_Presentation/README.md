@@ -64,4 +64,4 @@ Ball behaviour: Χρησιμοποιήθηκε σχεδόν έτοιμος, έπ
 ##Κώδικας και παιχνίδι
 * Ο τελικός κώδικας είναι διαθέσιμος εδώ: https://github.com/danielyor/PongVR-07.12.2016/tree/master/Code
 
-* Το παιχνίδι (.apk) είναι διαθέσιμο εδώ, χρειάζεται εγκατάσταση σε κινητό: https://github.com/danielyor/PongVR-07.12.2016/tree/master/Android-APK
+* Το παιχνίδι (.apk) είναι διαθέσιμο εδώ, χρειάζεται εγκατάσταση σε Android (με γυροσκόπιο): https://github.com/danielyor/PongVR-07.12.2016/tree/master/Android-APK
