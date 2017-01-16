@@ -71,7 +71,8 @@
 ![code](code_scrn.png)
  Το παρόν screenshot αποτελεί δείγμα δουλειάς κώδικα στο προγραμματιστικό περιβάλλον του GameMaker.
  
- Το demo του παιχνιδιού θα μεταφορτωθεί στην ιστοσελίδα [itch.io](https://itch.io/). Αναμένεται link...
+ Το demo του παιχνιδιού καθώς και ο πηγαίος κώδικας είναι διαθέσιμα όλα στη σελίδα μου στο [itch.io](https://itch.io/)
+ μέσω του συγκεκριμένου ιδιωτικού link [εδώ](https://gfk-2010.itch.io/holy-diver?secret=5KG0lEEm3xWK6BTthpMXdIcStiI)
  
 ##Παραδοτέο 4
 
