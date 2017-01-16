@@ -5,7 +5,8 @@
 + https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_quotes
 
 + https://github.com/GIANNIS-AGGELIS/pibookgr/tree/gh-pages/_remix
-+ ..
+
++ https://github.com/GIANNIS-AGGELIS/pibookgr/blob/gh-pages/_case-study/Home_Video_Game_Consoles.md
 
 #Παραδοτέο 1
 ΘΈΜΑ: ΕΦΑΡΜΟΓΉ ΜΕ ΕΡΓΑΛΕΊΟ ΤΟ APP INVENTOR 2
