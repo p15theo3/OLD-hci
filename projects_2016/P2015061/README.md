@@ -78,7 +78,7 @@
 ##Tελική Αναφορά
 
 
-![logo](logo)
+![logo](logo.jpg)
 
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
 
@@ -100,4 +100,4 @@
 Κέρκυρα, 2016
 
 ####Τίτλος Παιχνιδιού:
- [###Holy Diver](https://gfk-2010.itch.io/holy-diver?secret=5KG0lEEm3xWK6BTthpMXdIcStiI)
+ [Holy Diver](https://gfk-2010.itch.io/holy-diver?secret=5KG0lEEm3xWK6BTthpMXdIcStiI)
