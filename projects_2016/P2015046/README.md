@@ -20,10 +20,6 @@ https://github.com/courses-ionio/hci/blob/master/projects_2016/P2015046/Present_
 ##Παραδοτέο 3
 https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015046/Final_Presentation
 
-##Παραδοτέο 4
-
-...
-
 ##Tελική Αναφορά
 
 ...
