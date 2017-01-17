@@ -1,25 +1,20 @@
-#Τίτλος Εργασίας: Κατασκευή Chrome plugin (Video Analytics)
+#Τίτλος Εργασίας: Fusion Tables Tool for SocialSkip
 
 ##Παραδοτέο 1
-Κατασκευή Chrome Plugin για το SocialSkip το οποίο θα κρατά τις διαδράσεις στο αναπαραγόμενο βίντεο
+Κατασκευή εργαλείου για το SocialSkip το οποίο θα αυτοματοποιεί την αρχικοποίηση της βάσης δεδομένων του (Fusion Tables)
 
 ##Παραδοτέο 2
 
 ###Περιγραφή
-Chrome plugin που ενσωματώνει το service του SocialSkip και δίνει την δυνατότητα στον χρήστη να εκτελέσει το πείραμα από το popup του plugin. Ως είσοδος, απαιτείται το id του πειράματος. To plugin χρησιμποιεί το ήδη υπάρχων service, κατά συνέπεια οι διαδράσεις αποθηκεύονται αυτόματα στην βάση δεδομένων του profile του ερευνητή που δημιούργησε το πείραμα.
+Ένα εργαλείο γραμμένο σε γλώσσα Java το οποίο δημιουργεί αυτόματα τους πίνακες στο Fusion Tables της Google που χρειάζονται για την λειτουργία του SocialSkip. Με κλήσεις στο REST API του Fusion Tables αρχικοποιείται για κάθε πίνακα το σχήμα και έπειτα εισάγεται στην βάση δεδομένων του χρήστη.
 
 ###Εργαλεία: 
-HTML, JavaScript, Bootstrap(UI)
-
-###Screenshots
-<img src="https://raw.githubusercontent.com/courses-ionio/hci/master/projects_2016/P2012074/images/socialskip1.png">
-<img src="https://raw.githubusercontent.com/courses-ionio/hci/master/projects_2016/P2012074/images/socialskip2.png">
+Java, Fusion Tables Java API
 
 ###Κώδικας 
-https://github.com/gsvic/SocialSkipForChrome
+https://github.com/vidoodlics/fusion-tables-tool
 
 ###Οδηγίες Εγκατάστασης
-1. Κατεβάζουμε το project από την παραπάνω διεύθυνση κάνοντας click στο κουμπί "Clone or download", "Download ZIP"
-2. Αποσυμπιέζουμε το ZIP αρχείο 
-3. Στην διαχείριση των extensions εδώ chrome://extensions/ βάζουμε tick στο Developer mode
-4. Προσθέτουμε το νέο extension κάνοντας click στο "Load unpacked extension" επιλέγοντας τον φάκελο που αποσυμπιέσαμε στο βήμα 2 
+1. Δημιουργούμε ένα JSON κλειδί όπως περιγράφουν οι επίσημες οδηγίες εδώ https://developers.google.com/maps/documentation/javascript/get-api-key
+2. Ονομάζουμε το αρχείο key.json και το τοποθετούμε στον φάκελο src/main/resources
+3. Δημιουργούμε το πλέον αρχικοποιημένο conf.xml αρχείο εκτελώντας: `./bin/init.sh`
