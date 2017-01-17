@@ -9,6 +9,7 @@
   
 Γ: 1)Έγινε προσθήκη πέντε νέων εικόνων με λεζάντα και ελεύθερα δικαιώματα. Παρατίθεται παρακάτω το σχετικό link:
 * https://github.com/p15syme/pibookgr/tree/gh-pages/new-licensed-images
+
 2)Έγινε προσθήκη μίας νέας βιογραφίας, και ειδικότερα του ιδρυτή της εταιρείας Microsoft, Bill Gates. Link:
 * https://github.com/p15syme/pibookgr/blob/gh-pages/new_biography/gates-bio.md
 
