@@ -6,6 +6,11 @@
 ## Παραδοτέο 0:
 Α: Έγινε προσθήκη 10 αποφθεγμάτων στον pibook, στον φάκελο new_quotes, για το πρώτο κομμάτι του 0 Παραδοτέου.
   Link: https://github.com/p15syme/pibookgr/tree/gh-pages/new_quotes
+  
+Γ: 1)Έγινε προσθήκη πέντε νέων εικόνων με λεζάντα και ελεύθερα δικαιώματα. Παρατίθεται παρακάτω το σχετικό link:
+* https://github.com/p15syme/pibookgr/tree/gh-pages/new-licensed-images
+2)Έγινε προσθήκη μίας νέας βιογραφίας, και ειδικότερα του ιδρυτή της εταιρείας Microsoft, Bill Gates. Link:
+* https://github.com/p15syme/pibookgr/blob/gh-pages/new_biography/gates-bio.md
 
 ## Παραδοτέο 1:
 Δημίουργια Εκπαιδευτικού Βιντεοπαιχνιδιού με τη χρήση του εργαλείου Scratch.
