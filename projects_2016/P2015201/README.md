@@ -3,7 +3,7 @@
 ΑΜ: Π2015201
 
 ##Παραδοτέο 0
-Bonus A:
+#Bonus A:
 
 providing links for commits on pibook
 
@@ -13,7 +13,7 @@ https://github.com/achkap/pibookgr/tree/gh-pages/images
 
 https://github.com/achkap/pibookgr/tree/gh-pages/_quotes
 
-Bonus B:
+#Bonus B:
 
 images:
 
@@ -30,6 +30,25 @@ https://github.com/achkap/pibookgr/blob/gh-pages/images/credits/credits-ch01.md
 https://github.com/achkap/pibookgr/blob/gh-pages/images/credits/credits-ch02.md
 
 https://github.com/achkap/pibookgr/blob/gh-pages/images/credits/credits-ch03.md
+
+#Bonus C:
+
+https://github.com/achkap/pibookgr/tree/gh-pages/_case-study
+
+Linux Case Study
+
+https://github.com/achkap/pibookgr/blob/gh-pages/_case-study/cs-linux.md
+
+https://github.com/achkap/pibookgr/blob/gh-pages/_case-study/linux.md
+
+Gallery
+
+https://github.com/achkap/pibookgr/blob/gh-pages/gallery/gallery-method.md   (Linux)
+
+Images:
+
+https://github.com/achkap/pibookgr/tree/gh-pages/images/ch02  (linux3.png)
+
 
 ##Παραδοτέο 1
 
