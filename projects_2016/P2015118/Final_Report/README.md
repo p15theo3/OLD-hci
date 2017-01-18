@@ -89,9 +89,9 @@ Main Screen2
 ![main screen2](main screen2.png)
 
 ```
-User:Manolakis1723
+User:p15kara2
 ```
-![manolis](manolis.png)
+![aristos](aristos.png)
 
 ```
 Please Wait 
