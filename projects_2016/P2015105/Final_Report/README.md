@@ -75,7 +75,7 @@ To κλασσικό παιχνίδι είναι μια δισδιάστατη έ
 * [Space Skybox? (Unity forums)](https://forum.unity3d.com/threads/space-skybox.99258/)  
 
 ##Κώδικας και .apk
-Το παιχνίδι (για Android) και ο κώδικας που χρησιμοποιήθκε είναι διαθέσιμο στο παρακάτω repository:  
+Το παιχνίδι (για Android) και ο κώδικας που χρησιμοποιήθκε είναι διαθέσιμα στο παρακάτω repository:  
 https://github.com/danielyor/PongVR-23.01.2017
 
 Ευχαριστώ!
