@@ -26,6 +26,6 @@ Link: https://github.com/danielyor/pibookgr/tree/gh-pages/_quotes
 
 ##Παραδοτέο 4
 
-...
+Η ολοκληρωμένη τελική αναφορά έχει προστεθεί στον φάκελο Final_Report.
 
 
