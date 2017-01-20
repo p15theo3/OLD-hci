@@ -16,10 +16,6 @@ https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015035/Present_
 ΕΔΩ
 https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015035/Present_prototype_2
 
-##Παραδοτέο 4
-
-...
-
 ##Tελική Αναφορά
-
-...
+ΕΔΩ
+https://github.com/courses-ionio/hci/tree/af1e0db1b925f495b2b6201ec96df6eeacd6fcae/projects_2016/P2015035/Final_Report
