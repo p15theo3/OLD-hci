@@ -20,6 +20,22 @@
 
 ###Link:https://github.com/DimitrisTria/pibookgr
 
+##Παραδοτέο Β (μετά από ανανέωση των οδηγιών)
+Προσθήκη 5 νέων εικόνων που επιτρέπεται η εμπορική χρήση τους και δύο διαδραστικών παραδειγμάτων.
+
+###Images
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CF%82-Smartphone-Camera/images
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CF%82-Minecraft/images
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CF%82-Maqutte-Prototype/images
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CF%82-Facebook/images
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CF%86%CF%89%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1%CF%82-App-Prototype/images
+
+###Interactive Examples
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%B4%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CF%8D-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%B5%CE%AF%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82-Interactive-Map-with-Jquery/_remix
+* https://github.com/DimitrisTria/pibookgr/tree/%CE%A0%CF%81%CE%BF%CF%83%CE%B8%CE%AE%CE%BA%CE%B7-%CE%B4%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CF%8D-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%B5%CE%AF%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82-Interacitve-Apple-iPhone-5S-%26-iOS-7/_remix
+
+###Link: https://github.com/DimitrisTria/pibookgr
+
 ##Παραδοτέο 1
 
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch.
