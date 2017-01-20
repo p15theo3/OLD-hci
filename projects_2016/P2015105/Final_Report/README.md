@@ -78,4 +78,7 @@ To κλασσικό παιχνίδι είναι μια δισδιάστατη έ
 Το παιχνίδι (για Android) και ο κώδικας που χρησιμοποιήθκε είναι διαθέσιμα στο παρακάτω repository:  
 https://github.com/danielyor/PongVR-23.01.2017
 
+##Video demonstration
+https://youtu.be/AwIfvXvRvTo
+
 Ευχαριστώ!
