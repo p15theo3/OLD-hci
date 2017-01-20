@@ -49,7 +49,7 @@
 https://scratch.mit.edu/projects/140546175/
 
 ##Παραπομπές
-[1] Πληροφορική Β’ Γυμνασίου, Υπουργείο Παιδείας. Διαθέσιμο online: http://ebooks.edu.gr/modules/ebook/show.php/DSB101/4/28,71/
-[2] Μαθηματικά Α’ Γυμνασίου, Υπουργείο Παιδείας. Διαθέσιμο online: http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-A200/293/2066,7178/
-[3] https://www.youtube.com/watch?v=8RIJqEqZ_zU
+* [1] Πληροφορική Β’ Γυμνασίου, Υπουργείο Παιδείας. Διαθέσιμο online: http://ebooks.edu.gr/modules/ebook/show.php/DSB101/4/28,71/
+* [2] Μαθηματικά Α’ Γυμνασίου, Υπουργείο Παιδείας. Διαθέσιμο online: http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-A200/293/2066,7178/
+* [3] https://www.youtube.com/watch?v=8RIJqEqZ_zU
 
