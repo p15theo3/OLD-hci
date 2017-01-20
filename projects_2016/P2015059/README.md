@@ -5,6 +5,15 @@
 
 ##Παραδοτέο 0
 Β:1)https://github.com/AsteriosP/pibookgr/tree/gh-pages/images
+μετά από ανανέωση 
+Β)
+https://github.com/AsteriosP/pibookgr/tree/add-photos-railway/images
+https://github.com/AsteriosP/pibookgr/tree/add-photos-minecraft/images
+https://github.com/AsteriosP/pibookgr/tree/add-photos-interface/images
+https://github.com/AsteriosP/pibookgr/tree/add-photos-computer/images
+https://github.com/AsteriosP/pibookgr/tree/add-photos-blueprint/images
+https://github.com/AsteriosP/pibookgr/tree/add-interactive/images
+
 
 ##Παραδοτέο 1
 
