@@ -45,6 +45,12 @@
 ##ΣΥΜΠΕΡΑΣΜΑ
 Το Space Shooter for Kids είναι ένα εκπαιδευτικό-ψυχαγωγικό παιχνίδι φτιαγμένο με το εργαλείο Scratch. Μπορεί να χρησιμοποιηθεί από παιδιά του δημοτικού και γυμνασίου και μπορεί να τροποποιηθεί και να βελτιωθεί.
 
+##ΕΙΚΟΝΕΣ
+
+![ScreenShot](intro.png)
+![ScreenShot](shooter1.png)
+![ScreenShot](shooter2.png)
+
 ##Διαθέσιμο: 
 https://scratch.mit.edu/projects/140546175/
 
