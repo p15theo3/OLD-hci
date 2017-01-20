@@ -50,6 +50,7 @@
 ![ScreenShot](intro.png)
 ![ScreenShot](shooter1.png)
 ![ScreenShot](shooter2.png)
+![ScreenShot](codesample.png)
 
 ##Διαθέσιμο: 
 https://scratch.mit.edu/projects/140546175/
