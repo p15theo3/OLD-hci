@@ -61,3 +61,16 @@ To κλασσικό παιχνίδι είναι μια δισδιάστατη έ
 
 ##Βελτιώσεις
 Χαρακτηριστικά που θα ήθελα στο παιχνίδι αλλά δεν κατάφερα να προσθέσω λόγω χρόνου ή/και απειρίας μου είναι: μενού, καλύτερα γραφικά και εικόνες, επιλογή δυσκολίας, μουσική και ηχητικά εφέ, τερμάτιση παιχνιδιού μετά από συγκεκριμένο αριθμό νικών ή ακόμα και άλλων play modes όπως παράδειγμα έιναι το [Arkanoid](https://en.wikipedia.org/wiki/Arkanoid). Επιπλέων αναβάθμιση θα ήταν η προσθήκη multiplayer, όπου θα παίζουν δύο χρήστες αντί για ένας ενάντια σε υπολογιστή.
+
+##Πηγές, tutorials, δανεισμός και τροποποίηση κώδικα
+* [Unity Pong AI movement speed (stackoverflow)](http://stackoverflow.com/questions/23960654/unity-pong-ai-movement-speed)
+* [Pong AI (Unity forums)](https://forum.unity3d.com/threads/pong-ai.238241/)
+* [How to use Cardboard Reticle (Unity forums/youtube)](https://forum.unity3d.com/threads/how-to-use-cardboard-reticle-vr-gaze-pointer-cursor-cardboard-button-gaze-input.388492/)
+* [Gaze (Unity forums)](https://forum.unity3d.com/threads/solved-gvr-reticle-not-expanding-when-an-object-is-gaze.414530/)
+* [Unity Camera (Unity documentation)](https://docs.unity3d.com/ScriptReference/Camera.html)
+* [Set eulerAngles to C# (Unity answers)](http://answers.unity3d.com/questions/61354/set-eulerangles-to-c.html)
+* [Exponent operator C# (stackoverflow)](http://stackoverflow.com/questions/3034604/is-there-an-exponent-operator-in-c)
+* [Unity 2D Pong Game Tutorial (noobtuts.com)](https://noobtuts.com/unity/2d-pong-game)
+* [Unity Tutorial: Making a scoreboard (youtube)](https://www.youtube.com/watch?v=uE2RJAyVaHE&t=301s)
+* [Space Skybox? (Unity forums)](https://forum.unity3d.com/threads/space-skybox.99258/)  
+
