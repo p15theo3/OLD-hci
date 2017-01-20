@@ -13,6 +13,7 @@
 * https://github.com/AsteriosP/pibookgr/tree/add-photos-interface/images
 * https://github.com/AsteriosP/pibookgr/tree/add-photos-computer/images
 * https://github.com/AsteriosP/pibookgr/tree/add-photos-blueprint/images
+
 ###Διαδραστικά παραδείγραμτα
 * https://github.com/AsteriosP/pibookgr/tree/add-interactive/images
 * https://github.com/AsteriosP/pibookgr/tree/add-interactive-2-1/_remix
