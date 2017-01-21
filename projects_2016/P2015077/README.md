@@ -138,35 +138,6 @@
 
 ###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
 
-##Παραδοτέο 4
-
-###Προδιαγραφές
-
-* Ηλικία: Για μαθητές Γ΄ δημοτικού.
-* Γνώση: Βασικές γνώσεις στη πρόσθεση, αφαίρεση, πολλαπλασιασός, διαίρεση με ακέραιους αριθμούς.
-* Θεματική Ενότητα: Μαθηματικά Γ΄ Δημοτικού.
- * (Πρόσθεση - Αφαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6921/).
- * (Πολλαπλασιασμός - Διαίρεση: http://ebooks.edu.gr/modules/ebook/show.php/DSDIM-C102/284/2024,6925/).
-* Φύλο: Ανεξάρτητο
-
-###Εγκατάσταση εργαλείων ανάπτυξης και τρέξιμο/αλλαγές σε υπάρχοντα
-
-*	Εργαλείο ανάπτυξης: Scratch
-* Ιδέες και κομμάτια από κώδικα στα ακόλουθα link: https://scratch.mit.edu/projects/97665849/ και 
-  https://scratch.mit.edu/projects/43793852/.
-
-#FlappyBird Online
-![FlappyBird Online](FlappyBird Online.PNG)
-
-#Πρωτότυπο Εφαρμογής
-
-##Εικόνα 1
-
-##Εικόνα 2
-
-##Εικόνα 3
-
-###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
-
 ##Τελική αναφορά
 
+###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
