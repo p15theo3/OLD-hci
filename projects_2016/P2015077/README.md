@@ -69,7 +69,7 @@
   μια μαθηματική πράξη.
 * Ο σκοπός του παιχνιδιού είναι να λύσει τις μαθηματικές πράξεις και να μαζέψει όλα τα FlappyBird coins, όπως gold, silver coins κλπ,     για να τελειώσει το παιχνίδι.
 
-###Online Demo (work-in-progress): https://scratch.mit.edu/projects/129459913/
+###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
 
 
 ##Παραδοτέο 3
@@ -136,10 +136,12 @@
   Θα προσθεθεί σωλήνας με τρεις εισόδους και ο ρυθμός του παιχνιδιού να έχει αυξηθεί.
 * Προσθήκη νέου γραφικού περιεχομένου.
 
-###Online Demo (work-in-progress): https://scratch.mit.edu/projects/129459913/
+###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
 
 ##Παραδοτέο 4
 
+
+###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
 
 ##Τελική αναφορά
 
