@@ -18,3 +18,6 @@ https://github.com/vidoodlics/fusion-tables-tool
 1. Δημιουργούμε ένα JSON κλειδί όπως περιγράφουν οι επίσημες οδηγίες εδώ https://developers.google.com/maps/documentation/javascript/get-api-key
 2. Ονομάζουμε το αρχείο key.json και το τοποθετούμε στον φάκελο src/main/resources
 3. Δημιουργούμε το πλέον αρχικοποιημένο conf.xml αρχείο εκτελώντας: `./bin/init.sh`
+
+##Τελική Αναφορά
+Η τελικ αναφορά της εργασίας είναι διαθέσιμη σε pdf μορφή σε αυτό το [link](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2012074/report.pdf).
