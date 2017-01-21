@@ -20,4 +20,4 @@ https://github.com/vidoodlics/fusion-tables-tool
 3. Δημιουργούμε το πλέον αρχικοποιημένο conf.xml αρχείο εκτελώντας: `./bin/init.sh`
 
 ##Τελική Αναφορά
-Η τελικ αναφορά της εργασίας είναι διαθέσιμη σε pdf μορφή σε αυτό το [link](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2012074/report.pdf).
+Η τελική αναφορά της εργασίας είναι διαθέσιμη σε pdf μορφή σε αυτό το [link](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2012074/report.pdf).
