@@ -1,18 +1,18 @@
-#Τίτλος Εργασίας: Εκπαιδευτικό Βιντεοπαιχνίδι 
-Αναστασία Τσίγκα, Π2015049
-
 #Παραδοτέο 1
 
+##Τίτλος Εργασίας
 Εκπαιδευτικό βιντεοπαιχνίδι με το εργαλείο Scratch.
 
 
 #Παραδοτέο 2 - Prototype
 
-##ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ 
-##ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
-##ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή
-Αναστασία Τσίγκα 
-Π2015049
+![enter image description here](https://lh3.googleusercontent.com/-YK21RMt2K1Y/WIPPubFgauI/AAAAAAAACOw/PoUywVWN8DgN46wZ4jYk_5nVRSzNPUlBACLcB/s0/logo.jpg "logo.jpg")
+##Ιόνιο Πανεπιστήμιο 
+##Τμήμα Πληροφορικής
+##Επικοινωνία Ανθρώπου - Υπολογιστή
+Όνομα: Αναστασία Τσίγκα 
+Αριθμός Μητρώου: Π2015049
+Email: p15tsig@ionio.gr
 
 ##Προδιαγραφές
 
@@ -26,11 +26,12 @@
  - **Εργαλείο εγκατάστασης παιχνιδιού:** Scratch
  - **Χρήση στοιχείων, ιδεών και κώδικα:**
 
-   1) Math Invaders 
+1) Math Invaders 
    https://scratch.mit.edu/projects/70546464/
-   ![enter image description here](https://lh3.googleusercontent.com/-h8r6aoU7VcU/WBubQRYU9UI/AAAAAAAAAyY/E5uccLCW9E0k8_GJOlnmRumiV3aAo7RfgCLcB/s0/Capture.JPG "Math Invaders")
+
+![enter image description here](https://lh3.googleusercontent.com/-h8r6aoU7VcU/WBubQRYU9UI/AAAAAAAAAyY/E5uccLCW9E0k8_GJOlnmRumiV3aAo7RfgCLcB/s0/Capture.JPG "Math Invaders")
  
- ![enter image description here](https://lh3.googleusercontent.com/-qUwuAXd2c5Q/WBubsinXPcI/AAAAAAAAAyg/PYJCqp4Pk-gsXc0vlJ4MqCGgktfwunIagCLcB/s0/Capture2.PNG "Math Invaders")
+![enter image description here](https://lh3.googleusercontent.com/-qUwuAXd2c5Q/WBubsinXPcI/AAAAAAAAAyg/PYJCqp4Pk-gsXc0vlJ4MqCGgktfwunIagCLcB/s0/Capture2.PNG "Math Invaders")
 
 ##Αρχικός σχεδιασμός παιχνιδιού
 
@@ -42,13 +43,14 @@
 
 
 #Παραδοτέο 3 - Final Presentation
+![enter image description here](https://lh3.googleusercontent.com/-YK21RMt2K1Y/WIPPubFgauI/AAAAAAAACOw/PoUywVWN8DgN46wZ4jYk_5nVRSzNPUlBACLcB/s0/logo.jpg "logo.jpg")
+##Ιόνιο Πανεπιστήμιο 
+##Τμήμα Πληροφορικής
+##Επικοινωνία Ανθρώπου - Υπολογιστή 
 
-##ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ 
-##ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
-##ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου - Υπολογιστή 
-
-Αναστασία Τσίγκα Π2015049 
-p15tsig@ionio.gr
+Όνομα: Αναστασία Τσίγκα 
+Αριθμός Μητρώου: Π2015049 
+Email: p15tsig@ionio.gr
 
 ##Προδιαγραφές
 
@@ -97,12 +99,10 @@ Email: p15tsig@ionio.gr
 ----------
 ##Σύνοψη
 
-----------
 Τα μαθηματικά τις περισσότερες φορές αποτελούν ένα δυσνόητο μάθημα για την πλειοψηφία των μαθητών. Παράλληλα όμως αποτελούν και ένα μάθημα με το οποίο ο εκπαιδευτικός μπορεί να πειραματιστεί με τον τρόπο διδασκαλίας του, ώστε να το κάνει πιο ενδιαφέρον. Στηριγμένη πάνω σε αυτό, προσπάθησα να φτιάξω ένα παιχνίδι - με τη βοήθεια του λογισμικού Scratch MIT - για την ταχύτερη και διασκεδαστικότερη εξοικείωση των μαθητών στις τέσσερις βασικές πράξεις (πρόσθεση, αφαίρεση, πολλαπλασιασμός και διαίρεση) αλλά και στις δυνάμεις.
 
 ##Εισαγωγή
 
-----------
 ##Περιγραφή παιχνιδιού
 
 Στην οθόνη του παιχνιδιού εμφανίζεται ο Αλ η μπάλα πάνω σε ένα τραπέζι. Ο/Η μαθητής/μαθήτρια κάνει κλικ στην οθόνη για να ξεκινήσει το παιχνίδι. Πάνω αριστερά εμφανίζεται μία πράξη. Πατώντας τα βελάκια μετακινεί το τραπέζι πάνω στο οποίο είναι ο Αλ προσπαθώντας να στοχεύσει τον αριθμό που θεωρεί ότι είναι η απάντηση στην κάθε πράξη. Στη συνέχεια πατώντας το πλήκτρο του space πετάει τον Αλ για να "φάει" τον αριθμό. Ανάλογα με το αν είναι το σωστό ή το λάθος νούμερο, εμφανίζεται το κατάλληλο μήνυμα. Για κάθε σωστή απάντηση το σκορ μεγαλώνει κατά πέντε βαθμούς, ενώ για κάθε λάθος μειώνεται κατά έναν. 
