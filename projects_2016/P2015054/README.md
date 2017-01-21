@@ -181,6 +181,10 @@
 ###Παράδειγμα (Οnline demo): https://scratch.mit.edu/projects/132386061/
 
 
+
+
+
+
 ##Tελική Αναφορά
 
 ##Prime Snake
@@ -223,9 +227,53 @@ H χρήση της μηχανικής παιχνιδιών για την ενί
 
 Τα γραφικά, ο κώδικας και το περιβάλλον του παιχνιδιού προέρχονται από το κλασσικό βιντεοπαιχνίδι Snake, υλοποιημένο στο Scratch ως [Pixel Snake](https://scratch.mit.edu/projects/72303326/), προσαρμοσμένα κατάλληλα ώστε να εξυπηρετηθεί ο εκπαιδευτικός σκοπός της εργασίας. Η αφαίρεση στοιχείων και η εισαγωγή εκπαιδευτικού υλικού έγιναν με πρότυπα τα παιχνίδια [Ship Math](https://scratch.mit.edu/projects/43389906/) και [MrMathShark](https://scratch.mit.edu/projects/16809627/).
 
+**Snake**
+
+![snake](https://cloud.githubusercontent.com/assets/22655733/20101783/1ddeed70-a5cc-11e6-9315-dd08da164d24.JPG)
+
 ##Διαδικασία ανάπτυξης
 
 ##Ενδεικτικές οθόνες
+
+**Πρωτότυπο χαμηλής πιστότητας 1**
+
+![prototype](https://cloud.githubusercontent.com/assets/22655733/20594113/a826fbc6-b23d-11e6-97f6-477debb4a62c.jpg)
+
+**Πρωτότυπο χαμηλής πιστότητας 2**
+
+![1](https://cloud.githubusercontent.com/assets/22655733/20102158/b2dd9358-a5cd-11e6-85c2-7b90bc69812f.JPG)
+
+**Πρωτότυπο υψηλής πιστότητας**
+
+![1](https://cloud.githubusercontent.com/assets/22655733/20594379/af757578-b23e-11e6-9f10-0344d6e07c0f.JPG)
+
+**Οθόνη έναρξης**
+
+![start_screen](https://cloud.githubusercontent.com/assets/22655733/20869357/9d1b699e-ba79-11e6-927f-568d125aa60c.JPG)
+
+**Snake2**
+
+![Snake2](https://cloud.githubusercontent.com/assets/22655733/20869389/26108f40-ba7a-11e6-898a-e6a968001b4c.JPG)
+
+**Snake3**
+
+![Snake3](https://cloud.githubusercontent.com/assets/22655733/20869412/83c8871e-ba7a-11e6-985e-ba9e3a5379ad.JPG)
+
+**Snake5**
+
+![Snake5](https://cloud.githubusercontent.com/assets/22655733/20869418/9e4ac80e-ba7a-11e6-85f9-3986fb5d98e4.JPG)
+
+**Snake7**
+
+![Snake7](https://cloud.githubusercontent.com/assets/22655733/20869426/b7dee9f8-ba7a-11e6-85d5-8f412d4c057e.JPG)
+
+**Τελική οθόνη 1**
+
+![Final_screen1](https://cloud.githubusercontent.com/assets/22655733/20898421/f6e0dd50-bb2e-11e6-8bfd-845e3275651d.JPG)
+
+**Τελική οθόνη 2**
+
+![Final_screen2](https://cloud.githubusercontent.com/assets/22655733/20898448/0b6602fa-bb2f-11e6-9d79-2601e9941b54.JPG)
 
 ##Συμπεράσματα
 
