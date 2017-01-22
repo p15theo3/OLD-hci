@@ -12,6 +12,18 @@
 
 #Τίτλος Εργασίας: Prime Snake
 
+##Πίνακας περιεχομένων
+
+[Παραδοτέο 0 - Bonus](https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015054#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-0)
+
+[Παραδοτέο 1 - Δήλωση-Δέσμευση θέματος](https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015054#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-1)
+
+[Παραδοτέο 2 - Παρουσίαση πρωτοτύπου](https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015054#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-2)
+
+[Παραδοτέο 3 - Τελική παρουσίαση](https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015054#%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-3)
+
+[Παραδοτέο 4 - Τελική αναφορά](https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015054#t%CE%B5%CE%BB%CE%B9%CE%BA%CE%AE-%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC)
+
 ##Παραδοτέο 0
 
 Α) 2)  https://github.com/nefelinikiforou/pibookgr/tree/nefelinikiforou-patch-1/_quotes
