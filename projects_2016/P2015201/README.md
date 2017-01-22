@@ -63,10 +63,7 @@ https://github.com/achkap/pibookgr/tree/gh-pages/images/ch02  (linux3.png)
 
 Φάκελος Advanced_Prototype (https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015201/Advanced_Prototype)
 
-##Παραδοτέο 4
-
-...
 
 ##Tελική Αναφορά
 
-...
+https://github.com/courses-ionio/hci/tree/master/projects_2016/P2015201/Final_Report
