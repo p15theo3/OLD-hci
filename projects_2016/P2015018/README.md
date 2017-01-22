@@ -16,10 +16,6 @@
 
 [ΕΔΩ](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2015018/Updated Prototype/README.md)
 
-##Παραδοτέο 4
+##Παραδοτέο 4 - Τελική Αναφορά
 
-...
-
-##Tελική Αναφορά
-
-...
+[ΕΔΩ](https://github.com/courses-ionio/hci/blob/master/projects_2016/P2015018/FINAL/README.md)
