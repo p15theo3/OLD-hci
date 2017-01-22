@@ -1,11 +1,18 @@
 ﻿#ΤΙΤΛΟΣ ΕΡΓΑΣΙΑΣ: ΕΚΠΑΙΔΕΥΤΙΚΟ ΒΙΝΤΕΟΠΑΙΧΝΙΔΙ
+#Ghostbusters Maths Edition
 
-Τασούλας Θεοφάνης 
-ΑΜ Π2015092
+#Τασούλας Θεοφάνης 
+#ΑΜ Π2015092
 
 #ΠΑΡΑΔΟΤΕΟ 0
-Δημιουργεία 10 νέων quotes
-https://github.com/p15taso/pibookgr/tree/gh-pages/_quotes
+#10 νέες παραθέσεις
+#https://github.com/p15taso/pibookgr/tree/gh-pages/_quotes
+
+#5 νέα διαδραστικά παραδείγματα
+#https://github.com/p15taso/pibookgr/tree/gh-pages/_remix
+
+#10 νέες εικόνες με λεζάντα και με ελεύθερα πνευματικά δικαιώματα ή που επιτρέπουν εμπορική χρήση
+#https://github.com/p15taso/pibookgr/tree/gh-pages/images/credits
 
 #ΠΑΡΑΔΟΤΕΟ 1
 
