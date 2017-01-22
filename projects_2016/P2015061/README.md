@@ -106,7 +106,7 @@ Holy Diver
 
 ...
 
-*[Link διανομής παιχνιδιού](https://gfk-2010.itch.io/holy-diver?secret=5KG0lEEm3xWK6BTthpMXdIcStiI)
+[Link διανομής παιχνιδιού](https://gfk-2010.itch.io/holy-diver?secret=5KG0lEEm3xWK6BTthpMXdIcStiI)
 
 ##Περιγραφή gameplay: 
 
@@ -148,15 +148,19 @@ pixelated graphics που συναντόνται στο παιχνίδι όπω�
 **Αρχικές Εκδόσεις (Πρωτότυπο):**
 
 Εικόνα 1:
+
 ![1](duths.gif)
 
 Εικόνα 2:
+
 ![2](game_scrn.png)
 
 Εικόνα 3:
+
 ![3](game_scrn2.png)
 
 Εικόνα 4:
+
 ![4](game_scrn3.png)
 
 **Τελικό Παιχνίδι**
@@ -166,10 +170,12 @@ pixelated graphics που συναντόνται στο παιχνίδι όπω�
  έμεινε στάσιμο. Επίσης έγιναν πολλές αλλαγές και νέες προσθήκες στον εικαστικό και ηχιτικό τομέα καθώς και μερικές καινούργιες στον προγραμματιστικό.
  
  Εικόνα 5:
+ 
 ![5](duths_2.gif)
 
 ##Ενδεικτικές Οθόνες 
 
+### Βίντεο
 [![video](http://img.youtube.com/vi/lYLTkNSXfkw/0.jpg)](https://www.youtube.com/watch?v=lYLTkNSXfkw)
 
 Πατώντας το πλήκτρο Space ξεκινάμε την περιπέτεια μας!
