@@ -82,25 +82,25 @@ Screenshot 4
 
 ####Πρωτότυπο
 
-![Screenshot 5](D2_G1_Screenshot_1.png)
+![d2_g1_screenshot_1](https://cloud.githubusercontent.com/assets/22644005/22221522/1cf591a8-e1bc-11e6-8d13-18ed96cb1511.png)
 
 Screenshot 1
 
 Σκοπός του παιχνιδιού είναι να πλοηγηθεί το διαστημόπλοιο στο τέλος της πίστας, χωρίς να χτυπήσει κάποιο εμπόδιο. Για να το κάνει αυτό, ο παίκτης πρέπει να εισάγει στο παράθυρο που εμφανίζεται πόσες μοίρες να στρίψει. Αν δωθεί θετικός αρνητικός, το διαστημόπλοιο στρίβει προς τα πάνω, αλλιώς, αν δωθεί αρνητικός, στρίβει προς τα κάτω.
 
-![Screenshot 6](D2_G1_Screenshot_2.png)
+![d2_g1_screenshot_2](https://cloud.githubusercontent.com/assets/22644005/22221524/20b1c758-e1bc-11e6-9365-81c777ab75e1.png)
 
 Screenshot 2
 
 Καθώς ο παίκτης πληκτρολογεί, το βελάκι του δείχνει την κατεύθυνση στην οποία θα κινηθεί. Ακόμα, δίνεται στον παίκτη η δυνατότητα να αλλάζει την ταχύτητά του χρησιμοποιώντας το slider που εμφανίζεται πάνω δεξιά στην οθόνη.
 
-![Screenshot 7](D2_G1_Screenshot_3.png)
+![d2_g1_screenshot_3](https://cloud.githubusercontent.com/assets/22644005/22221529/2222222c-e1bc-11e6-8315-afd32227223f.png)
 
 Screenshot 3
 
 Πατώντας το Enter, το διαστημόπλοιο κατευθύνεται προς την κατεύθυνση που εισήγαγε ο χρήστης και στη συνέχεια ξαναζητά νέα τιμή.
 
-![Screenshot 8](D2_G1_Screenshot_4.png)
+![d2_g1_screenshot_4](https://cloud.githubusercontent.com/assets/22644005/22221531/235c0a5e-e1bc-11e6-9bcb-4831e8d39dda.png)
 
 Screenshot 4
 
