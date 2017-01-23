@@ -34,23 +34,23 @@
 * Εργαλείο ανάπτυξης Scratch
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από:
 
-![Maze Game](maze_game.png)
+![maze_game](https://cloud.githubusercontent.com/assets/18286552/22221174/77bab8e0-e1ba-11e6-9849-56954505df83.png)
 https://scratch.mit.edu/projects/11710850/ 
 
 και: 
-![angry birds maze](angry_birds_maze.png)
+![angry_birds_maze](https://cloud.githubusercontent.com/assets/18286552/22221199/8ee4db2c-e1ba-11e6-8793-fdca6ca0bf19.png)
 https://scratch.mit.edu/projects/38155132/
 
 ###Αρχικός σχεδιασμός εφαρμογής
-![prototype1](Angry_Math_Maze_1.png)
+![angry_math_maze_1](https://cloud.githubusercontent.com/assets/18286552/22221212/9ce31ff4-e1ba-11e6-97f8-776d50185943.png)
 
 
 
-![prototype2](Angry_Math_Maze_2.png)
+![angry_math_maze_2](https://cloud.githubusercontent.com/assets/18286552/22221220/a6d0ce6c-e1ba-11e6-967e-efd54a756f4e.png)
 
 
 
-![screen1](Angry_Math_Maze_3.png)
+![angry_math_maze_3](https://cloud.githubusercontent.com/assets/18286552/22221226/b0df7c00-e1ba-11e6-80e8-b8c284ebc191.png)
 ###Σενάριο
 * Το πουλί έχει 5 αυγά. Μία μέρα, ένα γουρούνι του κλέβει τα αυγά. 
 * Το πουλί αρχίζει να ψάχνει παντού και βρίσκει ένα σημείωμα: “Έχω κρύψει τα αυγά σου. Θα βρεις 1 αυγό στο τέλος κάθε λαβύρινθου του νησιού.”
@@ -72,20 +72,20 @@ https://scratch.mit.edu/projects/38155132/
 * Εργαλείο ανάπτυξης Scratch
 * Δανεισμός στοιχείων (ιδέες και κώδικα) από:
 
-![Lunar Lander](lunar_lander.png)
+![lunar_lander](https://cloud.githubusercontent.com/assets/18286552/22221236/bf88df94-e1ba-11e6-8c94-463f4a6c3fd3.png)
 
 https://scratch.mit.edu/projects/72798680/
 
 ###Αρχικός σχεδιασμός εφαρμογής
-![prototype1](moon_Lander1.png)
+![moon_lander1](https://cloud.githubusercontent.com/assets/18286552/22221239/caffc478-e1ba-11e6-9441-9d91e46a6fe8.png)
 
 
 
-![prototype1.2](moon_Lander2.png)
+![moon_lander2](https://cloud.githubusercontent.com/assets/18286552/22221255/d4b2275e-e1ba-11e6-9014-13372af5349e.png)
 
 
 
-![prototype1.3](moon_Lander3.png)
+![moon_lander3](https://cloud.githubusercontent.com/assets/18286552/22221262/dc76d1ba-e1ba-11e6-9fbd-4e3564c19aa5.png)
 
 
 ###Σενάριο:
