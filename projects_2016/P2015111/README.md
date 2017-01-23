@@ -28,19 +28,19 @@
 
 ###Πρωτότυπο
 
-![Screenshot 1](Screenshot_1.png)
+![screenshot_1](https://cloud.githubusercontent.com/assets/22644005/22221379/76b80780-e1bb-11e6-8b5a-89add9b02834.png)
 
 Screenshot 1
 
-![Screenshot 2](Screenshot_2.png)
+![screenshot_2](https://cloud.githubusercontent.com/assets/22644005/22221380/788c82b6-e1bb-11e6-8d63-86a529c87614.png)
 
 Screenshot 2
 
-![Screenshot 3](Screenshot_3.png)
+![screenshot_3](https://cloud.githubusercontent.com/assets/22644005/22221382/79a09c3c-e1bb-11e6-80c9-188eb2bbc5d9.png)
 
 Screenshot 3
 
-![Screenshot 4](Screenshot_4.png)
+![screenshot_4](https://cloud.githubusercontent.com/assets/22644005/22221384/7af26782-e1bb-11e6-841c-8de76c5e4cc4.png)
 
 Screenshot 4
 
