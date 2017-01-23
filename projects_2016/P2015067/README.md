@@ -27,15 +27,15 @@ https://github.com/P15GitHubStudent/pibookgr/
 
 ##Space Race Multiplication
 
-![Space Race Multiplication](SpaceRaceMultiplication.PNG)
+![Space Race Multiplication](https://cloud.githubusercontent.com/assets/22703561/22176951/8cdb049e-e01d-11e6-9d99-98c4b2b27a03.PNG)
 http://www.mathplayground.com/ASB_SpaceRaceMultiplication.html
 
 ##Πρωτότυπο
 
 ###Εικόνα1
-![εικόνα1](SpaceRaceShooting1.PNG)
+![εικόνα1](https://cloud.githubusercontent.com/assets/22703561/22176952/8cdf81cc-e01d-11e6-9b83-daf48a57f04a.PNG)
 ###Εικόνα2
-![εικόνα2](SpaceRaceShooting2.PNG)
+![εικόνα2](https://cloud.githubusercontent.com/assets/22703561/22212524/bec64f90-e199-11e6-9645-60332a12f110.PNG)
 
 ##Σενάριο
 
