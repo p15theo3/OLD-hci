@@ -144,25 +144,25 @@ Screenshot 4
 
 ####Πρωτότυπο
 
-![Screenshot 9](D2_G2_Screenshot_1.png)
+![d2_g2_screenshot_1](https://cloud.githubusercontent.com/assets/22644005/22221716/d4dada30-e1bc-11e6-89c7-50e7da3db908.png)
 
 Screenshot 1
 
 Ο παίκτης οδηγεί το αμάξι με σκοπό να ολοκληρώσει ένα γύρο όσο πιο γρήγορα μπορεί. Για να το κάνει αυτό, πρέπει να εισάγει στο παράθυρο που εμφανίζεται πόσες μοίρες να στρίψει. Αν δωθεί θετικός αρνητικός, το αμάξι στρίβει προς τα πάνω, αλλιώς, αν δωθεί αρνητικός, στρίβει προς τα κάτω.
 
-![Screenshot 9](D2_G2_Screenshot_1.png)
+![d2_g2_screenshot_2](https://cloud.githubusercontent.com/assets/22644005/22221718/d5a2d56c-e1bc-11e6-8d5f-bae58503bcc7.PNG)
 
 Screenshot 2
 
 Καθώς ο παίκτης πληκτρολογεί, το βελάκι του δείχνει την κατεύθυνση στην οποία θα κινηθεί.
 
-![Screenshot 11](D2_G2_Screenshot_3.PNG)
+![d2_g2_screenshot_3](https://cloud.githubusercontent.com/assets/22644005/22221719/d7096ed4-e1bc-11e6-9a4f-939e2911e96c.PNG)
 
 Screenshot 3
 
 Πατώντας το Enter, το αμάξι κατευθύνεται προς την κατεύθυνση που εισήγαγε ο χρήστης και στη συνέχεια ξαναζητά νέα τιμή. Αν ο παίκτης ακουμπήσει το χορτάρι, η ταχύτητα του μειώνεται.
 
-![Screenshot 11](D2_G2_Screenshot_4.PNG)
+![d2_g2_screenshot_4](https://cloud.githubusercontent.com/assets/22644005/22221722/d7f3902c-e1bc-11e6-9235-02ca31a8165c.PNG)
 
 Screenshot 4
 
