@@ -75,6 +75,8 @@ Image 5: Διαφορετικά ο παίκτης χάνει
 
 ![video_game_scratch_image5](https://lh3.googleusercontent.com/-b2aZ_M__PDk/WEWuxS06OoI/AAAAAAAAAS0/WhVlAvv-HNAf9FMxsXWgjqh1VZEWDwECwCJoC/w530-h421-p-rw/5.png)
 
+-------------------------------------------
+
 
 
 4ο Παραδοτέο
