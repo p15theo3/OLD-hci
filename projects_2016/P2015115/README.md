@@ -107,8 +107,5 @@ Online Demo : https://scratch.mit.edu/projects/129727666/
 * Το παιχνίδι μπορείτε να το βρείτε στο παρακάτω link:
   https://scratch.mit.edu/projects/129727666
   
-##Παραδοτέο 4
-
-
 
 ##Tελική Αναφορά
