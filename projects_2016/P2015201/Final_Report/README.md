@@ -40,14 +40,24 @@
 
 * Εργαλείο ανάπτυξης: MIT App Inventor
 * Adobe inDesign (για την αισθητική βελτίωση της εφαρμογής)
+* My Maps για τη δημιουργία χαρτών στο Google Maps
 
 
 ## Δανεισμός στοιχείων (ιδέες και κώδικα) από:
 * http://www.appinventor.org/content/ai2apps/intermediateApps/presidentsQuiz
+* Δανεισμός κώδικα για τη δημιουργία των ερωτήσεων και των απαντήσεων
+*
 * http://explore.appinventor.mit.edu/ai2/android-wheres-my-car
+* Δανεισμός κώδικα για την εκκίνηση του Google Maps και γενικά τη λειτουργία του αισθητήρα τοποθεσίας
+*
 * http://appinventor.mit.edu/explore/displaying-maps.html
+* Δανεισμός κώδικα για την εκκίνηση του Google Maps και γενικά τη λειτουργία του αισθητήρα τοποθεσίας
+*
 * http://www.appinventor.org/content/howDoYou/location/distance
-* Where is my bus
+* Κώδικας για την εύρεση της ευκλείδιας απόστασης
+*
+* Where is my bus (εφαρμογή μαθητών σχολείων Κέρκυρας)
+* Για την αισθητική βελτίωση της εφαρμογής αλλά και ιδέες για τον κώδικα του αισθητήρα απόστασης
 
 ## Βελτιώσεις στη Τελική Παρουσίαση
 
