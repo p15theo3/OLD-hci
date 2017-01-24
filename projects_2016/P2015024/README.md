@@ -45,6 +45,8 @@ Online Game: https://scratch.mit.edu/projects/132997628/
 Ενδεικτικά μέρη κώδικα:
 ![video_game_scratch_image2](https://lh3.googleusercontent.com/-KdXvqk0auzU/WIcbL4woj2I/AAAAAAAAAFs/1vCtt1ibSZYLs3FiI2sK5PaxSVvcBE9ewCJoC/w530-h260-p-rw/%25CE%25A7%25CF%2589%25CF%2581%25CE%25AF%25CF%2582%2B%25CF%2584%25CE%25AF%25CF%2584%25CE%25BB%25CE%25BF.jpg.png)
 
-![video_game_scratch_image3](file:///C:/Users/Kostas/Desktop/%CE%A7%CF%89%CF%81%CE%AF%CF%82%20%CF%84%CE%AF%CF%84%CE%BB%CE%BF2.jpg.png)
+![video_game_scratch_image3](https://lh3.googleusercontent.com/-ql88Ou7dEHk/WIccSNefV7I/AAAAAAAAAGU/t8AlR3Yd3zEqQTl_sGfEiqH1Iu3NG04YwCJoC/w530-h271-p-rw/%25CE%25A7%25CF%2589%25CF%2581%25CE%25AF%25CF%2582%2B%25CF%2584%25CE%25AF%25CF%2584%25CE%25BB%25CE%25BF2.jpg.png)
 
-Συμπεράσματα και αναφορές σε σχετικές/παρόμοιες εργασίες: Εν κατακλείδη, το παιχνίδι αυτό δημουργήθηκε για την συνεχή εξάσκηση ενός μαθητή πάνω στην πράξη της πρόσθεσης. Είναι ουσιαστικά ένα πολύ ωραίο περιβάλλον για τον μαθητή και ταυτόχρονα γίνεται όλο και καλύτερος στην πρόσθεση 2 αριθμών.
+Συμπεράσματα και αναφορές σε σχετικές/παρόμοιες εργασίες: Εν κατακλείδη, το παιχνίδι αυτό δημουργήθηκε για την συνεχή εξάσκηση ενός μαθητή πάνω στην πράξη της πρόσθεσης. Είναι ουσιαστικά ένα πολύ ωραίο περιβάλλον για τον μαθητή και ταυτόχρονα γίνεται όλο και καλύτερος στην πρόσθεση 2 αριθμών. Δεν δούλεψα σε κάποια έτοιμη εργασία γιατί δεν υπήρξε κάτι που να μου άρεσε και επίσης δεν μου αρέσει να παίρνω τις δουλειές κάποιων άλλων και να της κάνω δικές μου με λίγες αλλαγές. Δεν το θεωρώ σωστό.
+
+Online Game: https://scratch.mit.edu/projects/132997628/
