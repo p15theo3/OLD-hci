@@ -22,10 +22,10 @@
 ![start_screen](http://i.imgur.com/r3z66eP.png)
 
 Η επόμενη εικόνα μας κάνει γνωστό τον σκοπό του παιχνιδιού καθώς και το τι θα πρέπει να κάνει ο παίκτης για να περάσει το καθένα από τα επίπεδα μας.
-![second screen](http://imgur.com/MBNpjqY)
+![second screen](http://i.imgur.com/MBNpjqY.png)
 
 Στην επόμενη εικόνα βλέπουμε το πρώτο στάδιο του παιχνιδιού με φόντο την παράσταση ενός ατόμου.
-![first level](http://imgur.com/imjK8c7)
+![first level](http://i.imgur.com/imjK8c7)
 
 Παρακάτω βλέπουμε σε screenshot το δεύτερο επίπεδο αφού έχει ολοκληρωθεί το πρώτο.Το φόντο που βλέπουμε είναι ένα μόριο το οποίο βρέθηκε μέσω google.
 ![second level](http://imgur.com/e0bupP2)
