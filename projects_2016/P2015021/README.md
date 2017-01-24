@@ -18,7 +18,7 @@
  
 Τα γραφικά, ο κώδικας και το περιβάλλον του παιχνιδιού δανείστηκαν από το κλασσικό βιντεοπαιχνίδι [Super Mario](https://scratch.mit.edu/projects/49905542/), προσαρμοσμένα στον εκπαιδευτικό χαρακτήρα της εργασίας.
  
-![start_screen](http://i.imgur.com/undefined.png)
+![start_screen](http://i.imgur.com/r3z66eP.png)
  
  
  
