@@ -143,7 +143,6 @@ https://www.youtube.com/watch?v=XIQ-aE3JPCo
 Παγώνει  τις σφαίρες των αντιπάλων με το Πλήκτρο Α.
 
 
-
 ##Δανεισμός στοιχείων
 Το παιχνίδι μου βασίστικα  ειναι το : Counter Attack(https://en.wikipedia.org/wiki/1941:_Counter_Attack) τα στοιχεία που αφαίρεσα απο το παιχνίδι αυτο είναι οι μηχανισμοί του gameplay του οπως χρήση του αεροπλάνου σου για να καταρρίψει τα εχθρικά αεροσκάφη και να πάρει πόντους.
 Δεν βασίστηκα σε κάποιο κώδικα παιχνιδιού αλλα κώδικας μου φάνηκε χρήσιμος για την υλοποίηση της λειτουργείας της επιλογής πίστας μπορεί να βρεθεί εδώ :
@@ -166,32 +165,30 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![menu2](https://cloud.githubusercontent.com/assets/22703561/22249846/56a8a340-e24d-11e6-8158-9e3da6ec1455.PNG)
 
-
+Οθόνη 2 - Βασικές λειτουργείες:
 
 ![screen2](https://cloud.githubusercontent.com/assets/22703561/22176944/8ca9278a-e01d-11e6-9495-a299e1b59129.PNG)
 
-Οθόνη 2 - Βασικές λειτουργείες
-
-![1](https://cloud.githubusercontent.com/assets/22703561/22176941/8ca062d0-e01d-11e6-9004-76c4cf982971.PNG)
 
 Οθόνη 3 - Μενού επιλογών προεπιλεγμένη πίστα αυτή που είναι επιλεγμένη απο το τετράγωνο
 
-![2](https://cloud.githubusercontent.com/assets/22703561/22176942/8ca37fba-e01d-11e6-8480-28518e2eb396.PNG)
+![1](https://cloud.githubusercontent.com/assets/22703561/22176941/8ca062d0-e01d-11e6-9004-76c4cf982971.PNG)
 
 Οθόνη 4-Τύποι εχθρών: Ο χρήστης επέλεξε την πρώτη πίστα
-![screen41](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
+
+![2](https://cloud.githubusercontent.com/assets/22703561/22176942/8ca37fba-e01d-11e6-8480-28518e2eb396.PNG)
 
 Οθόνη 5 - επιλέχθηκε  η δεύτερη πίστα
-![2](https://cloud.githubusercontent.com/assets/22703561/22176943/8ca6ac4e-e01d-11e6-8120-638021f17bd8.PNG)
 
+![screen41](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
 
 Οθόνη 6- Στιγμιότυπο μάχης 
 
-![screen42](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
+![2](https://cloud.githubusercontent.com/assets/22703561/22176943/8ca6ac4e-e01d-11e6-8120-638021f17bd8.PNG)
 
-
+Οθόνη 7 - Τέλος Παιχνιδιού
 ![gameoverscreen](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
-Οθόνη 7 :οθόνη gameover
+
 
 
 
