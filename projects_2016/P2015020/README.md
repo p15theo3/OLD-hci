@@ -67,9 +67,5 @@ http://ai2.appinventor.mit.edu/?locale=en#5367392088358912
 . Την εφαρμογη θα  βρείτε στο παρακάτω link: http://ai2.appinventor.mit.edu/?locale=en#6583510266281984
 
 
-
-#Παραδοτέο 4
-...
-
 #Τελική Αναφορά
 ...
