@@ -182,24 +182,8 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![screen41](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
 
-Οθόνη 6- Στιγμιότυπο μάχης 
-
-![2](https://cloud.githubusercontent.com/assets/22703561/22176943/8ca6ac4e-e01d-11e6-8120-638021f17bd8.PNG)
-
-Οθόνη 7 - Τέλος Παιχνιδιού
+Οθόνη 6 - Τέλος Παιχνιδιού
 ![gameoverscreen](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
