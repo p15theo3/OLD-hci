@@ -125,4 +125,13 @@ Demo: https://scratch.mit.edu/projects/129292893/
 
 ![ScreenShot](update2.png)
 
+Όταν φτάνεις το Goal
+
+![ScreenShot](win.png)
+
+
+Όταν χάνεις
+
+![ScreenShot](lose.png)
+
 Link παιχνιδιού: https://scratch.mit.edu/projects/129292893/
