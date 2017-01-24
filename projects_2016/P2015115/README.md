@@ -110,7 +110,7 @@ Online Demo : https://scratch.mit.edu/projects/129727666/
 
 ##Tελική Αναφορά
 
-![logo](https://cloud.githubusercontent.com/assets/22676085/22247887/be524496-e244-11e6-8935-4841a2a8fcd4.jpg)
+![logo](Ionio_logo.png)
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ
 
 #ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου Υπολογιστή
