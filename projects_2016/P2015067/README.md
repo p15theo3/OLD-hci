@@ -174,7 +174,7 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![1](https://cloud.githubusercontent.com/assets/22703561/22176941/8ca062d0-e01d-11e6-9004-76c4cf982971.PNG)
 
-Οθόνη 4-Τύποι εχθρών: Τετράγωνο δείχνει στην δεύτερη πίστα
+Οθόνη 4-Τετράγωνο δείχνει στην δεύτερη πίστα
 
 ![2](https://cloud.githubusercontent.com/assets/22703561/22176942/8ca37fba-e01d-11e6-8480-28518e2eb396.PNG)
 
