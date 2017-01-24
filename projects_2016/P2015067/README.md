@@ -116,12 +116,6 @@ https://www.youtube.com/watch?v=XIQ-aE3JPCo
 * PowerUps
 * Επιλογή ανάμεσα σε δύο πίστες
 
-
-
-##Παραδοτέο 4
-
-...
-
 ##Tελική Αναφορά
 ![logo](https://cloud.githubusercontent.com/assets/22703561/22213383/b5550af2-e19c-11e6-9138-7217c9561e79.jpg)
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ 
@@ -167,9 +161,12 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 
 ##Ενδεικτικές Οθόνες
-![menu2](https://cloud.githubusercontent.com/assets/22703561/22249846/56a8a340-e24d-11e6-8158-9e3da6ec1455.PNG)
 
 Οθόνη 1-Μενού επιλογών ο χρήστης εχει ανάμεσα στις επιλογές να παίξει να διαλέξει ανάμεσα σε δύο πίστες η τέλος να βγεί.
+
+![menu2](https://cloud.githubusercontent.com/assets/22703561/22249846/56a8a340-e24d-11e6-8158-9e3da6ec1455.PNG)
+
+
 
 ![screen2](https://cloud.githubusercontent.com/assets/22703561/22176944/8ca9278a-e01d-11e6-9495-a299e1b59129.PNG)
 
