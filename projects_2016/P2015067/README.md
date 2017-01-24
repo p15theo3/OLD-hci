@@ -121,13 +121,13 @@ https://www.youtube.com/watch?v=XIQ-aE3JPCo
 ![logo](https://cloud.githubusercontent.com/assets/22703561/22213383/b5550af2-e19c-11e6-9138-7217c9561e79.jpg)
 #ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ 
 #ΤΜΗΜΑΤΟΣ ΠΛΗΡΟΦΟΡΙΚΗΣ 
-#ΜΑΘΗΜΑ:Εποικινωνία Ανθρλωπου Υπολογιστή
+#ΜΑΘΗΜΑ:Επικοινωνία Ανθρώπου Υπολογιστή
 Επιβλέπων καθηγητής: Χωριανόπουλος Κωνσταντίνος 
 
 Φοιτητής:
 Τουλάκης Αλέξανδρος(Π2015067)
 
-Τίτλος Εργασίας:SpaceShooting game 
+##Τίτλος Εργασίας:SpaceShooting game 
 
 ##Σύνοψη
 Στο μάθημα της επικοινωνίας  ανθρώπου υπολογιστή  ανέλαβα την ανάπτυξη  ενός απλού spaceShooter παιχνιδιού
@@ -191,7 +191,6 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 Οθόνη 6 - Τέλος-Pause παιχνιδιού
 ![pauseloosescreen](https://cloud.githubusercontent.com/assets/22703561/22251870/fd1629da-e254-11e6-9bec-61151cba1bcf.PNG)
-
 
 
 ##Συμπεράσματα
