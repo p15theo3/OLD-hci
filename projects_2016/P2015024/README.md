@@ -40,6 +40,7 @@ Online Game: https://scratch.mit.edu/projects/132997628/
 Ενδεικτικές Εικόνες: 
 
 Μέσα στο παιχνίδι:
+
 ![video_game_scratch_image1](https://lh3.googleusercontent.com/-LTZhCrastRE/WEbfWR0TLCI/AAAAAAAAAD8/4k3JSGx-vdwGA4__MmFmjgtTxbpL4IOiwCJoC/w481-h362-p-rw/%25CE%25A7%25CF%2589%25CF%2581%25CE%25AF%25CF%2582%2B%25CF%2584%25CE%25AF%25CF%2584%25CE%25BB%25CE%25BF.jpg.png)
 
 Ενδεικτικά μέρη κώδικα:
