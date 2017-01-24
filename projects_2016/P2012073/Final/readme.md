@@ -85,3 +85,7 @@ Flappy bird αλλά η κίνηση είναι πιο ομαλή. Επίσης 
 ##Πιθανές απαντήσεις:
 #![ScreenShot](apotelesma3_1.png)
 #![ScreenShot](apotelesma3_2.png)
+
+
+Ένα screenshot από το παιχνίδι την ώρα που έρχονται πιθανές απαντήσεις:
+![ScreenShot](screenshot2_4.png)
