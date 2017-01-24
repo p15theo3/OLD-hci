@@ -69,10 +69,10 @@ Flappy bird αλλά η κίνηση είναι πιο ομαλή. Επίσης 
 Οι πράξεις αυτές προέρχονται από κριτήριο αξιολόγησης τρίτης Δημοτικού.
 
 Πρώτη πράξη:
-![ScreenShot](praksi1.png)
+#![ScreenShot](praksi1.png)
 Πιθανές απαντήσεις:
-![ScreenShot](apotelesma1_1.png)
-![ScreenShot](apotelesma1_2.png)
+#![ScreenShot](apotelesma1_1.png)
+#![ScreenShot](apotelesma1_2.png)
 
 Δεύτερη πράξη:
 ![ScreenShot](praksi2.png)
