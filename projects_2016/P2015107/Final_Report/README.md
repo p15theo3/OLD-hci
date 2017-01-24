@@ -61,5 +61,6 @@ URL  παιχνιδιού : https://scratch.mit.edu/projects/134540149/
 
 Η εργασία μου βασίστηκες, όπως προανέφερα στο κλασσικο φιδάκι(https://scratch.mit.edu/projects/72303326/) και έγιναν κάποιες αλλαγές για να αποκτήσει τον εκπαιδευτικό του χαρακτήρα του(βλέπε Διαδικασία ανάπτυξης).
 
-Βιβλιογραφία : Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό, Κωνσταντίνος Χωριανόπουλος .
-Δικτυογραφία : http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-C102/362/2433,9308/, http://journal.seriousgamessociety.org/index.php?journal=IJSG&page=article&op=view&path%5B%5D=12&path%5B%5D=0 .
+##Βιβλιογραφία : Ο Προγραμματισμός της Διάδρασης: Από τον επιτραπέζιο στον κινητό και διάχυτο υπολογισμό, Κωνσταντίνος Χωριανόπουλος .
+
+##Δικτυογραφία : http://ebooks.edu.gr/modules/ebook/show.php/DSGYM-C102/362/2433,9308/, http://journal.seriousgamessociety.org/index.php?journal=IJSG&page=article&op=view&path%5B%5D=12&path%5B%5D=0 .
