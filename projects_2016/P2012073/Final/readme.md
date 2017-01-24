@@ -70,18 +70,18 @@ Flappy bird αλλά η κίνηση είναι πιο ομαλή. Επίσης 
 
 Πρώτη πράξη:
 #![ScreenShot](praksi1.png)
-Πιθανές απαντήσεις:
+#Πιθανές απαντήσεις:
 #![ScreenShot](apotelesma1_1.png)
 #![ScreenShot](apotelesma1_2.png)
 
-Δεύτερη πράξη:
-![ScreenShot](praksi2.png)
-Πιθανές απαντήσεις:
-![ScreenShot](apotelesma2_1.png)
-![ScreenShot](apotelesma2_2.png)
+#Δεύτερη πράξη:
+#![ScreenShot](praksi2.png)
+#Πιθανές απαντήσεις:
+#![ScreenShot](apotelesma2_1.png)
+#![ScreenShot](apotelesma2_2.png)
 
-Τρίτη πράξη:
-![ScreenShot](praksi3.png)
-Πιθανές απαντήσεις:
-![ScreenShot](apotelesma3_1.png)
-![ScreenShot](apotelesma3_2.png)
+#Τρίτη πράξη:
+#![ScreenShot](praksi3.png)
+#Πιθανές απαντήσεις:
+#![ScreenShot](apotelesma3_1.png)
+#![ScreenShot](apotelesma3_2.png)
