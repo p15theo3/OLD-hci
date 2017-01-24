@@ -128,22 +128,28 @@ Link: https://scratch.mit.edu/projects/140303796/
 
 ##Ενδεικτικές Οθόνες
 ###(1)
-![jemath_builder_1](https://cloud.githubusercontent.com/assets/18286552/22222365/3ca5e892-e1bf-11e6-996c-ec43151b24d1.PNG)
+![jemath_builder_1](https://cloud.githubusercontent.com/assets/18286552/22262046/00f0cfb0-e278-11e6-9436-cd6b50cb74b5.PNG)
 
 
 
 ###(2)
-![jemath_builder_2](https://cloud.githubusercontent.com/assets/18286552/22222377/469ed6d8-e1bf-11e6-9764-02ed6a37cae7.PNG)
+![jemath_builder_2](https://cloud.githubusercontent.com/assets/18286552/22262050/05820d50-e278-11e6-9e1e-af5143331ae0.PNG)
 
 
 
 ###(3)
-![jemath_builder_3](https://cloud.githubusercontent.com/assets/18286552/22222397/55ac17da-e1bf-11e6-9bd1-720659d4135c.PNG)
+![jemath_builder_3](https://cloud.githubusercontent.com/assets/18286552/22262053/08149d80-e278-11e6-8a5d-caa64a9998a8.PNG)
 
 
 
 ###(4)
-![jemath_builder_4](https://cloud.githubusercontent.com/assets/18286552/22222402/5fcbd340-e1bf-11e6-9089-cefeb8b2e4c4.PNG)
+![jemath_builder_4](https://cloud.githubusercontent.com/assets/18286552/22262055/0aaf149e-e278-11e6-814e-a2dade5356ad.PNG)
+
+
+
+###(5)
+![jemath_builder_5](https://cloud.githubusercontent.com/assets/18286552/22262056/0e2ffafc-e278-11e6-9f8a-d361322db5fd.PNG)
+
 
 ##Συμπεράσματα
 Kατά το τέλος της εργασίας συμπέρανα την δυσκολία στην δημιουργία ενός εκπαιδευτικού video game αλλα παράλληλα και το τελικό προϊόν να είναι διασκεδαστικό και ενδιαφέρον. Το JetMath Builder είναι ένα παιχνίδι το οποίο είναι σχετικό με την πρόσθεση που σημαίνει ότι μπορούν να το παίξουν και παιδιά μικρότερης ηλικίας.
