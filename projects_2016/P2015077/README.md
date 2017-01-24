@@ -57,10 +57,10 @@
 * Ιδέες και κομμάτια από κώδικα στα ακόλουθα link: https://scratch.mit.edu/projects/97665849/ και                https://scratch.mit.edu/projects/43793852/.
 
 #FlappyBird Online
-![FlappyBird Online](FlappyBird Online.PNG)
+![flappybird online](https://cloud.githubusercontent.com/assets/22676085/22247684/ccad19d6-e243-11e6-8317-073a54751af9.PNG)
 
 #Πρωτότυπο Εφαρμογής
-![Πρωτότυπο](FlappyBird (Math Edition).PNG)
+![default](https://cloud.githubusercontent.com/assets/22676085/22247700/dada73f0-e243-11e6-8194-9639710cc1f1.PNG)
 
 ###Σενάριο
 
@@ -90,27 +90,27 @@
   https://scratch.mit.edu/projects/43793852/.
 
 #FlappyBird Online
-![FlappyBird Online](FlappyBird Online.PNG)
+![flappybird online](https://cloud.githubusercontent.com/assets/22676085/22247721/eb620b48-e243-11e6-8d51-4baa2c846648.PNG)
 
 #Πρωτότυπο Εφαρμογής
-![Πρωτότυπο Εφαρμογής](Πρωτότυπο Εφαρμογής.PNG)
+![default](https://cloud.githubusercontent.com/assets/22676085/22247700/dada73f0-e243-11e6-8194-9639710cc1f1.PNG)
 
 * Το FlappyBird (Math Edition) είναι ένα παιχνίδι παιχνίδι που συνδυάζει τις γνώσεις και τα
    αντανακλαστικά του χρήστη. Ο σκοπός του εκπαιδευτικού παιχνιδιού είναι να λύσει τις πράξεις,
    να μαζέψει πόντους, για τη βαθμολογία του, να τελειώσει τις πίστες και εν τέλη το παιχνίδι.
 
 ##Εικόνα 1
-![Εικόνα 1](Εικόνα 1.PNG)
+![1](https://cloud.githubusercontent.com/assets/22676085/22247748/08f51542-e244-11e6-9200-97024030a368.PNG)
 
 Στην εικόνα 1 ο παίκτης πριν ξεκινήσει να παίζει έχει τη δυνατότητα να επιλέξει χρώμα για το παίχτη του.
 
 ##Εικόνα 2
-![Εικόνα 2](Εικόνα 2.PNG)
+![2](https://cloud.githubusercontent.com/assets/22676085/22247756/120315d0-e244-11e6-8a93-5104fa50a065.PNG)
 
 Στην εικόνα 2 λίγο πριν ξεκινήσει το παιχνίδι δίνονται στο χρήστη οι επιλογές για το χειρισμό του παίκτη του.
 
 ##Εικόνα 3
-![Εικόνα 3](Εικόνα 3.PNG)
+![3](https://cloud.githubusercontent.com/assets/22676085/22247763/1a204440-e244-11e6-937d-360dd8795158.PNG)
 
 Στην εικόνα 3 έχουμε το περιβάλλον της διάδρασης για το χρήστη.
 
