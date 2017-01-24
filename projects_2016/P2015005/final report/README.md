@@ -59,7 +59,7 @@ Link για το παιχνίδι: https://scratch.mit.edu/projects/128329339/
 ![screen](screen.jpg)
 
 
-##Αρχική αφήγηση που παρουσιάζει την ιστορία 
+##Αρχική αφήγηση που παρουσιάζεται η ιστορία 
 
 ![screen1](screen1.jpg)
 
@@ -82,7 +82,7 @@ Link για το παιχνίδι: https://scratch.mit.edu/projects/128329339/
 
 
 
-![screen4.1](screen4.1.JPG)
+![screen4.1](screen4.1.jpg)
 
 
 
