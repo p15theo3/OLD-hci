@@ -130,7 +130,7 @@ https://www.youtube.com/watch?v=XIQ-aE3JPCo
 
 ##Σύνοψη
 Στο μάθημα της επικοινωνίας  ανθρώπου υπολογιστή  ανέλαβα την ανάπτυξη  ενός απλού spaceShooter παιχνιδιού
-με χρήση  c++ και sfml online demo:htpps://www.youtube.com/watch1201212/:D fake link 
+με χρήση  c++ και sfml online demo:https://youtu.be/58CYcEoLaPo 
 
 ##Εισαγωγή
 
