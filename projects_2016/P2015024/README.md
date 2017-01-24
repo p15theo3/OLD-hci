@@ -43,7 +43,7 @@ Online Game: https://scratch.mit.edu/projects/132997628/
 ![video_game_scratch_image1](https://lh3.googleusercontent.com/-LTZhCrastRE/WEbfWR0TLCI/AAAAAAAAAD8/4k3JSGx-vdwGA4__MmFmjgtTxbpL4IOiwCJoC/w481-h362-p-rw/%25CE%25A7%25CF%2589%25CF%2581%25CE%25AF%25CF%2582%2B%25CF%2584%25CE%25AF%25CF%2584%25CE%25BB%25CE%25BF.jpg.png)
 
 Ενδεικτικά μέρη κώδικα:
-![video_game_scratch_image2](file:///C:/Users/Kostas/Desktop/%CE%A7%CF%89%CF%81%CE%AF%CF%82%20%CF%84%CE%AF%CF%84%CE%BB%CE%BF.jpg.png)
+![video_game_scratch_image2](https://plus.google.com/u/0/photos/photo/111532698178978207209/6379097288222478178?icm=false.png)
 
 ![video_game_scratch_image3](file:///C:/Users/Kostas/Desktop/%CE%A7%CF%89%CF%81%CE%AF%CF%82%20%CF%84%CE%AF%CF%84%CE%BB%CE%BF2.jpg.png)
 
