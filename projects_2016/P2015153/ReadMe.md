@@ -27,8 +27,8 @@
 ### Screenshots:
 
 ScreenShot1
-![Pac-Man ScreenShot 1] (PM1.jpg)
+![Pac-Man ScreenShot 1](Pacman1.jpg)
 ScreenShot2
-![Pac-Man ScreenShot 2] (PM2.jpg)
+![Pac-Man ScreenShot 2] (Pacman2.jpg)
 ο κωδικας με τις πραξεις
-![Pac-Man ScreenShot 2] (PMextraCode.jpg)
+![Pac-Man ScreenShot 3] (PMextraCode.jpg)
