@@ -112,5 +112,4 @@ http://ai2.appinventor.mit.edu/?locale=en#5367392088358912
 
 Οι κώδικες στους οποίους βασίστηκα είναι ο εξής:http://ai2.appinventor.mit.edu/?locale=en#6703279371976704
 http://ai2.appinventor.mit.edu/?locale=en#5367392088358912
-. Την εφαρμογη θα  βρείτε στο παρακάτω link: http://ai2.appinventor.mit.edu/?locale=en#6583510266281984
 
