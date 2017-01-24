@@ -45,11 +45,11 @@ URL  παιχνιδιού : https://scratch.mit.edu/projects/134540149/
 
 Οθόνη έναρξης
 
-![Screen1](fake1.png)
+![Screen1](new1.png)
 
 Οθόνη παιχνιδιού 
 
-![Screen2](fake2.png)
+![Screen2](new2.png)
 
  
 ##Συμπεράσματα 
