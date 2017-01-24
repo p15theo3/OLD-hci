@@ -11,6 +11,9 @@
 A. 10 παραθέσεις : https://github.com/pibook/pibookgr/pull/11
 
 B. 10 νέες εικόνες με λεζάντα και ελεύθερα πνευματικά δικαιώματα : https://github.com/randomperson19/pibookgr/tree/gh-pages/images/credits
+
+Γ. προστέθηκε και μία σύντομη βιογραφία του Bill Buxton : https://github.com/randomperson19/pibookgr/tree/_biography
+   σε καινούργιο branch.
  
 
 ### Παραδοτέο 1
