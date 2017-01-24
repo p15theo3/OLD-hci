@@ -140,4 +140,4 @@
 
 ##Τελική αναφορά
 
-###Online Demo (work-in-progress): https://scratch.mit.edu/projects/141171006/
+###Online: https://scratch.mit.edu/projects/141171006/
