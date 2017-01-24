@@ -192,9 +192,9 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![screen42](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
 
-Οθόνη 7 :οθόνη gameover
-![gameoverscreen](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
 
+![gameoverscreen](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
+Οθόνη 7 :οθόνη gameover
 
 
 
