@@ -159,7 +159,7 @@ ai2.appinventor.mit.edu/?galleryId=4713945479512064
 
 ##Προδιαγραφές 
 
-![Specifications]()
+![Specifications](specs.jpg)
 
 ##Επιλογή εργαλείων 
 
