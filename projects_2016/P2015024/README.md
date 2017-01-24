@@ -46,3 +46,5 @@ Online Game: https://scratch.mit.edu/projects/132997628/
 ![video_game_scratch_image2](file:///C:/Users/Kostas/Desktop/%CE%A7%CF%89%CF%81%CE%AF%CF%82%20%CF%84%CE%AF%CF%84%CE%BB%CE%BF.jpg.png)
 
 ![video_game_scratch_image3](file:///C:/Users/Kostas/Desktop/%CE%A7%CF%89%CF%81%CE%AF%CF%82%20%CF%84%CE%AF%CF%84%CE%BB%CE%BF2.jpg.png)
+
+Συμπεράσματα και αναφορές σε σχετικές/παρόμοιες εργασίες: Εν κατακλείδη, το παιχνίδι αυτό δημουργήθηκε για την συνεχή εξάσκηση ενός μαθητή πάνω στην πράξη της πρόσθεσης. Είναι ουσιαστικά ένα πολύ ωραίο περιβάλλον για τον μαθητή και ταυτόχρονα γίνεται όλο και καλύτερος στην πρόσθεση 2 αριθμών.
