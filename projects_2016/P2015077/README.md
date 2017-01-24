@@ -214,7 +214,7 @@ GIMP 2: Είναι εργαλείο που επικεντρώνεται κυρί
 ![gameplay3](https://cloud.githubusercontent.com/assets/22676085/22248022/5d5e96de-e245-11e6-94ae-b2d1453c067f.JPG)
 
 ###Εικόνα με το παίχτη να βλέπει τις σωστές απαντήσεις σε μύνημα στο γύρο του
-![level finished](https://cloud.githubusercontent.com/assets/22676085/22248091/b07d08c8-e245-11e6-8403-0842b882ee59.JPG)
+![levelfinished](https://cloud.githubusercontent.com/assets/22676085/22248347/d3d8b564-e246-11e6-984b-c9ed4b27f527.JPG)
 
 ###Η τελευτέα εικόνα του παιχνιδιού όταν ο παίκτης τελειώνει το παιχνίδι.
 ![when-game-is-finished](https://cloud.githubusercontent.com/assets/22676085/22248156/ec330822-e245-11e6-96b0-69148d85b73d.JPG)
