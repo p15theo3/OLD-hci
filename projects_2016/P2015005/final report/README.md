@@ -61,7 +61,7 @@ Link για το παιχνίδι: https://scratch.mit.edu/projects/128329339/
 
 ##Αρχική αφήγηση που παρουσιάζει την ιστορία 
 
-![screen1](screen1.JPG)
+![screen1](screen1.jpg)
 
 
 ![screen2](screen2.JPG)
