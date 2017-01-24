@@ -182,8 +182,8 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![screen41](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
 
-Οθόνη 6 - Τέλος Παιχνιδιού
-![gameoverscreen](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
+Οθόνη 6 - Τέλος-Pause παιχνιδιού
+![pauseloosescreen](https://cloud.githubusercontent.com/assets/22703561/22251870/fd1629da-e254-11e6-9bec-61151cba1bcf.PNG)
 
 
 
