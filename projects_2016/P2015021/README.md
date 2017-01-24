@@ -25,22 +25,22 @@
 ![second screen](http://i.imgur.com/MBNpjqY.png)
 
 Στην επόμενη εικόνα βλέπουμε το πρώτο στάδιο του παιχνιδιού με φόντο την παράσταση ενός ατόμου.
-![first level](http://i.imgur.com/imjK8c7)
+![first level](http://i.imgur.com/imjK8c7.png)
 
 Παρακάτω βλέπουμε σε screenshot το δεύτερο επίπεδο αφού έχει ολοκληρωθεί το πρώτο.Το φόντο που βλέπουμε είναι ένα μόριο το οποίο βρέθηκε μέσω google.
-![second level](http://imgur.com/e0bupP2)
+![second level](http://i.imgur.com/e0bupP2.png)
 
 Έπειτα βλέπουμε το τρίτο επίπεδο του παιχνιδιού μετά την ολοκλήρωση του δευτέρου.Το φόντο που βλέπουμε είναι ένας ιστός σε μικροσκόπιο ο οποίος επίσης βρέθηκε μέσω google.
- ![third level](http://imgur.com/y529ZtP)
+ ![third level](http://i.imgur.com/y529ZtP.png)
  
  Και πάει λέγοντας με το τέταρο και το πέμπτο επίπεδο στα οποία βλέπουμε στο φόντο ένα όργανο κι ένα σύστημα οργάνων αντίστοιχα.
  
- ![fourth level](http://imgur.com/a2Z8EHR)
- ![fifth level](http://imgur.com/RwR3q2R)
+ ![fourth level](http://i.imgur.com/a2Z8EHR.png)
+ ![fifth level](http://i.imgur.com/RwR3q2R.png)
  
 Αφού ολοκληρωθούν όλα τα στάδια του παιχνιδιού εμφανίζεται ένα μήνυμα για να συγχαρεί τον χρήστη και να τον ευχαριστήσει.Και μια τελική φωτογραφία με την συνολική πρόοδο του απεικονίζοντας με την σειρά συλλογής όλα τα.Η πρώτη εικόνα φτιάχτηκε μέσω ζωγραφικής windows και η δεύτερη βρέθηκε μέσω google.
- ![end screen](http://imgur.com/KU9wo44)
- ![final](http://imgur.com/eBaOmnq)
+ ![end screen](http://i.imgur.com/KU9wo44.png)
+ ![final](http://i.imgur.com/eBaOmnq.png)
 
 ## Συμπεράσματα
  
