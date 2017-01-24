@@ -15,7 +15,7 @@
 Ο παίκτης εχει μονο 3 ζωές
 
 # 3. Το link του παιχνιδιου
-* link: [Pac-man HCI](https://scratch.mit.edu/projects/130473198/#fullscreen)
+* link: [Pac-man HCI](https://scratch.mit.edu/projects/141521455/#fullscreen)
 
 # 4. Προβληματα
 Το παιχνιδι δεν μπορει να αναγνωρισει τα ορια της πιστας (θα ειναι ολοκληρομενο στο τελικο.)
