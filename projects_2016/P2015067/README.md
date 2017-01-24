@@ -180,17 +180,19 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 Οθόνη 3 - Μενού επιλογών προεπιλεγμένη πίστα αυτή που είναι επιλεγμένη απο το τετράγωνω
 
 ![2](https://cloud.githubusercontent.com/assets/22703561/22176942/8ca37fba-e01d-11e6-8480-28518e2eb396.PNG)
+
+Οθόνη 4 - επιλέχθηκε  η δεύτερη πίστα
 ![2](https://cloud.githubusercontent.com/assets/22703561/22176943/8ca6ac4e-e01d-11e6-8120-638021f17bd8.PNG)
 
 Οθόνη 3-Τύποι εχθρών: UFO(σε διάφορα χρώματα) κινούνται περιοδικά σε τυχαίες κατευθυνσεις(άξονας y) προκειμένου να είναι ποιο δύσκολο να τα καταστρέψεις, επίσης μπορούν να πυροβολήσουν. Ακόμα υπάρχουν Asteroids τα οποία απλά κινούνται οριζόντια.
 
 ![screen41](https://cloud.githubusercontent.com/assets/22703561/22176949/8cca6f1c-e01d-11e6-8eb1-aab405cdc787.PNG)
 
-Οθόνη 4- Στιγμιότυπο μάχης 
+Οθόνη 6- Στιγμιότυπο μάχης 
 
 ![screen42](https://cloud.githubusercontent.com/assets/22703561/22176947/8cc4cb52-e01d-11e6-99fb-b545d1e08ece.PNG)
 
-Οθόνη 5 :οθόνη gameover
+Οθόνη 7 :οθόνη gameover
 
 
 
