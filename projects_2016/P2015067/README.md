@@ -173,7 +173,12 @@ https://www.sfml-dev.org/tutorials/2.4/graphics-view.php
 
 ![screen2](https://cloud.githubusercontent.com/assets/22703561/22176944/8ca9278a-e01d-11e6-9495-a299e1b59129.PNG)
 
+Οθόνη 2 - Βασικές λειτουργείες
+
 ![1](https://cloud.githubusercontent.com/assets/22703561/22176941/8ca062d0-e01d-11e6-9004-76c4cf982971.PNG)
+
+Οθόνη 3 - Μενού επιλογών προεπιλεγμένη πίστα αυτή που είναι επιλεγμένη απο το τετράγωνω
+
 ![2](https://cloud.githubusercontent.com/assets/22703561/22176942/8ca37fba-e01d-11e6-8480-28518e2eb396.PNG)
 ![2](https://cloud.githubusercontent.com/assets/22703561/22176943/8ca6ac4e-e01d-11e6-8120-638021f17bd8.PNG)
 
